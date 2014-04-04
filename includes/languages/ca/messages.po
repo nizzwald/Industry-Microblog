@@ -1,0 +1,2113 @@
+# Catalan translation for jisko
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the jisko package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jisko\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-07-26 17:29-0700\n"
+"PO-Revision-Date: 2010-07-28 02:37+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-07-28 03:04+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: pages/ajax.php:95
+msgid "The note does not exist"
+msgstr "Aquesta nota no existeix"
+
+#: pages/ajax.php:113
+msgid "There was an error while trying to close your session"
+msgstr "Hi ha hagut algun error mentre es finalitzava la sessió."
+
+#: pages/ajax.php:135 pages/post.php:42
+#: themes/transparency/pages/header.php:50
+msgid "The note is too short"
+msgstr "La nota és massa breu"
+
+#: pages/ajax.php:138 pages/post.php:45
+#: themes/transparency/pages/header.php:51
+msgid "The note is too long"
+msgstr "La nota és massa llarga"
+
+#: pages/ajax.php:141 pages/post.php:48
+msgid "You are not logged in correctly."
+msgstr "No has entrat correctament"
+
+#: pages/ajax.php:144
+msgid "The user doesn't exist"
+msgstr "L'usuari no existeix"
+
+#: pages/ajax.php:150
+msgid "The user isn't following you"
+msgstr "Aquest usuari no et segueix"
+
+#: pages/ajax.php:153 pages/ajax.php:244 pages/post.php:63
+msgid "Cowboy!"
+msgstr "Iep Vaquer!"
+
+#: pages/ajax.php:215
+msgid "You are not allowed to see the profile of this user"
+msgstr "No t'és permès de veure el perfil d'aquest usuari."
+
+#: pages/ajax.php:217
+msgid "This user doesn't exists"
+msgstr "Aquest usuari no existeix."
+
+#: pages/ajax.php:232
+msgid "You are not allowed to erase others' notes"
+msgstr "No t'és permès d'eliminar les notes dels altres"
+
+#: pages/ajax.php:233
+msgid "The note was successfully deleted"
+msgstr "La nota s'ha eliminat satisfactòriament"
+
+#: pages/ajax.php:235
+msgid "You must specify a note ID"
+msgstr "Has d'especificar una ID de la nota"
+
+#: pages/ajax.php:258
+msgid "The user you are trying to follow is ignoring you"
+msgstr "L'usuari que intentes seguir t'està ignorant"
+
+#: pages/ajax.php:260
+msgid "You are ignoring the user"
+msgstr "Estàs ignorant l'usuari"
+
+#: pages/ajax.php:267
+msgid "There was an error while trying to follow the user. Please retry"
+msgstr ""
+"HI ha hagut un error mentre s'intentava seguir l'usuari. Tornar-ho a "
+"intentar si us plau"
+
+#: pages/ajax.php:269
+msgid "You are not logged in"
+msgstr "No has entrat el teu usuari"
+
+#: pages/download.php:27
+msgid "Note doesn't exists"
+msgstr "La nota no existeix"
+
+#: pages/download.php:33
+msgid "File doesn't exists"
+msgstr "L'arxiu no existeix"
+
+#: pages/following.php:26 themes/transparency/pages/notes.php:84
+#: themes/transparency/pages/settings.php:167
+#: themes/transparency/pages/settings.php:169
+#: themes/transparency/pages/sidebar.php:53
+#: themes/transparency/pages/sidebar.php:66
+#: themes/transparency/pages/sidebar.php:105
+#: themes/transparency/pages/sidebar.php:116
+#: themes/transparency/pages/sidebar.php:201
+#: themes/transparency/pages/sidebar.php:207
+msgid "Following"
+msgstr "Seguint"
+
+#: pages/login.php:64 pages/mobile/login.php:35
+#: pages/mobile/template/header.php:39 themes/transparency/pages/login.php:1
+#: themes/transparency/pages/sidebar.php:257
+msgid "Login"
+msgstr "Login"
+
+#: pages/login.php:70 pages/settings.php:98 pages/settings.php:271
+#: pages/settings.php:424 pages/settings.php:427 pages/settings.php:482
+#: pages/settings.php:542
+msgid "Settings updated!"
+msgstr "Preferències actualitzades!"
+
+#: pages/login.php:78 pages/login.php:161
+msgid "Your username is banned"
+msgstr "Has sigut vetat"
+
+#: pages/login.php:81 pages/login.php:177
+msgid "This account has not been confirmed yet"
+msgstr "Aquest compte encara no està confirmat"
+
+#: pages/login.php:84 pages/login.php:182 pages/mobile/login.php:20
+msgid "Incorrect password"
+msgstr "Contrasenya incorrecta"
+
+#: pages/login.php:87 pages/login.php:187
+msgid "The username does not exist"
+msgstr "L'usuari no existeix"
+
+#: pages/login.php:90 pages/login.php:151 pages/mobile/login.php:26
+msgid "There are empty fields, fill them and try again"
+msgstr "Hi ha camps buits, omple'ls i prova-ho de nou"
+
+#: pages/login.php:93 pages/settings.php:314
+msgid "Invalid OpenID url."
+msgstr "URL OpenID no vàlida"
+
+#: pages/login.php:96
+#, php-format
+msgid "OpenID Error: %s (%s)"
+msgstr "OpenID Error: %s (%s)"
+
+#: pages/login.php:99
+msgid "OpenID authorization canceled by user."
+msgstr "Autorització OpenID cancel·lada per l'usuari."
+
+#: pages/login.php:102
+msgid "Could not validate your OpenID Identity"
+msgstr "No es pot validar la teva identitat OpenID"
+
+#: pages/login.php:105
+msgid "Please login and then retry"
+msgstr "Si us plau, entra i tornar-ho a provar"
+
+#: pages/notes.php:36 themes/transparency/pages/sidebar.php:56
+#: themes/transparency/pages/sidebar.php:77
+#: themes/transparency/pages/sidebar.php:113
+#: themes/transparency/pages/sidebar.php:143
+#: themes/transparency/pages/sidebar.php:158
+#: themes/transparency/pages/sidebar.php:204
+#: themes/transparency/pages/sidebar.php:218
+#: themes/transparency/pages/sidebar.php:233
+msgid "Notes"
+msgstr "Notes"
+
+#: pages/settings.php:26 themes/transparency/pages/header.php:73
+msgid "Settings"
+msgstr "Preferències"
+
+#: pages/settings.php:77 pages/settings.php:407 pages/settings.php:454
+#: pages/settings.php:464 pages/settings.php:495
+msgid "You are not allowed to perform this operation"
+msgstr "No estàs autoritzat a poder fer aquesta operació"
+
+#: pages/settings.php:83
+msgid "There was a problem while trying to delete your avatar"
+msgstr "Hi ha hagut un error mentre s'intentava eliminar el teu avatar"
+
+#: pages/settings.php:104
+msgid "Invalid extension!"
+msgstr "Extensió no vàlida!"
+
+#: pages/settings.php:107
+msgid "File too big!"
+msgstr "L'arxiu és massa gran!"
+
+#: pages/settings.php:110
+msgid "There was a problem while trying to upload your avatar"
+msgstr "Hi ha hagut un error mentre s'intentava pujar el teu avatar"
+
+#: pages/settings.php:113
+msgid "There was a problem while trying to delete your previous avatar"
+msgstr "Hi ha hagut un error mentre s'intentava eliminar l'anterior avatar"
+
+#: pages/settings.php:258
+msgid "We have changed successfully your email"
+msgstr "Hem aconseguit canviar satisfactòriament el teu correu electrònic"
+
+#: pages/settings.php:275
+msgid "Nothing changed..."
+msgstr "Res canviat..."
+
+#: pages/settings.php:278
+msgid "We have sent you a confirm message to the new mail!"
+msgstr "Hem enviat un missatge de confirmació al teu nou correu!"
+
+#: pages/settings.php:287 pages/register.php:70
+msgid "Taken username, please choose another!"
+msgstr "nom d'usuari agafat, si us plau tria'n un altre!"
+
+#: pages/settings.php:290 pages/register.php:82
+msgid "Sorry! Your choosen username appears to be invalid"
+msgstr "Perdona! Però el nom d'usuari triat sembla no vàlid"
+
+#: pages/settings.php:293
+msgid "Not valid email"
+msgstr "Correu electrònic no vàlid"
+
+#: pages/settings.php:296
+msgid "E-mail has already been taken"
+msgstr "Ja has posat el correu electrònic"
+
+#: pages/settings.php:299
+msgid "Not valid jabber account"
+msgstr "Compte jabber no vàlid"
+
+#: pages/settings.php:302
+msgid "Jabber has already been taken"
+msgstr "Ja has posat el correu Jabber"
+
+#: pages/settings.php:305
+msgid "Passwords don't match"
+msgstr "Les contresenyes no coincideixen"
+
+#: pages/settings.php:308
+msgid "The provided OpenID url was already linked with another account"
+msgstr "La URL OpenID que ens has donat ja està vinculada a un altre compte"
+
+#: pages/settings.php:311
+msgid "Error while trying to contact the OpenID server"
+msgstr "Error al intentar contactar  amb el servidor OpenID"
+
+#: pages/settings.php:317
+msgid "Invalid password/login verification"
+msgstr "Verificació invàlida de la contrassenya/entrada"
+
+#: pages/settings.php:320
+msgid "There was an error while trying to migrate your user data"
+msgstr ""
+
+#: pages/settings.php:409
+msgid "There was a problem while trying to delete your background"
+msgstr "Hi ha hagut un problema quan s'intentava eliminar el teu fons"
+
+#: pages/settings.php:433
+msgid "Invalid background extension"
+msgstr "Extensió no vàlida per a la imatge de fons"
+
+#: pages/settings.php:436
+msgid "Background image too big!"
+msgstr "Imatge de fons massa gran!"
+
+#: pages/settings.php:439
+msgid "There was a problem while trying to delete your previous background"
+msgstr ""
+"Hi ha hagut un error mentre s'intentava eliminar el teu anterior fons"
+
+#: pages/settings.php:442
+msgid "There was a problem while trying to upload your background"
+msgstr "Hi ha hagut un error mentre s'intentava pujar el teu fons"
+
+#: pages/settings.php:479
+msgid "Disabled twitter integration with success"
+msgstr "S'ha aconseguit desactivar la integració amb Twitter"
+
+#: pages/settings.php:492
+msgid "There was a problem while trying to link your account with Twitter"
+msgstr ""
+
+#: pages/followers.php:26 themes/transparency/pages/sidebar.php:54
+#: themes/transparency/pages/sidebar.php:107
+#: themes/transparency/pages/sidebar.php:109
+#: themes/transparency/pages/sidebar.php:202
+msgid "Followers"
+msgstr "Seguidors"
+
+#: pages/post.php:33
+msgid "The uploaded file is too big"
+msgstr "L'arxiu que vols pujar és massa gran"
+
+#: pages/post.php:36
+msgid "The uploaded file is not allowed"
+msgstr "L'arxiu que vols pujar no està autoritzat"
+
+#: pages/post.php:39
+msgid "There was a problem while trying to upload the attached file"
+msgstr "Hi ha hagut un error mentre s'intentava pujar l'arxiu adjunt"
+
+#: pages/post.php:51
+msgid "The user does not exist"
+msgstr "L'usuari no existeix"
+
+#: pages/post.php:57
+msgid "The user is not following you"
+msgstr "L'usuari no t'està seguint"
+
+#: pages/post.php:60
+msgid "You can't send a private note to yourself"
+msgstr ""
+
+#: pages/register.php:30 themes/transparency/pages/register.php:7
+#: themes/transparency/pages/sidebar.php:261
+msgid "Register"
+msgstr "Registrar"
+
+#: pages/register.php:38 pages/trouble_login.php:75
+msgid "Check your email (including SPAM) to activate your account"
+msgstr ""
+"Revisa el teu correu electrònic (inclòs SPAM) per activar el teu compte"
+
+#: pages/register.php:40 pages/register.php:45
+msgid "You can access now with your account, thank you!"
+msgstr "Pots accedir ara al teu compte, gràcies!"
+
+#: pages/register.php:52
+msgid "Invalid confirmation code!"
+msgstr "Codi de confirmació no Vàlid!"
+
+#: pages/register.php:61
+msgid "You need a valid token to register an account!"
+msgstr "Necessites una invitació vàlida per registrar un compte!"
+
+#: pages/register.php:64
+msgid "Sorry! The provided email is invalid"
+msgstr "Ho sentim! Però el correu electrònic que ens has dit no és vàlid"
+
+#: pages/register.php:67
+msgid "You must accept the Terms of Service (TOS)"
+msgstr "Has d'acceptar els Termes de Servei"
+
+#: pages/register.php:73
+msgid "Email is taken, please choose another!"
+msgstr "email agafat, si us plau tria'n un altre!"
+
+#: pages/register.php:76
+msgid "Passwords don't match!"
+msgstr "Les contrasenyes no coïncideixen!"
+
+#: pages/register.php:79 pages/trouble_login.php:33
+msgid "Incorrect reCAPTCHA code!"
+msgstr "Codig de reCAPTCHA incorrecte!"
+
+#: pages/register.php:85
+msgid "There was a problem while trying to create your user"
+msgstr "Hi ha hagut un error mentre s'intentava crear el teu usuari"
+
+#: pages/search.php:44
+msgid "Search results"
+msgstr "Resultats de la recerca"
+
+#: pages/user.php:37 pages/mobile/user.php:28
+#: themes/transparency/pages/404.php:1
+msgid "Not found"
+msgstr "No s'ha trobat"
+
+#: pages/user.php:54 pages/mobile/user.php:45
+#, php-format
+msgid "%username's profile"
+msgstr "Perfil de %username"
+
+#: includes/api.php:170
+msgid "Public notes from all the users"
+msgstr "Notes públiques de tots els usuaris"
+
+#: includes/api.php:175
+#, php-format
+msgid "Notes of %s + it's followings"
+msgstr "Notes de %s + a qui segueix"
+
+#: includes/api.php:201 includes/api.php:202
+#, php-format
+msgid "Notes of %s"
+msgstr "Notes de %s"
+
+#: includes/api.php:216
+#, php-format
+msgid "Twitter followings of %s"
+msgstr "Qui segueix a Twitter %s"
+
+#: includes/api.php:222
+#, php-format
+msgid "Replies for %s"
+msgstr "Respostes de %s"
+
+#: includes/api.php:375
+#, php-format
+msgid "Private notes sent by %s"
+msgstr "Notes privades enviades per %s"
+
+#: includes/api.php:378
+#, php-format
+msgid "Private notes of %s"
+msgstr "Notes privades de %s"
+
+#: includes/api.php:888 includes/api.php:889
+msgid "Favorite notes of "
+msgstr "Notes favorites de "
+
+#: includes/forms.php:23 themes/transparency/pages/header.php:75
+msgid "Administration"
+msgstr "Administració"
+
+#: includes/forms.php:39
+msgid "General"
+msgstr "General"
+
+#: includes/forms.php:40
+msgid "Environment"
+msgstr "Entorn"
+
+#: includes/forms.php:41
+msgid "URL Shortening"
+msgstr "Servei d'escurçament d'URL"
+
+#: includes/forms.php:42
+msgid "Themes"
+msgstr "Temes"
+
+#: includes/forms.php:43
+msgid "Users"
+msgstr "Usuaris"
+
+#: includes/forms.php:44
+msgid "Misc"
+msgstr "Miscel·lània"
+
+#: includes/forms.php:57
+#, php-format
+msgid "If you are having problems with Jisko contact us at %s"
+msgstr "Si tens problemes amb Jisko contacta amb nosaltres a %s"
+
+#: includes/functions.php:668 themes/transparency/pages/header.php:45
+msgid "right now"
+msgstr "ara mateix"
+
+#: includes/functions.php:670 themes/transparency/pages/header.php:46
+#, php-format
+msgid "%ss ago"
+msgstr "fa %ss"
+
+#: includes/functions.php:674 themes/transparency/pages/header.php:47
+#, php-format
+msgid "%sm ago"
+msgstr "fa %sm"
+
+#: includes/functions.php:679
+msgid "about 1h ago"
+msgstr "fa aprox. 1h"
+
+#: includes/functions.php:680 themes/transparency/pages/header.php:48
+#, php-format
+msgid "about %sh ago"
+msgstr "fa aprox. %sh"
+
+#: includes/functions.php:685
+msgid "about 1d ago"
+msgstr "fa aprox. 1d"
+
+#: includes/functions.php:686 themes/transparency/pages/header.php:49
+#, php-format
+msgid "about %sd ago"
+msgstr "fa aprox. %sd"
+
+#: includes/functions.php:689
+#, php-format
+msgid "the %s at %s"
+msgstr "el %s a les %s"
+
+#: includes/functions.php:1986
+msgid "Disabled"
+msgstr "Desactivat"
+
+#: includes/functions.php:1986
+msgid "random"
+msgstr "aleatori"
+
+#: includes/thumbnail.php:31
+msgid "File don't exists"
+msgstr "L'arxiu no existeix"
+
+#: includes/thumbnail.php:53
+msgid "Format not supported"
+msgstr "Format no suportat"
+
+#: includes/thumbnail.php:87
+msgid "Bad properties."
+msgstr "Una balena com la de Twitter?"
+
+#: includes/thumbnail.php:122
+msgid "Image exists"
+msgstr "La imatge ja existeix"
+
+#: includes/mails.php:60
+#, php-format
+msgid "Turn off this notifications at %s"
+msgstr "Apaga aquestes notificacions a %s"
+
+#: includes/mails.php:62
+#, php-format
+msgid "Have you got any problem? Contact the administrator at %s"
+msgstr "Tens algun problema? Contacta amb l'administrador a %s"
+
+#: includes/mails.php:63
+#, php-format
+msgid ""
+"Since you got registered on %s, you agree with the Terms of Service (TOS) "
+"placed in %s"
+msgstr ""
+"Des de que estàs registrat a %s, tu has acceptat els Termes de Servei (TOS) "
+"anunciats aquí %s"
+
+#: includes/mails.php:92
+#, php-format
+msgid ""
+"Someone (probably you) has just requested a password reset for the account "
+"with %username as the username. Because we need to confirm the request, "
+"please click the link placed below in order to continue the process:"
+msgstr ""
+"Algú (probablement tu) ha demanat reiniciar la contrasenya de l'usuari "
+"%username. Perquè necessitem confirmar aquesta petició, si us plau clica "
+"l'enllaç d'aquí sota per continuar amb el procés:"
+
+#: includes/mails.php:92
+msgid ""
+"Please remember that this link will expire in 24h, so if you didn't request "
+"a password change, simply ignore this email"
+msgstr ""
+"Si us plau recorda que aquest enllaç expirarà en 24 hores, així doncs, si "
+"realment no vols canviar la contrasenya, simplement ignora aquest correu"
+
+#: includes/mails.php:94
+msgid "Password reset instructions"
+msgstr "Instruccions per recuperar la contrasenya"
+
+#: includes/mails.php:94
+msgid "Password reset"
+msgstr "Contrasenya reiniciada"
+
+#: includes/mails.php:118
+msgid ""
+"We have received your request for changing your password and here is your "
+"new password:"
+msgstr ""
+"hem rebut la teva petició per canviar la teva contrasenya i aquí tens la "
+"teva nova contrasenya:"
+
+#: includes/mails.php:120
+#, php-format
+msgid "Remember that you can change your password at %s"
+msgstr "Recorda que pots canviar la teva contrasenya a %s"
+
+#: includes/mails.php:122
+msgid "Your new password"
+msgstr "La teva nova contrasenya"
+
+#: includes/mails.php:151
+msgid "%real_or_username is now following you"
+msgstr "%real_or_username t'està seguint"
+
+#: includes/mails.php:152
+msgid "%real_or_username is now following your updates on %name"
+msgstr "%real_or_username està seguint les teves actualitzacions a %name"
+
+#: includes/mails.php:154
+msgid "notes"
+msgstr "notes"
+
+#: includes/mails.php:154
+msgid "followers"
+msgstr "seguidors"
+
+#: includes/mails.php:154
+#, php-format
+msgid "following %s users"
+msgstr "seguint %s usuaris"
+
+#: includes/mails.php:154
+#, php-format
+msgid "You can check his/her profile at %s"
+msgstr "Pots consultar el seu perfil a %s"
+
+#: includes/mails.php:159
+msgid "New follower"
+msgstr "Nou seguidor"
+
+#: includes/mails.php:180
+msgid "Private message from %real_or_username"
+msgstr "Missatge privat de %real_or_username"
+
+#: includes/mails.php:185
+msgid "%real_or_username has sent you a private message:"
+msgstr "%real_or_username t'ha enviat un missatge privat:"
+
+#: includes/mails.php:188 includes/mails.php:224
+#, php-format
+msgid "With the following attachment: %s"
+msgstr "Amb la següent arxiu adjunt: %s"
+
+#: includes/mails.php:190
+#, php-format
+msgid ""
+"You can reply to this message by sending a note with \"!%username <your "
+"message>\" or through the web interface at %base"
+msgstr ""
+"Pots respondre a aquest missatge enviant una nota amb \"!%username <el teu "
+"missatge>\" o a través de la interfície web a %base"
+
+#: includes/mails.php:194
+msgid "New private message"
+msgstr "Nou missatge privat"
+
+#: includes/mails.php:220
+msgid "Reply from %real_or_username"
+msgstr "Resposta de %real_or_username"
+
+#: includes/mails.php:222
+msgid "%real_or_username has replied or mentioned you in the following note:"
+msgstr ""
+"%real_or_username t'ha contestat o t'ha mencionat amb/en la següent nota:"
+
+#: includes/mails.php:225 includes/mails.php:228 includes/mails.php:487
+msgid "Permalink:"
+msgstr "Enllaç permanent:"
+
+#: includes/mails.php:228
+msgid "This note was replying to:"
+msgstr "Aquesta nota contestava a:"
+
+#: includes/mails.php:255
+msgid "Confirmation for %name account"
+msgstr "Confirmació per el compte %name"
+
+#: includes/mails.php:257
+msgid ""
+"Someone (probably you) has requested an account in %name. However, we need "
+"to know if you are the owner of this mail account."
+msgstr ""
+"Algú (possiblement tu) ha demanat un compte a %name. De totes maneres, "
+"necessitem saber si tu ets el propietari d'aquest compte de correu "
+"electrònic."
+
+#: includes/mails.php:258
+msgid "To confirm it, please click in the link placed below:"
+msgstr "Per confirmar-ho, clica l'enllaç de més avall:"
+
+#: includes/mails.php:259
+msgid ""
+"If you didn't request an account at %name, ignore this mail and apologies "
+"for the inconvenience."
+msgstr ""
+"Si no has demanat un compte a %name, ignora aquest missatge i disculpa'ns "
+"les molèsties."
+
+#: includes/mails.php:263
+msgid "Account confirmation"
+msgstr "Confirmació del compte"
+
+#: includes/mails.php:287
+msgid ""
+"Someone (probably you) has requested a change of the email assigned to your "
+"account in %name. Your new email will be:"
+msgstr ""
+"Algú (possiblement tu) ha demanat canviar el correu electrònic assignat al "
+"teu compte a %name. El teu nou correu electrònic és:"
+
+#: includes/mails.php:287
+msgid ""
+"If you requested this change, then confirm it by clicking the link placed "
+"below:"
+msgstr "Si has demanat aquest canvi, confirma'l clicant en l'enllaç de sota:"
+
+#: includes/mails.php:287
+msgid ""
+"Otherwise, if you didn't request this change, then simply ignore this "
+"message, because this link will expire in 24h"
+msgstr ""
+"Altrament, si tu no has demanat aquest canvi, simplement ignora aquest "
+"missatge, perquè l'enllaç expirarà en 24 hores"
+
+#: includes/mails.php:289
+msgid "Confirm email change"
+msgstr "Confirmar canvi de correu electrònic"
+
+#: includes/mails.php:289
+msgid "Email change"
+msgstr "Canvi de correu electrònic"
+
+#: includes/mails.php:313
+msgid "Welcome to %name"
+msgstr "Benvingut/da a %name"
+
+#: includes/mails.php:314
+msgid ""
+"You have just confirmed your account in %name, so now you can start "
+"personalizing your profile at %p_url!"
+msgstr ""
+"Has confirmat el teu compte a %name, així que ara ja pots començar a "
+"personalitzar el teu perfil a %p_url!"
+
+#: includes/mails.php:315
+msgid ""
+"%name is based on Jisko, an open-source microblogging platform. You can find "
+"more information about Jisko at http://www.jisko.org"
+msgstr ""
+"%name està basat en Jisko, una plataforma de microblogging de codi obert. "
+"Pots trobar més informació sobre Jisko a http://www.jisko.org"
+
+#: includes/mails.php:315
+msgid "Thank you very much for signing up in %name and for giving us a try!"
+msgstr "Gràcies per registrar-te a %name i provar-nos!"
+
+#: includes/mails.php:319
+msgid "Welcome!"
+msgstr "Benvingut!"
+
+#: includes/mails.php:333
+msgid "There's a new user on %name"
+msgstr "Hi ha un nou usuari a %name"
+
+#: includes/mails.php:335
+msgid "A new user called %username has joined %name."
+msgstr "Un nou usuari anomenat %username ha accedit a %name."
+
+#: includes/mails.php:335
+#, php-format
+msgid ""
+"It should be empty, but if you want, you can check his profile at %url"
+msgstr ""
+"Podria estar encara buit, però si vols, pots veure el seu perfil a %url"
+
+#: includes/mails.php:341
+msgid "New account"
+msgstr "Compte nou"
+
+#: includes/mails.php:351
+msgid "The user %username has deleted his account from %name"
+msgstr "L'usuari %username ha eliminat el seu compte de %name"
+
+#: includes/mails.php:353
+msgid "The user %username has deleted his account from %name."
+msgstr "L'usuari %username ha eliminat el seu compte de %name."
+
+#: includes/mails.php:353
+#, php-format
+msgid "If you want to contact him, his email is %email"
+msgstr "Si vols contactar amb ell/a, el seu correu electrònic és %email"
+
+#: includes/mails.php:359
+msgid "Deleted account"
+msgstr "Eliminar compte"
+
+#: includes/mails.php:367
+msgid "%username has invited you to %name!"
+msgstr "%username t'ha convidat a %name!"
+
+#: includes/mails.php:369
+msgid "Hey!"
+msgstr "Ei!"
+
+#: includes/mails.php:369
+msgid ""
+"%username just sent you an invitation for using %name! %name is a "
+"microblogging portal where you can share your own experiences and your "
+"feelings about everything."
+msgstr ""
+"%username t¡ha enviat una invitació per utilitzar %name! %name és un portal "
+"de microblogging on tu pots compartir les teves experiències, sentiments "
+"sobre qualsevol cosa."
+
+#: includes/mails.php:369
+msgid "Why don't you give %name a try and register?"
+msgstr "Perquè no dones una oportunitat a %name i t'hi registres?"
+
+#: includes/mails.php:369
+msgid "Click on the following link in order to use your invitation to %name"
+msgstr ""
+"Clica en el següent enllaç per a procedir a utilitzar la teva invitació a "
+"%name"
+
+#: includes/mails.php:369
+msgid "Thank you and have fun on %name!"
+msgstr "Gràcies i gaudeix de %name!"
+
+#: includes/mails.php:374
+#, php-format
+msgid "Invitation to %s"
+msgstr "Invitació per a %s"
+
+#: includes/mails.php:391
+msgid ""
+"We send this mail to tell you that your password on %name has been changed."
+msgstr ""
+"T¡enviem aquest correu per explicar-te que la teva contrasenya a %name ha "
+"canviat."
+
+#: includes/mails.php:392
+msgid ""
+"This change was requested from the ip %ip. If you were not the user who "
+"changed your password, please contact the administrator at %contact_page"
+msgstr ""
+"Aquest canvi s'ha efectuat des de la IP %ip. Si no ets tu l'usuari que ha "
+"canviat la teva contrasenya, si us plau contacta amb l'administrador a "
+"%contact_page"
+
+#: includes/mails.php:394
+msgid "Your password has been changed"
+msgstr "La teva contrassenya ha estat canviada"
+
+#: includes/mails.php:418
+msgid ""
+"Are you sure you want to delete your %name account? If you are having "
+"problems with %name, remember that you can contact us through %contact_page "
+"and we will take notes about your issues/suggestions."
+msgstr ""
+"Esteu segur que voleu eliminar el compte de %name? Si teniu problemes amb "
+"%name, recordeu que podeu contactar amb nosaltres a través %contact_page i "
+"prendrem nota sobre els vostres problemes o suggeriments."
+
+#: includes/mails.php:419
+msgid ""
+"If you're are completely sure of your decision (remember, this is NOT "
+"REVERSIBLE), please click the link placed below:"
+msgstr ""
+"Si estàs completament segur de la seva decisió (recordeu, això no és "
+"reversible), si us plau feu clic a l'enllaç situat a continuació:"
+
+#: includes/mails.php:420
+msgid ""
+"You must be logged in order to delete your account and remember that this "
+"request will expire in 24h."
+msgstr ""
+"Vostè ha d'estar connectat per tal d'eliminar el seu compte i recordar que "
+"aquesta petició expirarà en 24 hores."
+
+#: includes/mails.php:420
+msgid "We will miss you!"
+msgstr "Et trobarem a faltar!"
+
+#: includes/mails.php:422
+msgid "Delete account confirmation"
+msgstr "Confirmació de la eliminació del compte"
+
+#: includes/mails.php:444
+msgid "Someone has sent you a message through the Contact page"
+msgstr "Algú us ha enviat un missatge a través de la pàgina de Contacte"
+
+#: includes/mails.php:445
+#, php-format
+msgid "%s has sent you a message through the Contact page"
+msgstr "%s us ha enviat un missatge a través de la pàgina de Contacte"
+
+#: includes/mails.php:447
+msgid ""
+"Someone has decided to contact you through the contact page of your Jisko "
+"installation. Here are the details:"
+msgstr ""
+"Algú us ha enviat un missatge a través de la pàgina de Contacte de la vostra "
+"instal·lació de Jisko. Aquí trobareu els detalls:"
+
+#: includes/mails.php:453
+msgid ""
+"Please remember that you can only reply this message through the email "
+"provided. Otherwise, he won't see your answer"
+msgstr ""
+"Si us plau recordeu que només podeu respondre aquest missatge a través del "
+"correu electrònic proporcionat. En cas contrari, que no vegi la teva resposta"
+
+#: includes/mails.php:455 includes/mails.php:456
+msgid "New message received"
+msgstr "S'ha rebut un missatge nou"
+
+#: includes/mails.php:466
+msgid "%username reported the user %r_username"
+msgstr "%username ha reportat l'usuari %r_username"
+
+#: includes/mails.php:468
+msgid ""
+"The user %username (ID: %id) from the IP %ip reported the user %r_username "
+"(ID: %r_id)."
+msgstr ""
+"L'usuari  %username (ID: %id) des de la IP %ip ha reportat l'usuari "
+"%r_username (ID: %r_id)."
+
+#: includes/mails.php:474 includes/mails.php:495
+msgid "New abuse report"
+msgstr "Un nou informe d'abusos"
+
+#: includes/mails.php:484
+msgid "%username reported the note %r_note"
+msgstr "%username ha reportat la nota %r_note"
+
+#: includes/mails.php:486
+msgid ""
+"The user %username (ID: %id) from the IP %ip reported the note %r_note made "
+"by %r_username (ID: %r_id)."
+msgstr ""
+"L'usuari  %username (ID: %id) des de la IP %ip ha reportat la nota %r_note "
+"enviada per l'usuari %r_username (ID: %r_id)."
+
+#: includes/mobile.php:44 themes/transparency/pages/functions.php:58
+#: themes/transparency/pages/functions.php:62
+#: themes/transparency/pages/header.php:38
+msgid "Reply"
+msgstr "Respondre"
+
+#: includes/mobile.php:46
+msgid "More info"
+msgstr "Més informació"
+
+#: includes/mobile.php:162 includes/mobile.php:164
+#: themes/transparency/pages/functions.php:176
+#: themes/transparency/pages/functions.php:178
+msgid "previous"
+msgstr "anterior"
+
+#: includes/mobile.php:203 includes/mobile.php:205
+#: themes/transparency/pages/functions.php:238
+#: themes/transparency/pages/functions.php:240
+msgid "next"
+msgstr "següent"
+
+#: includes/mobile.php:219
+msgid "more notes"
+msgstr "més notes"
+
+#: includes/mobile.php:229
+msgid "Send note"
+msgstr "Enviar nota"
+
+#: includes/mobile.php:234 themes/transparency/pages/functions.php:260
+#: themes/transparency/pages/contact.php:25
+msgid "Send"
+msgstr "Enviar"
+
+#: includes/mobile.php:248 pages/mobile/notes.php:48
+#: pages/mobile/template/footer.php:24 themes/transparency/pages/notes.php:7
+#: themes/transparency/pages/notes.php:9
+#: themes/transparency/pages/notes.php:43
+#: themes/transparency/pages/notes.php:45
+msgid "Archive"
+msgstr "Arxiu"
+
+#: includes/mobile.php:248 includes/mobile.php:254
+#: themes/transparency/pages/notes.php:26
+#: themes/transparency/pages/notes.php:29
+#: themes/transparency/pages/notes.php:31
+#: themes/transparency/pages/notes.php:62
+#: themes/transparency/pages/notes.php:65
+#: themes/transparency/pages/notes.php:67
+#: themes/transparency/pages/sidebar.php:112
+msgid "Private messages"
+msgstr "Missatges privats"
+
+#: includes/mobile.php:248 themes/transparency/pages/notes.php:84
+#: themes/transparency/pages/settings.php:155
+#: themes/transparency/pages/settings.php:157
+msgid "Replies"
+msgstr "Respostes"
+
+#: includes/mobile.php:248 pages/mobile/notes.php:52 pages/mobile/notes.php:56
+#: themes/transparency/pages/notes.php:21
+#: themes/transparency/pages/notes.php:23
+#: themes/transparency/pages/notes.php:57
+#: themes/transparency/pages/notes.php:59
+msgid "Friends"
+msgstr "Amics"
+
+#: includes/mobile.php:252 themes/transparency/pages/header.php:73
+#: themes/transparency/pages/header.php:79
+msgid "Home"
+msgstr "Inici"
+
+#: includes/mobile.php:258 pages/mobile/notes.php:38
+#: themes/transparency/pages/notes.php:35
+#: themes/transparency/pages/notes.php:37
+#: themes/transparency/pages/settings.php:20
+#: themes/transparency/pages/settings.php:92
+#: themes/transparency/pages/settings.php:220
+#: themes/transparency/pages/settings.php:277
+#: themes/transparency/pages/settings.php:284
+#: themes/transparency/pages/settings.php:340
+#: themes/transparency/pages/settings.php:359
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/mobile.php:259 themes/transparency/pages/notes.php:90
+msgid "Received"
+msgstr "Rebuts"
+
+#: includes/mobile.php:259 themes/transparency/pages/notes.php:90
+msgid "Sent"
+msgstr "Enviats"
+
+#: pages/mobile/login.php:23
+msgid "There is no user with that name"
+msgstr "No hi ha cap usuari amb aquest nom"
+
+#: pages/mobile/login.php:29
+msgid "This account hasn't been confirmed yet"
+msgstr "Aquest compte ja ha estat confirmat"
+
+#: pages/mobile/login.php:36 themes/transparency/pages/contact.php:11
+#: themes/transparency/pages/register.php:18
+#: themes/transparency/pages/tag.php:151
+#: themes/transparency/pages/trouble_login.php:10
+#: themes/transparency/pages/trouble_login.php:16
+msgid "Username"
+msgstr "Nom d'usuari"
+
+#: pages/mobile/login.php:37 themes/transparency/pages/register.php:25
+#: themes/transparency/pages/sidebar.php:250
+msgid "Password"
+msgstr "Contrasenya"
+
+#: pages/mobile/login.php:40
+msgid "Log In"
+msgstr "Login"
+
+#: pages/mobile/notes.php:33
+msgid "Received messages"
+msgstr "Missatges rebuts"
+
+#: pages/mobile/notes.php:35
+msgid "Sent messages"
+msgstr "Missatges enviats"
+
+#: pages/mobile/notes.php:50
+msgid "Friends + Twitter"
+msgstr "Amics + Twitter"
+
+#: pages/mobile/notes.php:71 pages/mobile/public.php:37
+#: pages/mobile/user.php:79 themes/transparency/pages/notes.php:96
+#: themes/transparency/pages/user.php:38 themes/transparency/pages/user.php:93
+#: themes/transparency/pages/header.php:61
+msgid "No notes were found"
+msgstr "No s'ha trobat cap nota"
+
+#: pages/mobile/public.php:26 pages/mobile/template/footer.php:23
+#: themes/transparency/pages/notes.php:73
+#: themes/transparency/pages/header.php:73
+#: themes/transparency/pages/header.php:79
+#: themes/transparency/pages/sidebar.php:76
+#: themes/transparency/pages/sidebar.php:142
+#: themes/transparency/pages/sidebar.php:165
+#: themes/transparency/pages/sidebar.php:217
+#: themes/transparency/pages/sidebar.php:240
+#: themes/transparency/pages/sidebar.php:271
+msgid "Public notes"
+msgstr "Notes públiques"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/sidebar.php:26
+msgid "Report"
+msgstr "Reportar"
+
+#: pages/mobile/user.php:62
+msgid "Unfollow"
+msgstr "No seguir"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/functions.php:122
+#: themes/transparency/pages/header.php:31
+#: themes/transparency/pages/sidebar.php:14
+msgid "Follow"
+msgstr "Seguir"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/header.php:32
+msgid "Stop ignoring"
+msgstr "Deixar d'ignorar"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/header.php:33
+#: themes/transparency/pages/sidebar.php:22
+msgid "Ignore"
+msgstr "Ignora"
+
+#: pages/mobile/user.php:66
+msgid "Not allowed"
+msgstr "No permès"
+
+#: pages/mobile/user.php:69
+msgid "You aren't allowed to see the notes of this user"
+msgstr "No està autoritzat a veure les notes d'aquest usuari"
+
+#: pages/mobile/template/header.php:30 pages/mobile/template/header.php:31
+msgid "Friends_timeline (RSS 2.0)"
+msgstr "Friends_timeline (RSS 2.0)"
+
+#: pages/mobile/template/header.php:38 themes/transparency/pages/header.php:77
+msgid "Logout"
+msgstr "Surt"
+
+#: pages/mobile/template/footer.php:25 themes/transparency/pages/tos.php:1
+msgid "Terms of Service"
+msgstr "Termes de Servei"
+
+#: pages/mobile/template/footer.php:26
+msgid "Normal version"
+msgstr "Versió normal"
+
+#: pages/faq.php:21 themes/transparency/pages/faq.php:1
+msgid "Frequently Asked Questions (FAQ)"
+msgstr "Preguntes Més Freqüents (PMF)"
+
+#: pages/trouble_login.php:25 themes/transparency/pages/sidebar.php:265
+#: themes/transparency/pages/trouble_login.php:1
+msgid "Having trouble while logging in?"
+msgstr "Has tingut problemes al entrar?"
+
+#: pages/trouble_login.php:40
+msgid "That email doesn't exist in our database"
+msgstr "Aquest correu electrònic no apareix a la nostra base de dades"
+
+#: pages/trouble_login.php:44 pages/trouble_login.php:61
+msgid "There's no user with that username"
+msgstr "No hi ha cap usuari amb aquest nom"
+
+#: pages/trouble_login.php:52
+msgid "We have just sent an e-mail with instructions!"
+msgstr "Acabem d'enviar-te un correu electrònic amb instruccions!"
+
+#: pages/trouble_login.php:56 pages/trouble_login.php:81
+msgid "Please fill all the inputs"
+msgstr "Omple tots els camps"
+
+#: pages/trouble_login.php:63
+msgid "The account was not waiting for an activation email"
+msgstr "El compte no està esperant cap correu electrònic d'activació"
+
+#: pages/trouble_login.php:68
+msgid "There was a problem while trying to obtain your key. Please retry"
+msgstr ""
+"Ha ocorregut un error al obtenir la teva clau. Si us plau, intenta-ho de nou"
+
+#: pages/trouble_login.php:103
+msgid "We have just sent you an e-mail with your new password"
+msgstr ""
+"Acabem d'enviar-te un correu electrònic amb la teva nova contrasenya."
+
+#: pages/trouble_login.php:105 pages/trouble_login.php:108
+msgid "Invalid key"
+msgstr "Clau no vàlida"
+
+#: themes/transparency/pages/404.php:2
+msgid "The page you're looking for doesn't exists."
+msgstr "La pàgina que busques no s'ha trobat."
+
+#: themes/transparency/pages/following.php:1
+msgid "Users I'm following"
+msgstr "Usuaris que estic seguint"
+
+#: themes/transparency/pages/following.php:5
+#: themes/transparency/pages/user.php:50 themes/transparency/pages/user.php:68
+#: themes/transparency/pages/followers.php:5
+msgid "No users were found"
+msgstr "No s'ha trobat cap usuari"
+
+#: themes/transparency/pages/functions.php:35
+#: themes/transparency/pages/header.php:39
+msgid "Are you sure? There is NO UNDO!"
+msgstr "Estàs segur/a? NO hi ha possibilitat de DESFER!"
+
+#: themes/transparency/pages/functions.php:35
+#: themes/transparency/pages/header.php:40
+msgid "Delete note"
+msgstr "Esborrar nota"
+
+#: themes/transparency/pages/functions.php:39
+#: themes/transparency/pages/header.php:34
+msgid "Download file"
+msgstr "Descarrega el fitxer"
+
+#: themes/transparency/pages/functions.php:45
+#: themes/transparency/pages/header.php:35
+msgid "Delete favorite"
+msgstr "Llevar favorit"
+
+#: themes/transparency/pages/functions.php:47
+#: themes/transparency/pages/header.php:36
+msgid "Add to favorites"
+msgstr "Afegir a favorits"
+
+#: themes/transparency/pages/functions.php:50
+#: themes/transparency/pages/functions.php:61
+#: themes/transparency/pages/header.php:37
+msgid "Permalink"
+msgstr "Enllaç permanent"
+
+#: themes/transparency/pages/functions.php:120
+#: themes/transparency/pages/header.php:30
+msgid "Stop following"
+msgstr "Deixar de seguir"
+
+#: themes/transparency/pages/functions.php:128
+msgid "Last note:"
+msgstr "Última nota:"
+
+#: themes/transparency/pages/functions.php:131
+msgid "To follow this user, first you have to stop ignoring him."
+msgstr "Per seguir aquest usuari, primer l'has de deixar d'ignorar."
+
+#: themes/transparency/pages/functions.php:142
+#: themes/transparency/pages/header.php:42
+msgid "reply"
+msgstr "respon"
+
+#: themes/transparency/pages/functions.php:143
+#: themes/transparency/pages/header.php:43
+msgid "replies"
+msgstr "respostes"
+
+#: themes/transparency/pages/functions.php:257
+msgid "Attach file"
+msgstr "Adjuntar arxiu"
+
+#: themes/transparency/pages/functions.php:265
+msgid "Shrink URLs"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:315
+msgid "active"
+msgstr "actiu"
+
+#: themes/transparency/pages/functions.php:315
+msgid "banned"
+msgstr "bandejat"
+
+#: themes/transparency/pages/functions.php:315
+msgid "not confirmed"
+msgstr "no confirmat"
+
+#: themes/transparency/pages/functions.php:326
+msgid "now"
+msgstr "ara"
+
+#: themes/transparency/pages/functions.php:333
+msgid "today"
+msgstr "avui"
+
+#: themes/transparency/pages/functions.php:340
+msgid "this month"
+msgstr "aquest mes"
+
+#: themes/transparency/pages/homepage.php:1
+#, php-format
+msgid "Welcome to %s"
+msgstr "Benvingut/da a %s"
+
+#: themes/transparency/pages/report.php:5
+#, php-format
+msgid "Report the user %s"
+msgstr "Reportar l'usuari %s"
+
+#: themes/transparency/pages/report.php:6
+msgid "Some reasons to report an account can be:"
+msgstr "Algunes de les raons per reportar un compte poden ser:"
+
+#: themes/transparency/pages/report.php:9
+#: themes/transparency/pages/report.php:49
+msgid "SPAM"
+msgstr "SPAM"
+
+#: themes/transparency/pages/report.php:10
+#: themes/transparency/pages/report.php:50
+msgid "Offensive content"
+msgstr "Contingut ofensiu"
+
+#: themes/transparency/pages/report.php:11
+#: themes/transparency/pages/report.php:51
+msgid "Duplicated account"
+msgstr "Compte duplicat"
+
+#: themes/transparency/pages/report.php:12
+#: themes/transparency/pages/report.php:52
+msgid "Unlawful attached files"
+msgstr "Arxius adjunts il·lícits"
+
+#: themes/transparency/pages/report.php:13
+#: themes/transparency/pages/report.php:53
+msgid "Illicit purposes"
+msgstr "Proposicions il·lícites"
+
+#: themes/transparency/pages/report.php:15
+msgid ""
+"You must be completely SURE that the user you are reporting is not following "
+"our Terms of Service."
+msgstr ""
+"Has d'estar completament segur/a que l'usuari que estàs reportant no està "
+"seguint els Termes de Servei."
+
+#: themes/transparency/pages/report.php:16
+#: themes/transparency/pages/report.php:56
+msgid "And remember:"
+msgstr "I recorda:"
+
+#: themes/transparency/pages/report.php:19
+#: themes/transparency/pages/report.php:59
+msgid "You will remain in anonymity"
+msgstr "Romandràs en l'anonimat"
+
+#: themes/transparency/pages/report.php:20
+#: themes/transparency/pages/report.php:60
+msgid ""
+"When finishing this, you will not get any notification, but report has been "
+"sent"
+msgstr ""
+"En acabar això, no rebràs cap notificació, però l'informe haurà estat enviat"
+
+#: themes/transparency/pages/report.php:21
+#: themes/transparency/pages/report.php:61
+msgid "Fake or duplicated reports means the blocking of your account!"
+msgstr "Informes falsos o duplicats suposaran el bloqueig del compte!"
+
+#: themes/transparency/pages/report.php:24
+#: themes/transparency/pages/report.php:64
+msgid ""
+"If after reading this, you still want to report this account, go forward, we "
+"are grateful for your help!"
+msgstr ""
+"Si després de llegir això, encara vols reportar aquest compte, segueix "
+"endavant, estem agraïts per la seva ajuda!"
+
+#: themes/transparency/pages/report.php:31
+#: themes/transparency/pages/report.php:71
+#: themes/transparency/pages/trouble_login.php:26
+msgid "Continue"
+msgstr "Continuar"
+
+#: themes/transparency/pages/report.php:39
+msgid "The user was reported successfully"
+msgstr "L'usuari s'ha reportat amb èxit"
+
+#: themes/transparency/pages/report.php:45
+#, php-format
+msgid "Report the note #%s"
+msgstr "Reportar la nota #%s"
+
+#: themes/transparency/pages/report.php:46
+msgid "Some reasons to report a note can be:"
+msgstr "Algunes raons per repotar una nota poden ser:"
+
+#: themes/transparency/pages/report.php:55
+msgid ""
+"You must be completely SURE that the note you are reporting is not following "
+"our Terms of Service."
+msgstr ""
+"Has d'estar completament SEGUR/A que la nota que estàs reportant no segueix "
+"els Termes de Servei."
+
+#: themes/transparency/pages/report.php:79
+msgid "The note was reported successfully"
+msgstr "La nota s'ha reportat amb èxit"
+
+#: themes/transparency/pages/settings.php:13
+#: themes/transparency/pages/settings.php:16
+#: themes/transparency/pages/settings.php:88
+#: themes/transparency/pages/settings.php:216
+#: themes/transparency/pages/settings.php:280
+#: themes/transparency/pages/settings.php:336
+#: themes/transparency/pages/settings.php:355
+msgid "Profile"
+msgstr "Perfil"
+
+#: themes/transparency/pages/settings.php:17
+#: themes/transparency/pages/settings.php:85
+#: themes/transparency/pages/settings.php:89
+#: themes/transparency/pages/settings.php:217
+#: themes/transparency/pages/settings.php:281
+#: themes/transparency/pages/settings.php:337
+#: themes/transparency/pages/settings.php:356
+msgid "Configuration"
+msgstr "Configuració"
+
+#: themes/transparency/pages/settings.php:18
+#: themes/transparency/pages/settings.php:90
+#: themes/transparency/pages/settings.php:213
+#: themes/transparency/pages/settings.php:218
+#: themes/transparency/pages/settings.php:282
+#: themes/transparency/pages/settings.php:338
+#: themes/transparency/pages/settings.php:357
+msgid "Customize"
+msgstr "Personalitza"
+
+#: themes/transparency/pages/settings.php:19
+#: themes/transparency/pages/settings.php:91
+#: themes/transparency/pages/settings.php:219
+#: themes/transparency/pages/settings.php:283
+#: themes/transparency/pages/settings.php:339
+#: themes/transparency/pages/settings.php:352
+#: themes/transparency/pages/settings.php:358
+msgid "Privacy"
+msgstr "Privadesa"
+
+#: themes/transparency/pages/settings.php:21
+#: themes/transparency/pages/settings.php:93
+#: themes/transparency/pages/settings.php:221
+#: themes/transparency/pages/settings.php:285
+#: themes/transparency/pages/settings.php:333
+#: themes/transparency/pages/settings.php:341
+#: themes/transparency/pages/settings.php:360
+msgid "Ignored users"
+msgstr "Usuaris ignorats"
+
+#: themes/transparency/pages/settings.php:28
+msgid "Bio (140 chars max.)"
+msgstr "Bio (140 caracters max.)"
+
+#: themes/transparency/pages/settings.php:33
+#: themes/transparency/pages/sidebar.php:32
+#: themes/transparency/pages/sidebar.php:90
+#: themes/transparency/pages/sidebar.php:180
+#: themes/transparency/pages/tag.php:126
+msgid "Name"
+msgstr "Nom"
+
+#: themes/transparency/pages/settings.php:35
+msgid "Webpage"
+msgstr "Web"
+
+#: themes/transparency/pages/settings.php:37
+#: themes/transparency/pages/sidebar.php:35
+#: themes/transparency/pages/sidebar.php:93
+#: themes/transparency/pages/sidebar.php:183
+msgid "Location"
+msgstr "Localització"
+
+#: themes/transparency/pages/settings.php:40
+#: themes/transparency/pages/register.php:38
+msgid "Language"
+msgstr "Idioma"
+
+#: themes/transparency/pages/settings.php:55
+msgid "Change my profile picture"
+msgstr "Canviar la meva imatge del perfil"
+
+#: themes/transparency/pages/settings.php:59
+msgid "250 KB max. size, jpg/png/gif format"
+msgstr "Mida màx. de 250 KB, format jpg/png/gif"
+
+#: themes/transparency/pages/settings.php:63
+msgid "Delete it"
+msgstr "Eliminar-la"
+
+#: themes/transparency/pages/settings.php:71
+msgid "Enable Gravatar service"
+msgstr "Activar el servei Gravatar"
+
+#: themes/transparency/pages/settings.php:78
+#: themes/transparency/pages/settings.php:206
+#: themes/transparency/pages/settings.php:271
+#: themes/transparency/pages/settings.php:329
+#: themes/transparency/pages/settings.php:434
+msgid "Save"
+msgstr "Desa"
+
+#: themes/transparency/pages/settings.php:98
+msgid "change my username"
+msgstr "canviar el meu nom d'usuari"
+
+#: themes/transparency/pages/settings.php:102
+msgid "repeat new password"
+msgstr "repeteix la nova contrasenya"
+
+#: themes/transparency/pages/settings.php:104
+msgid "new password (if you want to change it)"
+msgstr "nova contrasenya (si vols canviar-la)"
+
+#: themes/transparency/pages/settings.php:108
+msgid "e-mail"
+msgstr "correu electrònic"
+
+#: themes/transparency/pages/settings.php:116
+msgid "Disable connection with Facebook"
+msgstr "Desactivar la connexió amb Facebook"
+
+#: themes/transparency/pages/settings.php:118
+msgid "Connect my account with Facebook"
+msgstr "Connectar el meu compte amb Facebook"
+
+#: themes/transparency/pages/settings.php:123
+msgid "OpenID URL"
+msgstr "URL OpenID"
+
+#: themes/transparency/pages/settings.php:131
+msgid "Request new API key"
+msgstr "Solicita nova clau API"
+
+#: themes/transparency/pages/settings.php:135
+msgid "API key"
+msgstr "Clau API"
+
+#: themes/transparency/pages/settings.php:140
+msgid "Notification level"
+msgstr "Nivell de notificació"
+
+#: themes/transparency/pages/settings.php:143
+#: themes/transparency/pages/settings.php:145
+msgid "Everything"
+msgstr "Tot"
+
+#: themes/transparency/pages/settings.php:149
+#: themes/transparency/pages/settings.php:151
+msgid "Privates and Following"
+msgstr "Privats i Seguint"
+
+#: themes/transparency/pages/settings.php:161
+#: themes/transparency/pages/settings.php:163
+msgid "Privates"
+msgstr "Privats"
+
+#: themes/transparency/pages/settings.php:173
+#: themes/transparency/pages/settings.php:175
+msgid "None"
+msgstr "Cap"
+
+#: themes/transparency/pages/settings.php:187
+msgid "Try to always show the preview page of a shorted link"
+msgstr "Intenta sempre mostrar una previsualització de l'enllaç escurçat"
+
+#: themes/transparency/pages/settings.php:191
+msgid "URL Shortening service"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:204
+msgid "current password"
+msgstr "contrasenya actual"
+
+#: themes/transparency/pages/settings.php:204
+msgid "(if you don't have a password just leave it blank)"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:208
+msgid "Delete my account"
+msgstr "Eliminar el meu compte"
+
+#: themes/transparency/pages/settings.php:226
+msgid "Theme"
+msgstr "Tema"
+
+#: themes/transparency/pages/settings.php:241
+msgid "Background style"
+msgstr "Estil del fons"
+
+#: themes/transparency/pages/settings.php:253
+msgid "Background"
+msgstr "Fons"
+
+#: themes/transparency/pages/settings.php:255
+msgid "1 MB max. size, jpg/png/gif format"
+msgstr "Mida màx. d'1 Mb, format jpg/png/gif"
+
+#: themes/transparency/pages/settings.php:258
+msgid "Background color"
+msgstr "Color de fons"
+
+#: themes/transparency/pages/settings.php:260
+msgid "Text color"
+msgstr "Color del text"
+
+#: themes/transparency/pages/settings.php:264
+msgid "Sidebar color"
+msgstr "Color de la barra lateral"
+
+#: themes/transparency/pages/settings.php:266
+msgid "Links color"
+msgstr "Color enllaços"
+
+#: themes/transparency/pages/settings.php:268
+msgid "Sidebar text color"
+msgstr "Color text de la Barra lateral"
+
+#: themes/transparency/pages/settings.php:273
+msgid "Delete background"
+msgstr "Elimina el fons"
+
+#: themes/transparency/pages/settings.php:291
+msgid "Twitter integration it's working properly"
+msgstr "La integració amb Twitter està funcionant correctament"
+
+#: themes/transparency/pages/settings.php:293
+msgid "Twitter notes not updated yet..."
+msgstr "Les notes de Twitter encara no s'han actualitzat"
+
+#: themes/transparency/pages/settings.php:297
+#, php-format
+msgid "Twitter updated %s"
+msgstr "Twitter actualitzat %s"
+
+#: themes/transparency/pages/settings.php:299
+msgid "Twitter not updated yet, wait..."
+msgstr "Twitter no actualitzat encara, espera..."
+
+#: themes/transparency/pages/settings.php:311
+msgid "Disable twitter integration"
+msgstr "Desactivar integració amb twitter"
+
+#: themes/transparency/pages/settings.php:317
+#: themes/transparency/pages/settings.php:319
+msgid "Show tweets in the friends tab"
+msgstr "Mostra tweets en la pestanya d'amics"
+
+#: themes/transparency/pages/settings.php:322
+#: themes/transparency/pages/settings.php:324
+#, php-format
+msgid "Post %s notes to Twitter"
+msgstr "Enviar %s notes a Twitter"
+
+#: themes/transparency/pages/settings.php:345
+msgid "You are not ignoring anyone"
+msgstr "No estàs ignorant ningú"
+
+#: themes/transparency/pages/settings.php:365
+msgid "Show my followings"
+msgstr "Mostrar qui segueixo"
+
+#: themes/transparency/pages/settings.php:376
+msgid "Show my followers"
+msgstr "Mostrar els meus seguidors"
+
+#: themes/transparency/pages/settings.php:388
+msgid "Show my notes"
+msgstr "Mostrar les meves notes"
+
+#: themes/transparency/pages/settings.php:399
+msgid "Show my favorite notes"
+msgstr "Mostrar les meves notes preferides"
+
+#: themes/transparency/pages/settings.php:411
+msgid "Show my profile info"
+msgstr "Mostrar informació del meu perfil"
+
+#: themes/transparency/pages/settings.php:422
+msgid "Allow to read my RSS"
+msgstr "Permetre llegir el meu RSS"
+
+#: themes/transparency/pages/settings.php:424
+msgid "Everyone"
+msgstr "Tothom"
+
+#: themes/transparency/pages/settings.php:424
+msgid "Nobody"
+msgstr "Ningú"
+
+#: themes/transparency/pages/stats.php:52
+#: themes/transparency/pages/sidebar.php:51
+#: themes/transparency/pages/sidebar.php:103
+#: themes/transparency/pages/sidebar.php:156
+#: themes/transparency/pages/sidebar.php:199
+#: themes/transparency/pages/sidebar.php:231
+msgid "Stats"
+msgstr "Estadístiques"
+
+#: themes/transparency/pages/user.php:3 themes/transparency/pages/user.php:43
+#: themes/transparency/pages/user.php:61 themes/transparency/pages/user.php:86
+msgid "Forbidden access"
+msgstr "Accés prohibit"
+
+#: themes/transparency/pages/user.php:5 themes/transparency/pages/user.php:88
+msgid "This user has decided to not show his profile to everyone."
+msgstr "Aquest usuari no mostra el seu perfil a tothom."
+
+#: themes/transparency/pages/user.php:9
+#, php-format
+msgid "Link to the post %s"
+msgstr "Enllaç a l'entrada %s"
+
+#: themes/transparency/pages/user.php:10
+msgid ""
+"To share this note you simply have to share the URL of this page to your "
+"friends via social networking, instant messaging, blogs..."
+msgstr ""
+"Per compartir aquesta nota simplement has de compartir la URL d'aquesta "
+"pàgina amb els teus amics per mitjà de les xarxes socials, missatgeria "
+"instantània, blogs,..."
+
+#: themes/transparency/pages/user.php:16
+msgid "Report note"
+msgstr "Reportar nota"
+
+#: themes/transparency/pages/user.php:45
+msgid "This user has decided to not show his followers to everyone."
+msgstr "Aquest usuari ha decidit no mostrar els seus seguidors a tothom."
+
+#: themes/transparency/pages/user.php:48
+#, php-format
+msgid "%s's followers (%d)"
+msgstr "%s's seguidors (%d)"
+
+#: themes/transparency/pages/user.php:63
+msgid "This user has decided to not show his followings to everyone."
+msgstr "Aquest usuari ha decidit no mostrar qui està seguint."
+
+#: themes/transparency/pages/user.php:66
+#, php-format
+msgid "%s's followings (%d)"
+msgstr "%s's seguint (%d)"
+
+#: themes/transparency/pages/contact.php:1
+#: themes/transparency/pages/footer.php:11
+msgid "Contact"
+msgstr "Contacte"
+
+#: themes/transparency/pages/contact.php:4
+#, php-format
+msgid ""
+"If you want to contact with the administrator of %s, please fill the form "
+"below\n"
+"\t\t\tand the administrator will receive a copy of your message"
+msgstr ""
+"Si vols contactar amb l'administrador de %s, si us plau omple el formulari "
+"següent\n"
+"\t\t\ti l'administrador rebrà una còpia del teu missatge"
+
+#: themes/transparency/pages/contact.php:13
+#: themes/transparency/pages/contact.php:16
+#: themes/transparency/pages/trouble_login.php:18
+msgid "Email"
+msgstr "Correu electrònic"
+
+#: themes/transparency/pages/contact.php:18
+msgid "Message"
+msgstr "Missatge"
+
+#: themes/transparency/pages/contact.php:21
+msgid "I want to receive a copy in my email account"
+msgstr "Jo vull rebre una còpia en el meu compte de correu electrònic"
+
+#: themes/transparency/pages/followers.php:1
+msgid "My followers"
+msgstr "Els meus seguidors"
+
+#: themes/transparency/pages/footer.php:7
+msgid "Search..."
+msgstr "Cercar..."
+
+#: themes/transparency/pages/footer.php:8
+msgid "Search"
+msgstr "Cercar"
+
+#: themes/transparency/pages/footer.php:11
+msgid "FAQ"
+msgstr "PMF"
+
+#: themes/transparency/pages/footer.php:11
+msgid "Mobile interface"
+msgstr "Interfície mòbil"
+
+#: themes/transparency/pages/header.php:13
+msgid "Users search"
+msgstr "Cercador d'usuaris"
+
+#: themes/transparency/pages/header.php:29
+msgid "Working..."
+msgstr "Treballant..."
+
+#: themes/transparency/pages/header.php:41
+msgid "mobile"
+msgstr "mòbil"
+
+#: themes/transparency/pages/header.php:44
+msgid "Fetching notes..."
+msgstr "Obtenint notes..."
+
+#: themes/transparency/pages/header.php:52
+msgid "Note successfully sent"
+msgstr "La nota s'ha enviat satisfactòriament"
+
+#: themes/transparency/pages/header.php:53
+msgid "Error:"
+msgstr "Error:"
+
+#: themes/transparency/pages/header.php:54
+msgid "user or note not found"
+msgstr "no s'ha trobat l'usuari o la nota"
+
+#: themes/transparency/pages/header.php:55
+msgid "Name:"
+msgstr "Nom:"
+
+#: themes/transparency/pages/header.php:56
+msgid "Location:"
+msgstr "Localització:"
+
+#: themes/transparency/pages/header.php:57
+msgid "Bio:"
+msgstr "Bio:"
+
+#: themes/transparency/pages/header.php:58
+msgid "Web:"
+msgstr "Web:"
+
+#: themes/transparency/pages/header.php:59
+msgid "Since:"
+msgstr "Des de:"
+
+#: themes/transparency/pages/header.php:60
+msgid "In reply to:"
+msgstr "En resposta a:"
+
+#: themes/transparency/pages/register.php:4
+msgid "You need a valid token to register an account"
+msgstr "Necessites una clau vàlida per registrar un compte"
+
+#: themes/transparency/pages/register.php:10
+msgid ""
+"We couldn't find your OpenID url on our database, so maybe you want to "
+"register. To do so we need some details which you can fill in the form below"
+msgstr ""
+"No podem trobar la teva url OpenID en la nostra base de dades, així que "
+"potser desitges registrar-te. Per a això necessitem algunes dades que ens "
+"pots facilitar en el següent formulari"
+
+#: themes/transparency/pages/register.php:13
+msgid ""
+"We couldn't find your Facebook profile on our database, so maybe you want to "
+"register. To do so we need some details which you can fill in the form below"
+msgstr ""
+"No podem trobar el teu perfil de Faceoob en la nostra base de dades, així "
+"que potser desitges registrar-te. Per a això necessitem algunes dades que "
+"ens pots facilitar en el següent formulari"
+
+#: themes/transparency/pages/register.php:20
+msgid "E-mail"
+msgstr ""
+
+#: themes/transparency/pages/register.php:24
+msgid "password (again)"
+msgstr "contrasenya (de nou)"
+
+#: themes/transparency/pages/register.php:30
+msgid "OpenID <strong>(optional)</strong>"
+msgstr "OpenID <strong>(opcional)</strong>"
+
+#: themes/transparency/pages/register.php:53
+msgid "I accept the"
+msgstr "Accepte els"
+
+#: themes/transparency/pages/register.php:53
+msgid "privacy and service terms"
+msgstr "termes de privadesa i servei"
+
+#: themes/transparency/pages/register.php:55
+#: themes/transparency/pages/register.php:57
+msgid "Register!"
+msgstr "Registrar!"
+
+#: themes/transparency/pages/search.php:1
+#, php-format
+msgid "Results for %s"
+msgstr "Resultats per %s"
+
+#: themes/transparency/pages/search.php:4
+msgid "Nothing found"
+msgstr "No s'ha trobat res"
+
+#: themes/transparency/pages/sidebar.php:7
+#: themes/transparency/pages/sidebar.php:69
+#: themes/transparency/pages/sidebar.php:84
+#: themes/transparency/pages/sidebar.php:119
+#: themes/transparency/pages/sidebar.php:173
+#: themes/transparency/pages/sidebar.php:210
+msgid "Avatar"
+msgstr "Avatar"
+
+#: themes/transparency/pages/sidebar.php:12
+msgid "Stop Following"
+msgstr "Deixar de seguir"
+
+#: themes/transparency/pages/sidebar.php:20
+msgid "Stop Ignoring"
+msgstr "Deixar d'ignorar"
+
+#: themes/transparency/pages/sidebar.php:29
+#: themes/transparency/pages/sidebar.php:87
+#: themes/transparency/pages/sidebar.php:151
+#: themes/transparency/pages/sidebar.php:177
+#: themes/transparency/pages/sidebar.php:226
+msgid "About"
+msgstr "Quant a..."
+
+#: themes/transparency/pages/sidebar.php:38
+#: themes/transparency/pages/sidebar.php:96
+#: themes/transparency/pages/sidebar.php:186
+msgid "Web"
+msgstr "Web"
+
+#: themes/transparency/pages/sidebar.php:41
+#: themes/transparency/pages/sidebar.php:99
+#: themes/transparency/pages/sidebar.php:189
+msgid "Bio"
+msgstr "Bio"
+
+#: themes/transparency/pages/sidebar.php:43
+#: themes/transparency/pages/sidebar.php:101
+#: themes/transparency/pages/sidebar.php:191
+msgid "Since"
+msgstr "Des de"
+
+#: themes/transparency/pages/sidebar.php:44
+#: themes/transparency/pages/sidebar.php:192
+msgid "Last login"
+msgstr "Última entrada"
+
+#: themes/transparency/pages/sidebar.php:55
+#: themes/transparency/pages/sidebar.php:111
+#: themes/transparency/pages/sidebar.php:203
+msgid "Favorites"
+msgstr "Favorits"
+
+#: themes/transparency/pages/sidebar.php:59
+msgid "Most used tags by the user"
+msgstr "Etiquetes més utilitzades per l'usuari"
+
+#: themes/transparency/pages/sidebar.php:62
+#: themes/transparency/pages/sidebar.php:136
+msgid "more"
+msgstr "més"
+
+#: themes/transparency/pages/sidebar.php:73
+#: themes/transparency/pages/sidebar.php:139
+#: themes/transparency/pages/sidebar.php:162
+#: themes/transparency/pages/sidebar.php:214
+#: themes/transparency/pages/sidebar.php:237
+msgid "Export"
+msgstr "Exporta"
+
+#: themes/transparency/pages/sidebar.php:76
+#: themes/transparency/pages/sidebar.php:77
+#: themes/transparency/pages/sidebar.php:78
+#: themes/transparency/pages/sidebar.php:142
+#: themes/transparency/pages/sidebar.php:143
+#: themes/transparency/pages/sidebar.php:144
+#: themes/transparency/pages/sidebar.php:165
+#: themes/transparency/pages/sidebar.php:166
+#: themes/transparency/pages/sidebar.php:217
+#: themes/transparency/pages/sidebar.php:218
+#: themes/transparency/pages/sidebar.php:240
+#: themes/transparency/pages/sidebar.php:241
+#: themes/transparency/pages/sidebar.php:271
+msgid "Feed"
+msgstr "Canal"
+
+#: themes/transparency/pages/sidebar.php:78
+#: themes/transparency/pages/sidebar.php:144
+msgid "Friends timeline"
+msgstr "Línia temporal amics"
+
+#: themes/transparency/pages/sidebar.php:124
+msgid "Invitations"
+msgstr "Invitacions"
+
+#: themes/transparency/pages/sidebar.php:127
+msgid "E-mail..."
+msgstr "E-mail..."
+
+#: themes/transparency/pages/sidebar.php:128
+msgid "Send!"
+msgstr "Enviar!"
+
+#: themes/transparency/pages/sidebar.php:128
+msgid "invitations left"
+msgstr "invitacions que queden"
+
+#: themes/transparency/pages/sidebar.php:133
+msgid "Most used tags"
+msgstr "Etiquetes més utilitzades"
+
+#: themes/transparency/pages/sidebar.php:133
+msgid "Today most used tags"
+msgstr "Etiquetes més utilitzades avui"
+
+#: themes/transparency/pages/sidebar.php:153
+#: themes/transparency/pages/sidebar.php:228
+msgid "First note"
+msgstr "Primera Nota:"
+
+#: themes/transparency/pages/sidebar.php:154
+#: themes/transparency/pages/sidebar.php:229
+msgid "First poster"
+msgstr "Qui va punlicar-ho primer"
+
+#: themes/transparency/pages/sidebar.php:159
+#: themes/transparency/pages/sidebar.php:234
+#: themes/transparency/pages/tag.php:127
+msgid "Writing rate"
+msgstr "Ràting de publicació"
+
+#: themes/transparency/pages/sidebar.php:160
+#: themes/transparency/pages/sidebar.php:235
+msgid "Max. poster"
+msgstr "Qui ho ha publicat més"
+
+#: themes/transparency/pages/sidebar.php:160
+#: themes/transparency/pages/sidebar.php:235
+#, php-format
+msgid "(%d notes)"
+msgstr "(%d notes)"
+
+#: themes/transparency/pages/sidebar.php:166
+#: themes/transparency/pages/sidebar.php:241
+#, php-format
+msgid "Tag #%s"
+msgstr "Etiqueta #%s"
+
+#: themes/transparency/pages/sidebar.php:249
+msgid "user or email"
+msgstr "usuari o correu electrònic"
+
+#: themes/transparency/pages/sidebar.php:252
+msgid "OpenID"
+msgstr "OpenID"
+
+#: themes/transparency/pages/sidebar.php:268
+msgid "RSS"
+msgstr "RSS"
+
+#: themes/transparency/pages/tag.php:2
+#, php-format
+msgid "Notes with the tag %s"
+msgstr "Notes amb l'etiqueta %s"
+
+#: themes/transparency/pages/tag.php:5
+msgid "There are no notes with this tag."
+msgstr "No hi ha notes amb aquesta etiqueta."
+
+#: themes/transparency/pages/tag.php:26 themes/transparency/pages/tag.php:37
+#: themes/transparency/pages/tag.php:48 themes/transparency/pages/tag.php:59
+msgid "There is not enough data to gererate statistics"
+msgstr "No hi ha suficients dades per generar estadístiques"
+
+#: themes/transparency/pages/tag.php:63
+msgid "Tags statistics"
+msgstr "Estadístiques etiquetes"
+
+#: themes/transparency/pages/tag.php:67
+msgid "Today"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:68
+msgid "Last week"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:69
+msgid "Last month"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:70
+msgid "Everytime"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:122
+msgid "Tags with better writing rate"
+msgstr "Etiquetes utilitzades amb més freqüència"
+
+#: themes/transparency/pages/tag.php:128
+msgid "Number of notes"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:147
+msgid "Users that created more tags"
+msgstr "Usuaris que han creat més etiquetes"
+
+#: themes/transparency/pages/tag.php:152
+msgid "Created tags"
+msgstr "Etiquetes creades"
+
+#: themes/transparency/pages/trouble_login.php:3
+msgid ""
+"If you cannot login into your account, choose an option from the forms below"
+msgstr ""
+"Si no pots entrar al teu compte, tria una de les opcions del formulari "
+"següent"
+
+#: themes/transparency/pages/trouble_login.php:8
+msgid "Resend activation mail..."
+msgstr "Re-enviar correu d'activació..."
+
+#: themes/transparency/pages/trouble_login.php:9
+msgid ""
+"If you didnt receive your activation email, you can try resending it from "
+"here. Just typing your username"
+msgstr ""
+"Si no has rebut el tu correu d'activació, pots re-enviar-te'n un altre aquí. "
+"Escrivint el teu nom d'usuari"
+
+#: themes/transparency/pages/trouble_login.php:13
+msgid "Recover password..."
+msgstr "Recuperar contrasenya..."
+
+#: themes/transparency/pages/trouble_login.php:14
+msgid ""
+"You can recover your password just typing your email or your username. An "
+"email will be delivered to the linked account"
+msgstr ""
+"Pots recuperar la teva contrasenya simplement escrivint el teu correu "
+"electrònic o nom d'usuari. T'enviarem un correu al teu compte associat"
