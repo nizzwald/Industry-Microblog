@@ -1,0 +1,11 @@
+/*****
+Jisko: An open-source microblogging application
+XHTML/CSS and images are Copyright (C) 2008 by Gabriel Longás <glongas@gmail.com>
+and published under a CC license: http://creativecommons.org/licenses/by-sa/3.0/
+
+Source code was developed by Rubén Díaz, it's published 
+under the Affero GPL License (http://jisko.net/COPYING) unless
+stated otherwise in individual files.
+*****/
+
+body{background:#f4fcff;font-family:verdana;color:#999;margin:0;padding:0}a:link,a:visited,a:hover{color:#66a3bb}p{margin:0;padding:0}ul.n{margin-left:0;list-style:none}.n li{padding-bottom:5px;border-bottom:1px solid #bbb;margin:5px 0}li small{font-style:italic;color:#bbb}.h{background:#e6f8ff;margin:0;padding:5px}.m,.f{background:#ecfafe;font-size:11px;text-align:center;margin:0;padding:8px}.p{color:#000;background-color:#6cc;text-align:center;margin:0;padding:4px}.p a{color:#000}.l{padding:5px}.lt{font-weight:700;padding-bottom:3px;margin-bottom:10px;border-bottom:1px solid #bbb}.i,.b{color:#036;background:#cff;border:1px solid #366;padding:0 2px}.u img{float:left;margin-right:5px}.us a{font-weight:700;font-style:normal;text-decoration:none;color:#066}.n{list-style:none;margin:0;padding:5px}.nl{word-wrap:break-word;font-style:normal;color:#000}.nl a{font-weight:400;text-decoration:none;color: #66a3bb}.t{font-style:italic;font-size:75%;color:#bbb}.se{height:0;clear:both}.pa{text-align:center;margin:3px;padding:3px}.pa a{margin-right:2px;border:1px solid #ddd;text-decoration:none;color:#88af3f;background-color:#f1ffd6;padding:2px 5px}.pa a:hover,.pa a:active{border:1px solid #85bd1e;color:#638425;background-color:#f1ffd6}.pa span.cu{margin-right:2px;font-weight:700;background-color:#b2e05d;color:#fff;padding:2px 5px}.pa span.dis{margin-right:2px;color:#ccc;background-color:#f3f3f3;padding:2px 5px}.b{font-weight:700}a.act{font-size:11px}#n_a a{text-decoration:none;color:#FFF;background-color:#366;border-color:#366;border-style:groove;border-width:1px;padding:2px 6px}.u,.sn{margin:5px}.r{padding-right:2px;padding-left:2px;background-color:#f99;color:#900 !important;border-color:#900;border-style:solid;border-width:1px;font-weight:700}.l input[type=text], input[type=password]{padding:5px}

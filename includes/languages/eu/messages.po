@@ -1,0 +1,2031 @@
+# Basque translation for jisko
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the jisko package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jisko\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-07-26 17:29-0700\n"
+"PO-Revision-Date: 2010-07-28 02:37+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Basque <eu@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-07-28 03:04+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: pages/ajax.php:95
+msgid "The note does not exist"
+msgstr ""
+
+#: pages/ajax.php:113
+msgid "There was an error while trying to close your session"
+msgstr ""
+
+#: pages/ajax.php:135 pages/post.php:42
+#: themes/transparency/pages/header.php:50
+msgid "The note is too short"
+msgstr ""
+
+#: pages/ajax.php:138 pages/post.php:45
+#: themes/transparency/pages/header.php:51
+msgid "The note is too long"
+msgstr ""
+
+#: pages/ajax.php:141 pages/post.php:48
+msgid "You are not logged in correctly."
+msgstr ""
+
+#: pages/ajax.php:144
+msgid "The user doesn't exist"
+msgstr ""
+
+#: pages/ajax.php:150
+msgid "The user isn't following you"
+msgstr "Erabiltzaile hau ez dago zuri jarraitzen"
+
+#: pages/ajax.php:153 pages/ajax.php:244 pages/post.php:63
+msgid "Cowboy!"
+msgstr "Sooo!"
+
+#: pages/ajax.php:215
+msgid "You are not allowed to see the profile of this user"
+msgstr ""
+
+#: pages/ajax.php:217
+msgid "This user doesn't exists"
+msgstr ""
+
+#: pages/ajax.php:232
+msgid "You are not allowed to erase others' notes"
+msgstr ""
+
+#: pages/ajax.php:233
+msgid "The note was successfully deleted"
+msgstr ""
+
+#: pages/ajax.php:235
+msgid "You must specify a note ID"
+msgstr ""
+
+#: pages/ajax.php:258
+msgid "The user you are trying to follow is ignoring you"
+msgstr ""
+
+#: pages/ajax.php:260
+msgid "You are ignoring the user"
+msgstr ""
+
+#: pages/ajax.php:267
+msgid "There was an error while trying to follow the user. Please retry"
+msgstr ""
+
+#: pages/ajax.php:269
+msgid "You are not logged in"
+msgstr ""
+
+#: pages/download.php:27
+msgid "Note doesn't exists"
+msgstr "Nota ez da existitzen"
+
+#: pages/download.php:33
+msgid "File doesn't exists"
+msgstr "Fitxategia ez da existitzen"
+
+#: pages/following.php:26 themes/transparency/pages/notes.php:84
+#: themes/transparency/pages/settings.php:167
+#: themes/transparency/pages/settings.php:169
+#: themes/transparency/pages/sidebar.php:53
+#: themes/transparency/pages/sidebar.php:66
+#: themes/transparency/pages/sidebar.php:105
+#: themes/transparency/pages/sidebar.php:116
+#: themes/transparency/pages/sidebar.php:201
+#: themes/transparency/pages/sidebar.php:207
+msgid "Following"
+msgstr "Jarraitzen"
+
+#: pages/login.php:64 pages/mobile/login.php:35
+#: pages/mobile/template/header.php:39 themes/transparency/pages/login.php:1
+#: themes/transparency/pages/sidebar.php:257
+msgid "Login"
+msgstr "Sartu"
+
+#: pages/login.php:70 pages/settings.php:98 pages/settings.php:271
+#: pages/settings.php:424 pages/settings.php:427 pages/settings.php:482
+#: pages/settings.php:542
+msgid "Settings updated!"
+msgstr "Ezarpenak berrituta"
+
+#: pages/login.php:78 pages/login.php:161
+msgid "Your username is banned"
+msgstr "Zure erabiltzailea kanporatuta dago"
+
+#: pages/login.php:81 pages/login.php:177
+msgid "This account has not been confirmed yet"
+msgstr ""
+
+#: pages/login.php:84 pages/login.php:182 pages/mobile/login.php:20
+msgid "Incorrect password"
+msgstr "Pasahitz okerra"
+
+#: pages/login.php:87 pages/login.php:187
+msgid "The username does not exist"
+msgstr ""
+
+#: pages/login.php:90 pages/login.php:151 pages/mobile/login.php:26
+msgid "There are empty fields, fill them and try again"
+msgstr "Hutsuneak badira, bete itzazu eta saia zaitez berriro"
+
+#: pages/login.php:93 pages/settings.php:314
+msgid "Invalid OpenID url."
+msgstr ""
+
+#: pages/login.php:96
+#, php-format
+msgid "OpenID Error: %s (%s)"
+msgstr ""
+
+#: pages/login.php:99
+msgid "OpenID authorization canceled by user."
+msgstr ""
+
+#: pages/login.php:102
+msgid "Could not validate your OpenID Identity"
+msgstr ""
+
+#: pages/login.php:105
+msgid "Please login and then retry"
+msgstr ""
+
+#: pages/notes.php:36 themes/transparency/pages/sidebar.php:56
+#: themes/transparency/pages/sidebar.php:77
+#: themes/transparency/pages/sidebar.php:113
+#: themes/transparency/pages/sidebar.php:143
+#: themes/transparency/pages/sidebar.php:158
+#: themes/transparency/pages/sidebar.php:204
+#: themes/transparency/pages/sidebar.php:218
+#: themes/transparency/pages/sidebar.php:233
+msgid "Notes"
+msgstr "Notak"
+
+#: pages/settings.php:26 themes/transparency/pages/header.php:73
+msgid "Settings"
+msgstr "Ezarpenak"
+
+#: pages/settings.php:77 pages/settings.php:407 pages/settings.php:454
+#: pages/settings.php:464 pages/settings.php:495
+msgid "You are not allowed to perform this operation"
+msgstr ""
+
+#: pages/settings.php:83
+msgid "There was a problem while trying to delete your avatar"
+msgstr ""
+
+#: pages/settings.php:104
+msgid "Invalid extension!"
+msgstr "Luzapen okerra"
+
+#: pages/settings.php:107
+msgid "File too big!"
+msgstr "Fitxategia handiegia da!"
+
+#: pages/settings.php:110
+msgid "There was a problem while trying to upload your avatar"
+msgstr ""
+
+#: pages/settings.php:113
+msgid "There was a problem while trying to delete your previous avatar"
+msgstr ""
+
+#: pages/settings.php:258
+msgid "We have changed successfully your email"
+msgstr ""
+
+#: pages/settings.php:275
+msgid "Nothing changed..."
+msgstr ""
+
+#: pages/settings.php:278
+msgid "We have sent you a confirm message to the new mail!"
+msgstr ""
+
+#: pages/settings.php:287 pages/register.php:70
+msgid "Taken username, please choose another!"
+msgstr "Erabiltzaile-izena hartuta dago, mesedez hautatu beste bat!"
+
+#: pages/settings.php:290 pages/register.php:82
+msgid "Sorry! Your choosen username appears to be invalid"
+msgstr ""
+
+#: pages/settings.php:293
+msgid "Not valid email"
+msgstr ""
+
+#: pages/settings.php:296
+msgid "E-mail has already been taken"
+msgstr "E-posta erabilita dago"
+
+#: pages/settings.php:299
+msgid "Not valid jabber account"
+msgstr ""
+
+#: pages/settings.php:302
+msgid "Jabber has already been taken"
+msgstr "Jabber helbide hori hartuta dago"
+
+#: pages/settings.php:305
+msgid "Passwords don't match"
+msgstr ""
+
+#: pages/settings.php:308
+msgid "The provided OpenID url was already linked with another account"
+msgstr ""
+
+#: pages/settings.php:311
+msgid "Error while trying to contact the OpenID server"
+msgstr ""
+
+#: pages/settings.php:317
+msgid "Invalid password/login verification"
+msgstr ""
+
+#: pages/settings.php:320
+msgid "There was an error while trying to migrate your user data"
+msgstr ""
+
+#: pages/settings.php:409
+msgid "There was a problem while trying to delete your background"
+msgstr ""
+
+#: pages/settings.php:433
+msgid "Invalid background extension"
+msgstr ""
+
+#: pages/settings.php:436
+msgid "Background image too big!"
+msgstr ""
+
+#: pages/settings.php:439
+msgid "There was a problem while trying to delete your previous background"
+msgstr ""
+
+#: pages/settings.php:442
+msgid "There was a problem while trying to upload your background"
+msgstr ""
+
+#: pages/settings.php:479
+msgid "Disabled twitter integration with success"
+msgstr ""
+
+#: pages/settings.php:492
+msgid "There was a problem while trying to link your account with Twitter"
+msgstr ""
+
+#: pages/followers.php:26 themes/transparency/pages/sidebar.php:54
+#: themes/transparency/pages/sidebar.php:107
+#: themes/transparency/pages/sidebar.php:109
+#: themes/transparency/pages/sidebar.php:202
+msgid "Followers"
+msgstr "Jarraika"
+
+#: pages/post.php:33
+msgid "The uploaded file is too big"
+msgstr ""
+
+#: pages/post.php:36
+msgid "The uploaded file is not allowed"
+msgstr ""
+
+#: pages/post.php:39
+msgid "There was a problem while trying to upload the attached file"
+msgstr ""
+
+#: pages/post.php:51
+msgid "The user does not exist"
+msgstr ""
+
+#: pages/post.php:57
+msgid "The user is not following you"
+msgstr ""
+
+#: pages/post.php:60
+msgid "You can't send a private note to yourself"
+msgstr ""
+
+#: pages/register.php:30 themes/transparency/pages/register.php:7
+#: themes/transparency/pages/sidebar.php:261
+msgid "Register"
+msgstr "Erregistratu"
+
+#: pages/register.php:38 pages/trouble_login.php:75
+msgid "Check your email (including SPAM) to activate your account"
+msgstr "Egiazta ezazu zure posta (SPAM buzoia ere) zure kontua aktibatzeko"
+
+#: pages/register.php:40 pages/register.php:45
+msgid "You can access now with your account, thank you!"
+msgstr "Orain sartzen ahal zara zure kontuarekin, milesker!"
+
+#: pages/register.php:52
+msgid "Invalid confirmation code!"
+msgstr "Baliogabeko egiaztapen kodigoa"
+
+#: pages/register.php:61
+msgid "You need a valid token to register an account!"
+msgstr ""
+
+#: pages/register.php:64
+msgid "Sorry! The provided email is invalid"
+msgstr ""
+
+#: pages/register.php:67
+msgid "You must accept the Terms of Service (TOS)"
+msgstr ""
+
+#: pages/register.php:73
+msgid "Email is taken, please choose another!"
+msgstr "Email-a hartuta dago, mesedez, hautatu beste bat!"
+
+#: pages/register.php:76
+msgid "Passwords don't match!"
+msgstr ""
+
+#: pages/register.php:79 pages/trouble_login.php:33
+msgid "Incorrect reCAPTCHA code!"
+msgstr "reCAPTCHA kode okerra!"
+
+#: pages/register.php:85
+msgid "There was a problem while trying to create your user"
+msgstr ""
+
+#: pages/search.php:44
+msgid "Search results"
+msgstr "Bilaketaren emaitzak"
+
+#: pages/user.php:37 pages/mobile/user.php:28
+#: themes/transparency/pages/404.php:1
+msgid "Not found"
+msgstr "Ez da aurkitu"
+
+#: pages/user.php:54 pages/mobile/user.php:45
+#, php-format
+msgid "%username's profile"
+msgstr "%username perfila"
+
+#: includes/api.php:170
+msgid "Public notes from all the users"
+msgstr ""
+
+#: includes/api.php:175
+#, php-format
+msgid "Notes of %s + it's followings"
+msgstr ""
+
+#: includes/api.php:201 includes/api.php:202
+#, php-format
+msgid "Notes of %s"
+msgstr ""
+
+#: includes/api.php:216
+#, php-format
+msgid "Twitter followings of %s"
+msgstr ""
+
+#: includes/api.php:222
+#, php-format
+msgid "Replies for %s"
+msgstr ""
+
+#: includes/api.php:375
+#, php-format
+msgid "Private notes sent by %s"
+msgstr ""
+
+#: includes/api.php:378
+#, php-format
+msgid "Private notes of %s"
+msgstr ""
+
+#: includes/api.php:888 includes/api.php:889
+msgid "Favorite notes of "
+msgstr ""
+
+#: includes/forms.php:23 themes/transparency/pages/header.php:75
+msgid "Administration"
+msgstr ""
+
+#: includes/forms.php:39
+msgid "General"
+msgstr "Orokorra"
+
+#: includes/forms.php:40
+msgid "Environment"
+msgstr ""
+
+#: includes/forms.php:41
+msgid "URL Shortening"
+msgstr ""
+
+#: includes/forms.php:42
+msgid "Themes"
+msgstr ""
+
+#: includes/forms.php:43
+msgid "Users"
+msgstr ""
+
+#: includes/forms.php:44
+msgid "Misc"
+msgstr ""
+
+#: includes/forms.php:57
+#, php-format
+msgid "If you are having problems with Jisko contact us at %s"
+msgstr ""
+
+#: includes/functions.php:668 themes/transparency/pages/header.php:45
+msgid "right now"
+msgstr "momentu honetan"
+
+#: includes/functions.php:670 themes/transparency/pages/header.php:46
+#, php-format
+msgid "%ss ago"
+msgstr "orain dela %ss"
+
+#: includes/functions.php:674 themes/transparency/pages/header.php:47
+#, php-format
+msgid "%sm ago"
+msgstr "orain dela %sm"
+
+#: includes/functions.php:679
+msgid "about 1h ago"
+msgstr "orain dela 1h inguru"
+
+#: includes/functions.php:680 themes/transparency/pages/header.php:48
+#, php-format
+msgid "about %sh ago"
+msgstr "orain dela %sh inguru"
+
+#: includes/functions.php:685
+msgid "about 1d ago"
+msgstr "orain dela egun 1 inguru"
+
+#: includes/functions.php:686 themes/transparency/pages/header.php:49
+#, php-format
+msgid "about %sd ago"
+msgstr "orain dela %sd inguru"
+
+#: includes/functions.php:689
+#, php-format
+msgid "the %s at %s"
+msgstr "hau %s ordu honetan %s"
+
+#: includes/functions.php:1986
+msgid "Disabled"
+msgstr ""
+
+#: includes/functions.php:1986
+msgid "random"
+msgstr ""
+
+#: includes/thumbnail.php:31
+msgid "File don't exists"
+msgstr "Fitxategia ez da existitzen"
+
+#: includes/thumbnail.php:53
+msgid "Format not supported"
+msgstr "Formatua ez dago onartuta"
+
+#: includes/thumbnail.php:87
+msgid "Bad properties."
+msgstr "Ezarpen okerrak"
+
+#: includes/thumbnail.php:122
+msgid "Image exists"
+msgstr "Irudia existitzen da"
+
+#: includes/mails.php:60
+#, php-format
+msgid "Turn off this notifications at %s"
+msgstr ""
+
+#: includes/mails.php:62
+#, php-format
+msgid "Have you got any problem? Contact the administrator at %s"
+msgstr ""
+
+#: includes/mails.php:63
+#, php-format
+msgid ""
+"Since you got registered on %s, you agree with the Terms of Service (TOS) "
+"placed in %s"
+msgstr ""
+
+#: includes/mails.php:92
+#, php-format
+msgid ""
+"Someone (probably you) has just requested a password reset for the account "
+"with %username as the username. Because we need to confirm the request, "
+"please click the link placed below in order to continue the process:"
+msgstr ""
+
+#: includes/mails.php:92
+msgid ""
+"Please remember that this link will expire in 24h, so if you didn't request "
+"a password change, simply ignore this email"
+msgstr ""
+
+#: includes/mails.php:94
+msgid "Password reset instructions"
+msgstr "Pasahitz berria jasotzeko argibideak"
+
+#: includes/mails.php:94
+msgid "Password reset"
+msgstr ""
+
+#: includes/mails.php:118
+msgid ""
+"We have received your request for changing your password and here is your "
+"new password:"
+msgstr ""
+
+#: includes/mails.php:120
+#, php-format
+msgid "Remember that you can change your password at %s"
+msgstr ""
+
+#: includes/mails.php:122
+msgid "Your new password"
+msgstr ""
+
+#: includes/mails.php:151
+msgid "%real_or_username is now following you"
+msgstr ""
+
+#: includes/mails.php:152
+msgid "%real_or_username is now following your updates on %name"
+msgstr ""
+
+#: includes/mails.php:154
+msgid "notes"
+msgstr ""
+
+#: includes/mails.php:154
+msgid "followers"
+msgstr ""
+
+#: includes/mails.php:154
+#, php-format
+msgid "following %s users"
+msgstr ""
+
+#: includes/mails.php:154
+#, php-format
+msgid "You can check his/her profile at %s"
+msgstr ""
+
+#: includes/mails.php:159
+msgid "New follower"
+msgstr ""
+
+#: includes/mails.php:180
+msgid "Private message from %real_or_username"
+msgstr ""
+
+#: includes/mails.php:185
+msgid "%real_or_username has sent you a private message:"
+msgstr ""
+
+#: includes/mails.php:188 includes/mails.php:224
+#, php-format
+msgid "With the following attachment: %s"
+msgstr ""
+
+#: includes/mails.php:190
+#, php-format
+msgid ""
+"You can reply to this message by sending a note with \"!%username <your "
+"message>\" or through the web interface at %base"
+msgstr ""
+
+#: includes/mails.php:194
+msgid "New private message"
+msgstr ""
+
+#: includes/mails.php:220
+msgid "Reply from %real_or_username"
+msgstr ""
+
+#: includes/mails.php:222
+msgid "%real_or_username has replied or mentioned you in the following note:"
+msgstr ""
+
+#: includes/mails.php:225 includes/mails.php:228 includes/mails.php:487
+msgid "Permalink:"
+msgstr ""
+
+#: includes/mails.php:228
+msgid "This note was replying to:"
+msgstr ""
+
+#: includes/mails.php:255
+msgid "Confirmation for %name account"
+msgstr ""
+
+#: includes/mails.php:257
+msgid ""
+"Someone (probably you) has requested an account in %name. However, we need "
+"to know if you are the owner of this mail account."
+msgstr ""
+
+#: includes/mails.php:258
+msgid "To confirm it, please click in the link placed below:"
+msgstr ""
+
+#: includes/mails.php:259
+msgid ""
+"If you didn't request an account at %name, ignore this mail and apologies "
+"for the inconvenience."
+msgstr ""
+
+#: includes/mails.php:263
+msgid "Account confirmation"
+msgstr ""
+
+#: includes/mails.php:287
+msgid ""
+"Someone (probably you) has requested a change of the email assigned to your "
+"account in %name. Your new email will be:"
+msgstr ""
+
+#: includes/mails.php:287
+msgid ""
+"If you requested this change, then confirm it by clicking the link placed "
+"below:"
+msgstr ""
+
+#: includes/mails.php:287
+msgid ""
+"Otherwise, if you didn't request this change, then simply ignore this "
+"message, because this link will expire in 24h"
+msgstr ""
+
+#: includes/mails.php:289
+msgid "Confirm email change"
+msgstr "Posta aldaketa onartu"
+
+#: includes/mails.php:289
+msgid "Email change"
+msgstr ""
+
+#: includes/mails.php:313
+msgid "Welcome to %name"
+msgstr ""
+
+#: includes/mails.php:314
+msgid ""
+"You have just confirmed your account in %name, so now you can start "
+"personalizing your profile at %p_url!"
+msgstr ""
+
+#: includes/mails.php:315
+msgid ""
+"%name is based on Jisko, an open-source microblogging platform. You can find "
+"more information about Jisko at http://www.jisko.org"
+msgstr ""
+
+#: includes/mails.php:315
+msgid "Thank you very much for signing up in %name and for giving us a try!"
+msgstr ""
+
+#: includes/mails.php:319
+msgid "Welcome!"
+msgstr ""
+
+#: includes/mails.php:333
+msgid "There's a new user on %name"
+msgstr ""
+
+#: includes/mails.php:335
+msgid "A new user called %username has joined %name."
+msgstr ""
+
+#: includes/mails.php:335
+#, php-format
+msgid ""
+"It should be empty, but if you want, you can check his profile at %url"
+msgstr ""
+
+#: includes/mails.php:341
+msgid "New account"
+msgstr ""
+
+#: includes/mails.php:351
+msgid "The user %username has deleted his account from %name"
+msgstr ""
+
+#: includes/mails.php:353
+msgid "The user %username has deleted his account from %name."
+msgstr ""
+
+#: includes/mails.php:353
+#, php-format
+msgid "If you want to contact him, his email is %email"
+msgstr ""
+
+#: includes/mails.php:359
+msgid "Deleted account"
+msgstr ""
+
+#: includes/mails.php:367
+msgid "%username has invited you to %name!"
+msgstr ""
+
+#: includes/mails.php:369
+msgid "Hey!"
+msgstr ""
+
+#: includes/mails.php:369
+msgid ""
+"%username just sent you an invitation for using %name! %name is a "
+"microblogging portal where you can share your own experiences and your "
+"feelings about everything."
+msgstr ""
+
+#: includes/mails.php:369
+msgid "Why don't you give %name a try and register?"
+msgstr ""
+
+#: includes/mails.php:369
+msgid "Click on the following link in order to use your invitation to %name"
+msgstr ""
+
+#: includes/mails.php:369
+msgid "Thank you and have fun on %name!"
+msgstr ""
+
+#: includes/mails.php:374
+#, php-format
+msgid "Invitation to %s"
+msgstr ""
+
+#: includes/mails.php:391
+msgid ""
+"We send this mail to tell you that your password on %name has been changed."
+msgstr ""
+
+#: includes/mails.php:392
+msgid ""
+"This change was requested from the ip %ip. If you were not the user who "
+"changed your password, please contact the administrator at %contact_page"
+msgstr ""
+
+#: includes/mails.php:394
+msgid "Your password has been changed"
+msgstr "Zure pasahitza aldatu da"
+
+#: includes/mails.php:418
+msgid ""
+"Are you sure you want to delete your %name account? If you are having "
+"problems with %name, remember that you can contact us through %contact_page "
+"and we will take notes about your issues/suggestions."
+msgstr ""
+
+#: includes/mails.php:419
+msgid ""
+"If you're are completely sure of your decision (remember, this is NOT "
+"REVERSIBLE), please click the link placed below:"
+msgstr ""
+
+#: includes/mails.php:420
+msgid ""
+"You must be logged in order to delete your account and remember that this "
+"request will expire in 24h."
+msgstr ""
+
+#: includes/mails.php:420
+msgid "We will miss you!"
+msgstr ""
+
+#: includes/mails.php:422
+msgid "Delete account confirmation"
+msgstr "Kontua ezabatzeko egiaztapena"
+
+#: includes/mails.php:444
+msgid "Someone has sent you a message through the Contact page"
+msgstr ""
+
+#: includes/mails.php:445
+#, php-format
+msgid "%s has sent you a message through the Contact page"
+msgstr ""
+
+#: includes/mails.php:447
+msgid ""
+"Someone has decided to contact you through the contact page of your Jisko "
+"installation. Here are the details:"
+msgstr ""
+
+#: includes/mails.php:453
+msgid ""
+"Please remember that you can only reply this message through the email "
+"provided. Otherwise, he won't see your answer"
+msgstr ""
+
+#: includes/mails.php:455 includes/mails.php:456
+msgid "New message received"
+msgstr ""
+
+#: includes/mails.php:466
+msgid "%username reported the user %r_username"
+msgstr ""
+
+#: includes/mails.php:468
+msgid ""
+"The user %username (ID: %id) from the IP %ip reported the user %r_username "
+"(ID: %r_id)."
+msgstr ""
+
+#: includes/mails.php:474 includes/mails.php:495
+msgid "New abuse report"
+msgstr ""
+
+#: includes/mails.php:484
+msgid "%username reported the note %r_note"
+msgstr ""
+
+#: includes/mails.php:486
+msgid ""
+"The user %username (ID: %id) from the IP %ip reported the note %r_note made "
+"by %r_username (ID: %r_id)."
+msgstr ""
+
+#: includes/mobile.php:44 themes/transparency/pages/functions.php:58
+#: themes/transparency/pages/functions.php:62
+#: themes/transparency/pages/header.php:38
+msgid "Reply"
+msgstr "Erantzun"
+
+#: includes/mobile.php:46
+msgid "More info"
+msgstr ""
+
+#: includes/mobile.php:162 includes/mobile.php:164
+#: themes/transparency/pages/functions.php:176
+#: themes/transparency/pages/functions.php:178
+msgid "previous"
+msgstr "aurrekoa"
+
+#: includes/mobile.php:203 includes/mobile.php:205
+#: themes/transparency/pages/functions.php:238
+#: themes/transparency/pages/functions.php:240
+msgid "next"
+msgstr "hurrengoa"
+
+#: includes/mobile.php:219
+msgid "more notes"
+msgstr ""
+
+#: includes/mobile.php:229
+msgid "Send note"
+msgstr "Nota bidali"
+
+#: includes/mobile.php:234 themes/transparency/pages/functions.php:260
+#: themes/transparency/pages/contact.php:25
+msgid "Send"
+msgstr "Bidali"
+
+#: includes/mobile.php:248 pages/mobile/notes.php:48
+#: pages/mobile/template/footer.php:24 themes/transparency/pages/notes.php:7
+#: themes/transparency/pages/notes.php:9
+#: themes/transparency/pages/notes.php:43
+#: themes/transparency/pages/notes.php:45
+msgid "Archive"
+msgstr "Artxiboa"
+
+#: includes/mobile.php:248 includes/mobile.php:254
+#: themes/transparency/pages/notes.php:26
+#: themes/transparency/pages/notes.php:29
+#: themes/transparency/pages/notes.php:31
+#: themes/transparency/pages/notes.php:62
+#: themes/transparency/pages/notes.php:65
+#: themes/transparency/pages/notes.php:67
+#: themes/transparency/pages/sidebar.php:112
+msgid "Private messages"
+msgstr ""
+
+#: includes/mobile.php:248 themes/transparency/pages/notes.php:84
+#: themes/transparency/pages/settings.php:155
+#: themes/transparency/pages/settings.php:157
+msgid "Replies"
+msgstr "Erantzunak"
+
+#: includes/mobile.php:248 pages/mobile/notes.php:52 pages/mobile/notes.php:56
+#: themes/transparency/pages/notes.php:21
+#: themes/transparency/pages/notes.php:23
+#: themes/transparency/pages/notes.php:57
+#: themes/transparency/pages/notes.php:59
+msgid "Friends"
+msgstr "Lagunak"
+
+#: includes/mobile.php:252 themes/transparency/pages/header.php:73
+#: themes/transparency/pages/header.php:79
+msgid "Home"
+msgstr "Sarrera"
+
+#: includes/mobile.php:258 pages/mobile/notes.php:38
+#: themes/transparency/pages/notes.php:35
+#: themes/transparency/pages/notes.php:37
+#: themes/transparency/pages/settings.php:20
+#: themes/transparency/pages/settings.php:92
+#: themes/transparency/pages/settings.php:220
+#: themes/transparency/pages/settings.php:277
+#: themes/transparency/pages/settings.php:284
+#: themes/transparency/pages/settings.php:340
+#: themes/transparency/pages/settings.php:359
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/mobile.php:259 themes/transparency/pages/notes.php:90
+msgid "Received"
+msgstr "Jasotze-data"
+
+#: includes/mobile.php:259 themes/transparency/pages/notes.php:90
+msgid "Sent"
+msgstr "Bidalita"
+
+#: pages/mobile/login.php:23
+msgid "There is no user with that name"
+msgstr "Ez da erabiltzailerik izen horrekin"
+
+#: pages/mobile/login.php:29
+msgid "This account hasn't been confirmed yet"
+msgstr ""
+
+#: pages/mobile/login.php:36 themes/transparency/pages/contact.php:11
+#: themes/transparency/pages/register.php:18
+#: themes/transparency/pages/tag.php:151
+#: themes/transparency/pages/trouble_login.php:10
+#: themes/transparency/pages/trouble_login.php:16
+msgid "Username"
+msgstr "Erabiltzaile-izena"
+
+#: pages/mobile/login.php:37 themes/transparency/pages/register.php:25
+#: themes/transparency/pages/sidebar.php:250
+msgid "Password"
+msgstr "Pasahitza"
+
+#: pages/mobile/login.php:40
+msgid "Log In"
+msgstr "Identifikatu"
+
+#: pages/mobile/notes.php:33
+msgid "Received messages"
+msgstr ""
+
+#: pages/mobile/notes.php:35
+msgid "Sent messages"
+msgstr ""
+
+#: pages/mobile/notes.php:50
+msgid "Friends + Twitter"
+msgstr "Lagunak + Twitter"
+
+#: pages/mobile/notes.php:71 pages/mobile/public.php:37
+#: pages/mobile/user.php:79 themes/transparency/pages/notes.php:96
+#: themes/transparency/pages/user.php:38 themes/transparency/pages/user.php:93
+#: themes/transparency/pages/header.php:61
+msgid "No notes were found"
+msgstr "Ez da notarik aurkitu"
+
+#: pages/mobile/public.php:26 pages/mobile/template/footer.php:23
+#: themes/transparency/pages/notes.php:73
+#: themes/transparency/pages/header.php:73
+#: themes/transparency/pages/header.php:79
+#: themes/transparency/pages/sidebar.php:76
+#: themes/transparency/pages/sidebar.php:142
+#: themes/transparency/pages/sidebar.php:165
+#: themes/transparency/pages/sidebar.php:217
+#: themes/transparency/pages/sidebar.php:240
+#: themes/transparency/pages/sidebar.php:271
+msgid "Public notes"
+msgstr "Nota publikoak"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/sidebar.php:26
+msgid "Report"
+msgstr "Informatu"
+
+#: pages/mobile/user.php:62
+msgid "Unfollow"
+msgstr "Jarraitzeari utzi"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/functions.php:122
+#: themes/transparency/pages/header.php:31
+#: themes/transparency/pages/sidebar.php:14
+msgid "Follow"
+msgstr "Jarraitu"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/header.php:32
+msgid "Stop ignoring"
+msgstr ""
+
+#: pages/mobile/user.php:62 themes/transparency/pages/header.php:33
+#: themes/transparency/pages/sidebar.php:22
+msgid "Ignore"
+msgstr "Ez ikusi egin"
+
+#: pages/mobile/user.php:66
+msgid "Not allowed"
+msgstr "Ez onartua"
+
+#: pages/mobile/user.php:69
+msgid "You aren't allowed to see the notes of this user"
+msgstr ""
+
+#: pages/mobile/template/header.php:30 pages/mobile/template/header.php:31
+msgid "Friends_timeline (RSS 2.0)"
+msgstr ""
+
+#: pages/mobile/template/header.php:38 themes/transparency/pages/header.php:77
+msgid "Logout"
+msgstr "Saiotik irten"
+
+#: pages/mobile/template/footer.php:25 themes/transparency/pages/tos.php:1
+msgid "Terms of Service"
+msgstr "Zerbitzu erabilera-terminoak"
+
+#: pages/mobile/template/footer.php:26
+msgid "Normal version"
+msgstr "Bertsio normala"
+
+#: pages/faq.php:21 themes/transparency/pages/faq.php:1
+msgid "Frequently Asked Questions (FAQ)"
+msgstr ""
+
+#: pages/trouble_login.php:25 themes/transparency/pages/sidebar.php:265
+#: themes/transparency/pages/trouble_login.php:1
+msgid "Having trouble while logging in?"
+msgstr ""
+
+#: pages/trouble_login.php:40
+msgid "That email doesn't exist in our database"
+msgstr "Posta hori ez da existitzen datu basean!"
+
+#: pages/trouble_login.php:44 pages/trouble_login.php:61
+msgid "There's no user with that username"
+msgstr ""
+
+#: pages/trouble_login.php:52
+msgid "We have just sent an e-mail with instructions!"
+msgstr "Posta elektroniko bat bidali dizugu azalpenekin."
+
+#: pages/trouble_login.php:56 pages/trouble_login.php:81
+msgid "Please fill all the inputs"
+msgstr ""
+
+#: pages/trouble_login.php:63
+msgid "The account was not waiting for an activation email"
+msgstr ""
+
+#: pages/trouble_login.php:68
+msgid "There was a problem while trying to obtain your key. Please retry"
+msgstr ""
+
+#: pages/trouble_login.php:103
+msgid "We have just sent you an e-mail with your new password"
+msgstr "Posta elektroniko bat bidali dizugu pasahitz berriarekin"
+
+#: pages/trouble_login.php:105 pages/trouble_login.php:108
+msgid "Invalid key"
+msgstr "Kode okerra"
+
+#: themes/transparency/pages/404.php:2
+msgid "The page you're looking for doesn't exists."
+msgstr "Xekatzen duzun orrialdea ez da existitzen."
+
+#: themes/transparency/pages/following.php:1
+msgid "Users I'm following"
+msgstr ""
+
+#: themes/transparency/pages/following.php:5
+#: themes/transparency/pages/user.php:50 themes/transparency/pages/user.php:68
+#: themes/transparency/pages/followers.php:5
+msgid "No users were found"
+msgstr "Erabiltzailerik ez da aurkitu"
+
+#: themes/transparency/pages/functions.php:35
+#: themes/transparency/pages/header.php:39
+msgid "Are you sure? There is NO UNDO!"
+msgstr "Seguru zaude? Ezin da gero DESEGIN!"
+
+#: themes/transparency/pages/functions.php:35
+#: themes/transparency/pages/header.php:40
+msgid "Delete note"
+msgstr "Nota ezabatu"
+
+#: themes/transparency/pages/functions.php:39
+#: themes/transparency/pages/header.php:34
+msgid "Download file"
+msgstr "Fitxategia deskargatu"
+
+#: themes/transparency/pages/functions.php:45
+#: themes/transparency/pages/header.php:35
+msgid "Delete favorite"
+msgstr "Gustokoa ezabatu"
+
+#: themes/transparency/pages/functions.php:47
+#: themes/transparency/pages/header.php:36
+msgid "Add to favorites"
+msgstr "Gustokoetara gehitu"
+
+#: themes/transparency/pages/functions.php:50
+#: themes/transparency/pages/functions.php:61
+#: themes/transparency/pages/header.php:37
+msgid "Permalink"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:120
+#: themes/transparency/pages/header.php:30
+msgid "Stop following"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:128
+msgid "Last note:"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:131
+msgid "To follow this user, first you have to stop ignoring him."
+msgstr ""
+
+#: themes/transparency/pages/functions.php:142
+#: themes/transparency/pages/header.php:42
+msgid "reply"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:143
+#: themes/transparency/pages/header.php:43
+msgid "replies"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:257
+msgid "Attach file"
+msgstr "Fitxategia sartu"
+
+#: themes/transparency/pages/functions.php:265
+msgid "Shrink URLs"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:315
+msgid "active"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:315
+msgid "banned"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:315
+msgid "not confirmed"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:326
+msgid "now"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:333
+msgid "today"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:340
+msgid "this month"
+msgstr ""
+
+#: themes/transparency/pages/homepage.php:1
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: themes/transparency/pages/report.php:5
+#, php-format
+msgid "Report the user %s"
+msgstr ""
+
+#: themes/transparency/pages/report.php:6
+msgid "Some reasons to report an account can be:"
+msgstr ""
+
+#: themes/transparency/pages/report.php:9
+#: themes/transparency/pages/report.php:49
+msgid "SPAM"
+msgstr ""
+
+#: themes/transparency/pages/report.php:10
+#: themes/transparency/pages/report.php:50
+msgid "Offensive content"
+msgstr ""
+
+#: themes/transparency/pages/report.php:11
+#: themes/transparency/pages/report.php:51
+msgid "Duplicated account"
+msgstr ""
+
+#: themes/transparency/pages/report.php:12
+#: themes/transparency/pages/report.php:52
+msgid "Unlawful attached files"
+msgstr ""
+
+#: themes/transparency/pages/report.php:13
+#: themes/transparency/pages/report.php:53
+msgid "Illicit purposes"
+msgstr ""
+
+#: themes/transparency/pages/report.php:15
+msgid ""
+"You must be completely SURE that the user you are reporting is not following "
+"our Terms of Service."
+msgstr ""
+
+#: themes/transparency/pages/report.php:16
+#: themes/transparency/pages/report.php:56
+msgid "And remember:"
+msgstr ""
+
+#: themes/transparency/pages/report.php:19
+#: themes/transparency/pages/report.php:59
+msgid "You will remain in anonymity"
+msgstr ""
+
+#: themes/transparency/pages/report.php:20
+#: themes/transparency/pages/report.php:60
+msgid ""
+"When finishing this, you will not get any notification, but report has been "
+"sent"
+msgstr ""
+
+#: themes/transparency/pages/report.php:21
+#: themes/transparency/pages/report.php:61
+msgid "Fake or duplicated reports means the blocking of your account!"
+msgstr ""
+
+#: themes/transparency/pages/report.php:24
+#: themes/transparency/pages/report.php:64
+msgid ""
+"If after reading this, you still want to report this account, go forward, we "
+"are grateful for your help!"
+msgstr ""
+
+#: themes/transparency/pages/report.php:31
+#: themes/transparency/pages/report.php:71
+#: themes/transparency/pages/trouble_login.php:26
+msgid "Continue"
+msgstr ""
+
+#: themes/transparency/pages/report.php:39
+msgid "The user was reported successfully"
+msgstr ""
+
+#: themes/transparency/pages/report.php:45
+#, php-format
+msgid "Report the note #%s"
+msgstr ""
+
+#: themes/transparency/pages/report.php:46
+msgid "Some reasons to report a note can be:"
+msgstr ""
+
+#: themes/transparency/pages/report.php:55
+msgid ""
+"You must be completely SURE that the note you are reporting is not following "
+"our Terms of Service."
+msgstr ""
+
+#: themes/transparency/pages/report.php:79
+msgid "The note was reported successfully"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:13
+#: themes/transparency/pages/settings.php:16
+#: themes/transparency/pages/settings.php:88
+#: themes/transparency/pages/settings.php:216
+#: themes/transparency/pages/settings.php:280
+#: themes/transparency/pages/settings.php:336
+#: themes/transparency/pages/settings.php:355
+msgid "Profile"
+msgstr "Perfila"
+
+#: themes/transparency/pages/settings.php:17
+#: themes/transparency/pages/settings.php:85
+#: themes/transparency/pages/settings.php:89
+#: themes/transparency/pages/settings.php:217
+#: themes/transparency/pages/settings.php:281
+#: themes/transparency/pages/settings.php:337
+#: themes/transparency/pages/settings.php:356
+msgid "Configuration"
+msgstr "Konfigurazioa"
+
+#: themes/transparency/pages/settings.php:18
+#: themes/transparency/pages/settings.php:90
+#: themes/transparency/pages/settings.php:213
+#: themes/transparency/pages/settings.php:218
+#: themes/transparency/pages/settings.php:282
+#: themes/transparency/pages/settings.php:338
+#: themes/transparency/pages/settings.php:357
+msgid "Customize"
+msgstr "Pertsonalizatu"
+
+#: themes/transparency/pages/settings.php:19
+#: themes/transparency/pages/settings.php:91
+#: themes/transparency/pages/settings.php:219
+#: themes/transparency/pages/settings.php:283
+#: themes/transparency/pages/settings.php:339
+#: themes/transparency/pages/settings.php:352
+#: themes/transparency/pages/settings.php:358
+msgid "Privacy"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:21
+#: themes/transparency/pages/settings.php:93
+#: themes/transparency/pages/settings.php:221
+#: themes/transparency/pages/settings.php:285
+#: themes/transparency/pages/settings.php:333
+#: themes/transparency/pages/settings.php:341
+#: themes/transparency/pages/settings.php:360
+msgid "Ignored users"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:28
+msgid "Bio (140 chars max.)"
+msgstr "Bio (140 karaktere max.)"
+
+#: themes/transparency/pages/settings.php:33
+#: themes/transparency/pages/sidebar.php:32
+#: themes/transparency/pages/sidebar.php:90
+#: themes/transparency/pages/sidebar.php:180
+#: themes/transparency/pages/tag.php:126
+msgid "Name"
+msgstr "Izena"
+
+#: themes/transparency/pages/settings.php:35
+msgid "Webpage"
+msgstr "Webgunea"
+
+#: themes/transparency/pages/settings.php:37
+#: themes/transparency/pages/sidebar.php:35
+#: themes/transparency/pages/sidebar.php:93
+#: themes/transparency/pages/sidebar.php:183
+msgid "Location"
+msgstr "Kokapena"
+
+#: themes/transparency/pages/settings.php:40
+#: themes/transparency/pages/register.php:38
+msgid "Language"
+msgstr "Hizkuntza"
+
+#: themes/transparency/pages/settings.php:55
+msgid "Change my profile picture"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:59
+msgid "250 KB max. size, jpg/png/gif format"
+msgstr "250 KB gehienez, jpg/png/gif formatuan"
+
+#: themes/transparency/pages/settings.php:63
+msgid "Delete it"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:71
+msgid "Enable Gravatar service"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:78
+#: themes/transparency/pages/settings.php:206
+#: themes/transparency/pages/settings.php:271
+#: themes/transparency/pages/settings.php:329
+#: themes/transparency/pages/settings.php:434
+msgid "Save"
+msgstr "Gorde"
+
+#: themes/transparency/pages/settings.php:98
+msgid "change my username"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:102
+msgid "repeat new password"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:104
+msgid "new password (if you want to change it)"
+msgstr "pasahitz berria (aldatu nahi baldin baduzu)"
+
+#: themes/transparency/pages/settings.php:108
+msgid "e-mail"
+msgstr "posta elektronikoa"
+
+#: themes/transparency/pages/settings.php:116
+msgid "Disable connection with Facebook"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:118
+msgid "Connect my account with Facebook"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:123
+msgid "OpenID URL"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:131
+msgid "Request new API key"
+msgstr "API gako berria eskatu"
+
+#: themes/transparency/pages/settings.php:135
+msgid "API key"
+msgstr "API gakoa"
+
+#: themes/transparency/pages/settings.php:140
+msgid "Notification level"
+msgstr "Ohartarazte modua"
+
+#: themes/transparency/pages/settings.php:143
+#: themes/transparency/pages/settings.php:145
+msgid "Everything"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:149
+#: themes/transparency/pages/settings.php:151
+msgid "Privates and Following"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:161
+#: themes/transparency/pages/settings.php:163
+msgid "Privates"
+msgstr "Pribatuak"
+
+#: themes/transparency/pages/settings.php:173
+#: themes/transparency/pages/settings.php:175
+msgid "None"
+msgstr "Ezer ez"
+
+#: themes/transparency/pages/settings.php:187
+msgid "Try to always show the preview page of a shorted link"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:191
+msgid "URL Shortening service"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:204
+msgid "current password"
+msgstr "oraingo pasahitza"
+
+#: themes/transparency/pages/settings.php:204
+msgid "(if you don't have a password just leave it blank)"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:208
+msgid "Delete my account"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:226
+msgid "Theme"
+msgstr "Gaia"
+
+#: themes/transparency/pages/settings.php:241
+msgid "Background style"
+msgstr "Atzeko irudiaren estiloa"
+
+#: themes/transparency/pages/settings.php:253
+msgid "Background"
+msgstr "Atzeko irudia"
+
+#: themes/transparency/pages/settings.php:255
+msgid "1 MB max. size, jpg/png/gif format"
+msgstr "1 MB gehienez, jpg/png/gif formatuan"
+
+#: themes/transparency/pages/settings.php:258
+msgid "Background color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:260
+msgid "Text color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:264
+msgid "Sidebar color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:266
+msgid "Links color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:268
+msgid "Sidebar text color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:273
+msgid "Delete background"
+msgstr "Atzeko irudia ezabatu"
+
+#: themes/transparency/pages/settings.php:291
+msgid "Twitter integration it's working properly"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:293
+msgid "Twitter notes not updated yet..."
+msgstr ""
+
+#: themes/transparency/pages/settings.php:297
+#, php-format
+msgid "Twitter updated %s"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:299
+msgid "Twitter not updated yet, wait..."
+msgstr "Twitter eguneratzeko dago, itxaron.."
+
+#: themes/transparency/pages/settings.php:311
+msgid "Disable twitter integration"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:317
+#: themes/transparency/pages/settings.php:319
+msgid "Show tweets in the friends tab"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:322
+#: themes/transparency/pages/settings.php:324
+#, php-format
+msgid "Post %s notes to Twitter"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:345
+msgid "You are not ignoring anyone"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:365
+msgid "Show my followings"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:376
+msgid "Show my followers"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:388
+msgid "Show my notes"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:399
+msgid "Show my favorite notes"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:411
+msgid "Show my profile info"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:422
+msgid "Allow to read my RSS"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:424
+msgid "Everyone"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:424
+msgid "Nobody"
+msgstr ""
+
+#: themes/transparency/pages/stats.php:52
+#: themes/transparency/pages/sidebar.php:51
+#: themes/transparency/pages/sidebar.php:103
+#: themes/transparency/pages/sidebar.php:156
+#: themes/transparency/pages/sidebar.php:199
+#: themes/transparency/pages/sidebar.php:231
+msgid "Stats"
+msgstr "Estatistikak"
+
+#: themes/transparency/pages/user.php:3 themes/transparency/pages/user.php:43
+#: themes/transparency/pages/user.php:61 themes/transparency/pages/user.php:86
+msgid "Forbidden access"
+msgstr ""
+
+#: themes/transparency/pages/user.php:5 themes/transparency/pages/user.php:88
+msgid "This user has decided to not show his profile to everyone."
+msgstr ""
+
+#: themes/transparency/pages/user.php:9
+#, php-format
+msgid "Link to the post %s"
+msgstr ""
+
+#: themes/transparency/pages/user.php:10
+msgid ""
+"To share this note you simply have to share the URL of this page to your "
+"friends via social networking, instant messaging, blogs..."
+msgstr ""
+
+#: themes/transparency/pages/user.php:16
+msgid "Report note"
+msgstr ""
+
+#: themes/transparency/pages/user.php:45
+msgid "This user has decided to not show his followers to everyone."
+msgstr ""
+
+#: themes/transparency/pages/user.php:48
+#, php-format
+msgid "%s's followers (%d)"
+msgstr ""
+
+#: themes/transparency/pages/user.php:63
+msgid "This user has decided to not show his followings to everyone."
+msgstr ""
+
+#: themes/transparency/pages/user.php:66
+#, php-format
+msgid "%s's followings (%d)"
+msgstr ""
+
+#: themes/transparency/pages/contact.php:1
+#: themes/transparency/pages/footer.php:11
+msgid "Contact"
+msgstr "Kontaktua"
+
+#: themes/transparency/pages/contact.php:4
+#, php-format
+msgid ""
+"If you want to contact with the administrator of %s, please fill the form "
+"below\n"
+"\t\t\tand the administrator will receive a copy of your message"
+msgstr ""
+
+#: themes/transparency/pages/contact.php:13
+#: themes/transparency/pages/contact.php:16
+#: themes/transparency/pages/trouble_login.php:18
+msgid "Email"
+msgstr ""
+
+#: themes/transparency/pages/contact.php:18
+msgid "Message"
+msgstr ""
+
+#: themes/transparency/pages/contact.php:21
+msgid "I want to receive a copy in my email account"
+msgstr ""
+
+#: themes/transparency/pages/followers.php:1
+msgid "My followers"
+msgstr ""
+
+#: themes/transparency/pages/footer.php:7
+msgid "Search..."
+msgstr "Bilatu..."
+
+#: themes/transparency/pages/footer.php:8
+msgid "Search"
+msgstr "Bilatu"
+
+#: themes/transparency/pages/footer.php:11
+msgid "FAQ"
+msgstr "MEG"
+
+#: themes/transparency/pages/footer.php:11
+msgid "Mobile interface"
+msgstr ""
+
+#: themes/transparency/pages/header.php:13
+msgid "Users search"
+msgstr ""
+
+#: themes/transparency/pages/header.php:29
+msgid "Working..."
+msgstr "Lanean..."
+
+#: themes/transparency/pages/header.php:41
+msgid "mobile"
+msgstr ""
+
+#: themes/transparency/pages/header.php:44
+msgid "Fetching notes..."
+msgstr "Notak jasotzen..."
+
+#: themes/transparency/pages/header.php:52
+msgid "Note successfully sent"
+msgstr ""
+
+#: themes/transparency/pages/header.php:53
+msgid "Error:"
+msgstr ""
+
+#: themes/transparency/pages/header.php:54
+msgid "user or note not found"
+msgstr "erabiltzaile edo nota ez da aurkitu"
+
+#: themes/transparency/pages/header.php:55
+msgid "Name:"
+msgstr "Izena:"
+
+#: themes/transparency/pages/header.php:56
+msgid "Location:"
+msgstr "Kokapena:"
+
+#: themes/transparency/pages/header.php:57
+msgid "Bio:"
+msgstr "Bio:"
+
+#: themes/transparency/pages/header.php:58
+msgid "Web:"
+msgstr "Web:"
+
+#: themes/transparency/pages/header.php:59
+msgid "Since:"
+msgstr ""
+
+#: themes/transparency/pages/header.php:60
+msgid "In reply to:"
+msgstr "Honi erantzunez:"
+
+#: themes/transparency/pages/register.php:4
+msgid "You need a valid token to register an account"
+msgstr "Token zuzen bat behar duzu kontua erregistratzeko"
+
+#: themes/transparency/pages/register.php:10
+msgid ""
+"We couldn't find your OpenID url on our database, so maybe you want to "
+"register. To do so we need some details which you can fill in the form below"
+msgstr ""
+
+#: themes/transparency/pages/register.php:13
+msgid ""
+"We couldn't find your Facebook profile on our database, so maybe you want to "
+"register. To do so we need some details which you can fill in the form below"
+msgstr ""
+
+#: themes/transparency/pages/register.php:20
+msgid "E-mail"
+msgstr ""
+
+#: themes/transparency/pages/register.php:24
+msgid "password (again)"
+msgstr "pasahitza (berriz)"
+
+#: themes/transparency/pages/register.php:30
+msgid "OpenID <strong>(optional)</strong>"
+msgstr ""
+
+#: themes/transparency/pages/register.php:53
+msgid "I accept the"
+msgstr "Onartzen dut"
+
+#: themes/transparency/pages/register.php:53
+msgid "privacy and service terms"
+msgstr "pribazitate eta zerbitzu terminoak"
+
+#: themes/transparency/pages/register.php:55
+#: themes/transparency/pages/register.php:57
+msgid "Register!"
+msgstr "Erregistratu!"
+
+#: themes/transparency/pages/search.php:1
+#, php-format
+msgid "Results for %s"
+msgstr ""
+
+#: themes/transparency/pages/search.php:4
+msgid "Nothing found"
+msgstr "Ez da ezer aurkitu"
+
+#: themes/transparency/pages/sidebar.php:7
+#: themes/transparency/pages/sidebar.php:69
+#: themes/transparency/pages/sidebar.php:84
+#: themes/transparency/pages/sidebar.php:119
+#: themes/transparency/pages/sidebar.php:173
+#: themes/transparency/pages/sidebar.php:210
+msgid "Avatar"
+msgstr "Irudia"
+
+#: themes/transparency/pages/sidebar.php:12
+msgid "Stop Following"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:20
+msgid "Stop Ignoring"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:29
+#: themes/transparency/pages/sidebar.php:87
+#: themes/transparency/pages/sidebar.php:151
+#: themes/transparency/pages/sidebar.php:177
+#: themes/transparency/pages/sidebar.php:226
+msgid "About"
+msgstr "Honi buruz"
+
+#: themes/transparency/pages/sidebar.php:38
+#: themes/transparency/pages/sidebar.php:96
+#: themes/transparency/pages/sidebar.php:186
+msgid "Web"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:41
+#: themes/transparency/pages/sidebar.php:99
+#: themes/transparency/pages/sidebar.php:189
+msgid "Bio"
+msgstr "Bio"
+
+#: themes/transparency/pages/sidebar.php:43
+#: themes/transparency/pages/sidebar.php:101
+#: themes/transparency/pages/sidebar.php:191
+msgid "Since"
+msgstr "Noiztik"
+
+#: themes/transparency/pages/sidebar.php:44
+#: themes/transparency/pages/sidebar.php:192
+msgid "Last login"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:55
+#: themes/transparency/pages/sidebar.php:111
+#: themes/transparency/pages/sidebar.php:203
+msgid "Favorites"
+msgstr "Gogokoak"
+
+#: themes/transparency/pages/sidebar.php:59
+msgid "Most used tags by the user"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:62
+#: themes/transparency/pages/sidebar.php:136
+msgid "more"
+msgstr "gehiago"
+
+#: themes/transparency/pages/sidebar.php:73
+#: themes/transparency/pages/sidebar.php:139
+#: themes/transparency/pages/sidebar.php:162
+#: themes/transparency/pages/sidebar.php:214
+#: themes/transparency/pages/sidebar.php:237
+msgid "Export"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:76
+#: themes/transparency/pages/sidebar.php:77
+#: themes/transparency/pages/sidebar.php:78
+#: themes/transparency/pages/sidebar.php:142
+#: themes/transparency/pages/sidebar.php:143
+#: themes/transparency/pages/sidebar.php:144
+#: themes/transparency/pages/sidebar.php:165
+#: themes/transparency/pages/sidebar.php:166
+#: themes/transparency/pages/sidebar.php:217
+#: themes/transparency/pages/sidebar.php:218
+#: themes/transparency/pages/sidebar.php:240
+#: themes/transparency/pages/sidebar.php:241
+#: themes/transparency/pages/sidebar.php:271
+msgid "Feed"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:78
+#: themes/transparency/pages/sidebar.php:144
+msgid "Friends timeline"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:124
+msgid "Invitations"
+msgstr "Gonbidapenak"
+
+#: themes/transparency/pages/sidebar.php:127
+msgid "E-mail..."
+msgstr "E-posta..."
+
+#: themes/transparency/pages/sidebar.php:128
+msgid "Send!"
+msgstr "Bidali!"
+
+#: themes/transparency/pages/sidebar.php:128
+msgid "invitations left"
+msgstr "gonbidapen emateko"
+
+#: themes/transparency/pages/sidebar.php:133
+msgid "Most used tags"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:133
+msgid "Today most used tags"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:153
+#: themes/transparency/pages/sidebar.php:228
+msgid "First note"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:154
+#: themes/transparency/pages/sidebar.php:229
+msgid "First poster"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:159
+#: themes/transparency/pages/sidebar.php:234
+#: themes/transparency/pages/tag.php:127
+msgid "Writing rate"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:160
+#: themes/transparency/pages/sidebar.php:235
+msgid "Max. poster"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:160
+#: themes/transparency/pages/sidebar.php:235
+#, php-format
+msgid "(%d notes)"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:166
+#: themes/transparency/pages/sidebar.php:241
+#, php-format
+msgid "Tag #%s"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:249
+msgid "user or email"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:252
+msgid "OpenID"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:268
+msgid "RSS"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:2
+#, php-format
+msgid "Notes with the tag %s"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:5
+msgid "There are no notes with this tag."
+msgstr ""
+
+#: themes/transparency/pages/tag.php:26 themes/transparency/pages/tag.php:37
+#: themes/transparency/pages/tag.php:48 themes/transparency/pages/tag.php:59
+msgid "There is not enough data to gererate statistics"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:63
+msgid "Tags statistics"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:67
+msgid "Today"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:68
+msgid "Last week"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:69
+msgid "Last month"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:70
+msgid "Everytime"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:122
+msgid "Tags with better writing rate"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:128
+msgid "Number of notes"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:147
+msgid "Users that created more tags"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:152
+msgid "Created tags"
+msgstr ""
+
+#: themes/transparency/pages/trouble_login.php:3
+msgid ""
+"If you cannot login into your account, choose an option from the forms below"
+msgstr ""
+
+#: themes/transparency/pages/trouble_login.php:8
+msgid "Resend activation mail..."
+msgstr ""
+
+#: themes/transparency/pages/trouble_login.php:9
+msgid ""
+"If you didnt receive your activation email, you can try resending it from "
+"here. Just typing your username"
+msgstr ""
+
+#: themes/transparency/pages/trouble_login.php:13
+msgid "Recover password..."
+msgstr ""
+
+#: themes/transparency/pages/trouble_login.php:14
+msgid ""
+"You can recover your password just typing your email or your username. An "
+"email will be delivered to the linked account"
+msgstr ""

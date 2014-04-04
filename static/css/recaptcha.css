@@ -1,0 +1,20 @@
+/*****
+Jisko: An open-source microblogging application
+XHTML/CSS and images are Copyright (C) 2008 by Gabriel Longás <glongas@gmail.com>
+and published under a CC license: http://creativecommons.org/licenses/by-sa/3.0/
+
+Source code was developed by Rubén Díaz, it's published 
+under the Affero GPL License (http://jisko.net/COPYING) unless
+stated otherwise in individual files.
+*****/
+
+.recaptchatable .recaptcha_image_cell, #recaptcha_table {
+	background-color:#ccee69 !important; /*reCaptcha widget background color*/
+}
+#recaptcha_table {
+	border-color:#9fc13a !important; /*reCaptcha widget border color*/
+}
+#recaptcha_response_field {
+	border-color:#9fc13a !important; /*Text input field border color*/
+	background-color:#eeffbb !important; /*Text input field background color*/
+}

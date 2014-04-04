@@ -1,0 +1,2076 @@
+# French translation for jisko
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the jisko package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jisko\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-07-26 17:29-0700\n"
+"PO-Revision-Date: 2010-07-28 02:37+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-07-28 03:04+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: pages/ajax.php:95
+msgid "The note does not exist"
+msgstr "La note n'existe pas"
+
+#: pages/ajax.php:113
+msgid "There was an error while trying to close your session"
+msgstr "Une erreur est survenue en essayant de fermer votre session"
+
+#: pages/ajax.php:135 pages/post.php:42
+#: themes/transparency/pages/header.php:50
+msgid "The note is too short"
+msgstr "La note est trop courte"
+
+#: pages/ajax.php:138 pages/post.php:45
+#: themes/transparency/pages/header.php:51
+msgid "The note is too long"
+msgstr "La note est trop longue"
+
+#: pages/ajax.php:141 pages/post.php:48
+msgid "You are not logged in correctly."
+msgstr "Vous n'êtes pas connecté"
+
+#: pages/ajax.php:144
+msgid "The user doesn't exist"
+msgstr "L'utilisateur n'existe pas"
+
+#: pages/ajax.php:150
+msgid "The user isn't following you"
+msgstr "L'utilisateur ne vous suit pas"
+
+#: pages/ajax.php:153 pages/ajax.php:244 pages/post.php:63
+msgid "Cowboy!"
+msgstr "Cowboy !"
+
+#: pages/ajax.php:215
+msgid "You are not allowed to see the profile of this user"
+msgstr "Tu n'es pas autorisé à voir le profil de cet utilisateur"
+
+#: pages/ajax.php:217
+msgid "This user doesn't exists"
+msgstr "Cet utilisateur n'existe pas"
+
+#: pages/ajax.php:232
+msgid "You are not allowed to erase others' notes"
+msgstr "Tu n'es pas autorisé à effacer les notes des autres"
+
+#: pages/ajax.php:233
+msgid "The note was successfully deleted"
+msgstr "La note a été supprimée correctement"
+
+#: pages/ajax.php:235
+msgid "You must specify a note ID"
+msgstr "Tu dois spécifier une ID de note"
+
+#: pages/ajax.php:258
+msgid "The user you are trying to follow is ignoring you"
+msgstr "L'utilisateur que tu essayes de suivre est en train de t'ignorer"
+
+#: pages/ajax.php:260
+msgid "You are ignoring the user"
+msgstr "Tu est en train d'ignorer l'utilisateur"
+
+#: pages/ajax.php:267
+msgid "There was an error while trying to follow the user. Please retry"
+msgstr ""
+"Une erreur est survenue en essayant de suivre l'utilisateur. S'il te plait, "
+"essaye à nouveau"
+
+#: pages/ajax.php:269
+msgid "You are not logged in"
+msgstr "Tu n'es pas connecté"
+
+#: pages/download.php:27
+msgid "Note doesn't exists"
+msgstr "La note n'existe pas"
+
+#: pages/download.php:33
+msgid "File doesn't exists"
+msgstr "Le fichier n'existe pas"
+
+#: pages/following.php:26 themes/transparency/pages/notes.php:84
+#: themes/transparency/pages/settings.php:167
+#: themes/transparency/pages/settings.php:169
+#: themes/transparency/pages/sidebar.php:53
+#: themes/transparency/pages/sidebar.php:66
+#: themes/transparency/pages/sidebar.php:105
+#: themes/transparency/pages/sidebar.php:116
+#: themes/transparency/pages/sidebar.php:201
+#: themes/transparency/pages/sidebar.php:207
+msgid "Following"
+msgstr "Following"
+
+#: pages/login.php:64 pages/mobile/login.php:35
+#: pages/mobile/template/header.php:39 themes/transparency/pages/login.php:1
+#: themes/transparency/pages/sidebar.php:257
+msgid "Login"
+msgstr "S'identifier"
+
+#: pages/login.php:70 pages/settings.php:98 pages/settings.php:271
+#: pages/settings.php:424 pages/settings.php:427 pages/settings.php:482
+#: pages/settings.php:542
+msgid "Settings updated!"
+msgstr "Préférences changées !"
+
+#: pages/login.php:78 pages/login.php:161
+msgid "Your username is banned"
+msgstr "Votre nom d'utilisateur est banni"
+
+#: pages/login.php:81 pages/login.php:177
+msgid "This account has not been confirmed yet"
+msgstr "Ce compte n'a pas été encore confirmé"
+
+#: pages/login.php:84 pages/login.php:182 pages/mobile/login.php:20
+msgid "Incorrect password"
+msgstr "Mot de passe incorrect"
+
+#: pages/login.php:87 pages/login.php:187
+msgid "The username does not exist"
+msgstr "L'utilisateur n'existe pas"
+
+#: pages/login.php:90 pages/login.php:151 pages/mobile/login.php:26
+msgid "There are empty fields, fill them and try again"
+msgstr "Des champs sont incomplets, complétez-les puis réessayez"
+
+#: pages/login.php:93 pages/settings.php:314
+msgid "Invalid OpenID url."
+msgstr "Adresse OpenID invalide."
+
+#: pages/login.php:96
+#, php-format
+msgid "OpenID Error: %s (%s)"
+msgstr "Erreur d'OpenID: %s (%s)"
+
+#: pages/login.php:99
+msgid "OpenID authorization canceled by user."
+msgstr "L'autorisation OpenID a été annulée par l'utilisateur."
+
+#: pages/login.php:102
+msgid "Could not validate your OpenID Identity"
+msgstr "Il a été impossible de vérifier l'identité de ton OpenID"
+
+#: pages/login.php:105
+msgid "Please login and then retry"
+msgstr "Connecte-toi et essaye à nouveau"
+
+#: pages/notes.php:36 themes/transparency/pages/sidebar.php:56
+#: themes/transparency/pages/sidebar.php:77
+#: themes/transparency/pages/sidebar.php:113
+#: themes/transparency/pages/sidebar.php:143
+#: themes/transparency/pages/sidebar.php:158
+#: themes/transparency/pages/sidebar.php:204
+#: themes/transparency/pages/sidebar.php:218
+#: themes/transparency/pages/sidebar.php:233
+msgid "Notes"
+msgstr "Notes"
+
+#: pages/settings.php:26 themes/transparency/pages/header.php:73
+msgid "Settings"
+msgstr "Paramètres"
+
+#: pages/settings.php:77 pages/settings.php:407 pages/settings.php:454
+#: pages/settings.php:464 pages/settings.php:495
+msgid "You are not allowed to perform this operation"
+msgstr "Vous n'êtes pas autorisé à effectuer cette opération"
+
+#: pages/settings.php:83
+msgid "There was a problem while trying to delete your avatar"
+msgstr ""
+"Une erreur est survenue en essayant de supprimer l'image de ton profil"
+
+#: pages/settings.php:104
+msgid "Invalid extension!"
+msgstr "Extension invalide !"
+
+#: pages/settings.php:107
+msgid "File too big!"
+msgstr "Le fichier est trop grand !"
+
+#: pages/settings.php:110
+msgid "There was a problem while trying to upload your avatar"
+msgstr ""
+"Il y a eu un problème en essayant de téléverser l'image de ton profil"
+
+#: pages/settings.php:113
+msgid "There was a problem while trying to delete your previous avatar"
+msgstr ""
+"Une erreur est survenue en essayant de supprimer l'image antérieure de ton "
+"profil."
+
+#: pages/settings.php:258
+msgid "We have changed successfully your email"
+msgstr "Nous avons changé ton e-mail correctement"
+
+#: pages/settings.php:275
+msgid "Nothing changed..."
+msgstr "Rien n'a changé..."
+
+#: pages/settings.php:278
+msgid "We have sent you a confirm message to the new mail!"
+msgstr "Nous vous avons envoyé un message de confirmation au nouveau mail !"
+
+#: pages/settings.php:287 pages/register.php:70
+msgid "Taken username, please choose another!"
+msgstr "Nom d'utilisateur utilisé, veuillez choisir un autre!"
+
+#: pages/settings.php:290 pages/register.php:82
+msgid "Sorry! Your choosen username appears to be invalid"
+msgstr "L'utilisateur introduit n'est pas valide"
+
+#: pages/settings.php:293
+msgid "Not valid email"
+msgstr "E-mail invalide"
+
+#: pages/settings.php:296
+msgid "E-mail has already been taken"
+msgstr "Cette adresse mail est déjà prise"
+
+#: pages/settings.php:299
+msgid "Not valid jabber account"
+msgstr "Compte jabber invalide"
+
+#: pages/settings.php:302
+msgid "Jabber has already been taken"
+msgstr "Ce Jabber est déjà pris"
+
+#: pages/settings.php:305
+msgid "Passwords don't match"
+msgstr "Les mots de passe ne correspondent pas"
+
+#: pages/settings.php:308
+msgid "The provided OpenID url was already linked with another account"
+msgstr ""
+
+#: pages/settings.php:311
+msgid "Error while trying to contact the OpenID server"
+msgstr "Une erreur est survenue en essayant de contacter le serveur OpenID"
+
+#: pages/settings.php:317
+msgid "Invalid password/login verification"
+msgstr ""
+
+#: pages/settings.php:320
+msgid "There was an error while trying to migrate your user data"
+msgstr ""
+
+#: pages/settings.php:409
+msgid "There was a problem while trying to delete your background"
+msgstr "Une erreur est survenue en essayant de supprimer ton arrière-plan"
+
+#: pages/settings.php:433
+msgid "Invalid background extension"
+msgstr "Extension d'arrière-plan invalide"
+
+#: pages/settings.php:436
+msgid "Background image too big!"
+msgstr "Image de fond trop grande!"
+
+#: pages/settings.php:439
+msgid "There was a problem while trying to delete your previous background"
+msgstr ""
+"Une erreur est survenue en essayant de supprimer ton arrière-plan précédent"
+
+#: pages/settings.php:442
+msgid "There was a problem while trying to upload your background"
+msgstr "Il y a eu un problème en essayant de téléverser ton arrière-plan"
+
+#: pages/settings.php:479
+msgid "Disabled twitter integration with success"
+msgstr "Intégration avec Twitter désactivée correctement"
+
+#: pages/settings.php:492
+msgid "There was a problem while trying to link your account with Twitter"
+msgstr ""
+
+#: pages/followers.php:26 themes/transparency/pages/sidebar.php:54
+#: themes/transparency/pages/sidebar.php:107
+#: themes/transparency/pages/sidebar.php:109
+#: themes/transparency/pages/sidebar.php:202
+msgid "Followers"
+msgstr "Suiveurs"
+
+#: pages/post.php:33
+msgid "The uploaded file is too big"
+msgstr "Le fichier envoyé est trop gros"
+
+#: pages/post.php:36
+msgid "The uploaded file is not allowed"
+msgstr "Le fichier envoyé n'est pas autorisé"
+
+#: pages/post.php:39
+msgid "There was a problem while trying to upload the attached file"
+msgstr "Il y a eu un problème en essayant de téléverser le fichier joint"
+
+#: pages/post.php:51
+msgid "The user does not exist"
+msgstr "L'utilisateur n'existe pas"
+
+#: pages/post.php:57
+msgid "The user is not following you"
+msgstr "L'utilisateur n'est pas en train de te suivre"
+
+#: pages/post.php:60
+msgid "You can't send a private note to yourself"
+msgstr ""
+
+#: pages/register.php:30 themes/transparency/pages/register.php:7
+#: themes/transparency/pages/sidebar.php:261
+msgid "Register"
+msgstr "S'inscrire"
+
+#: pages/register.php:38 pages/trouble_login.php:75
+msgid "Check your email (including SPAM) to activate your account"
+msgstr "Regarde ton courrier (le SPAM aussi) pour activer ton compte"
+
+#: pages/register.php:40 pages/register.php:45
+msgid "You can access now with your account, thank you!"
+msgstr "Vous pouvez accéder maintenant à votre compte, merci!"
+
+#: pages/register.php:52
+msgid "Invalid confirmation code!"
+msgstr "Code de confirmation invalide!"
+
+#: pages/register.php:61
+msgid "You need a valid token to register an account!"
+msgstr ""
+
+#: pages/register.php:64
+msgid "Sorry! The provided email is invalid"
+msgstr "L'e-mail introduit n'est pas valide"
+
+#: pages/register.php:67
+msgid "You must accept the Terms of Service (TOS)"
+msgstr "Tu dois accepter les Termes de Service (TdS)"
+
+#: pages/register.php:73
+msgid "Email is taken, please choose another!"
+msgstr "Email utilisé, veuillez choisir un autre"
+
+#: pages/register.php:76
+msgid "Passwords don't match!"
+msgstr "Les mots de passe ne correspondent pas!"
+
+#: pages/register.php:79 pages/trouble_login.php:33
+msgid "Incorrect reCAPTCHA code!"
+msgstr "Code reCAPTCHA incorrect!"
+
+#: pages/register.php:85
+msgid "There was a problem while trying to create your user"
+msgstr "Une erreur est survenue en essayant de créer ton utilisateur"
+
+#: pages/search.php:44
+msgid "Search results"
+msgstr "Résultats de la recherche"
+
+#: pages/user.php:37 pages/mobile/user.php:28
+#: themes/transparency/pages/404.php:1
+msgid "Not found"
+msgstr "Introuvable"
+
+#: pages/user.php:54 pages/mobile/user.php:45
+#, php-format
+msgid "%username's profile"
+msgstr "profil de %username"
+
+#: includes/api.php:170
+msgid "Public notes from all the users"
+msgstr "Notes publiques de tous les utilisateurs"
+
+#: includes/api.php:175
+#, php-format
+msgid "Notes of %s + it's followings"
+msgstr "Notes de %s + utilisateurs auxquels il suit"
+
+#: includes/api.php:201 includes/api.php:202
+#, php-format
+msgid "Notes of %s"
+msgstr "Notes de %s"
+
+#: includes/api.php:216
+#, php-format
+msgid "Twitter followings of %s"
+msgstr "Utilisateurs auxquels il suit %s sur Twitter"
+
+#: includes/api.php:222
+#, php-format
+msgid "Replies for %s"
+msgstr "Réponses pour %s"
+
+#: includes/api.php:375
+#, php-format
+msgid "Private notes sent by %s"
+msgstr "Messages privés envoyés par %s"
+
+#: includes/api.php:378
+#, php-format
+msgid "Private notes of %s"
+msgstr "Messages privés de %s"
+
+#: includes/api.php:888 includes/api.php:889
+msgid "Favorite notes of "
+msgstr "Notes préférées de "
+
+#: includes/forms.php:23 themes/transparency/pages/header.php:75
+msgid "Administration"
+msgstr "Administration"
+
+#: includes/forms.php:39
+msgid "General"
+msgstr "Général"
+
+#: includes/forms.php:40
+msgid "Environment"
+msgstr "Environnement"
+
+#: includes/forms.php:41
+msgid "URL Shortening"
+msgstr "Réducteur d'URL"
+
+#: includes/forms.php:42
+msgid "Themes"
+msgstr "Thèmes"
+
+#: includes/forms.php:43
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: includes/forms.php:44
+msgid "Misc"
+msgstr ""
+
+#: includes/forms.php:57
+#, php-format
+msgid "If you are having problems with Jisko contact us at %s"
+msgstr "Si tu as des problèmes avec Jisko contacte-nous sur %s"
+
+#: includes/functions.php:668 themes/transparency/pages/header.php:45
+msgid "right now"
+msgstr "maintenant"
+
+#: includes/functions.php:670 themes/transparency/pages/header.php:46
+#, php-format
+msgid "%ss ago"
+msgstr "il y a %ss"
+
+#: includes/functions.php:674 themes/transparency/pages/header.php:47
+#, php-format
+msgid "%sm ago"
+msgstr "il y a %sm"
+
+#: includes/functions.php:679
+msgid "about 1h ago"
+msgstr "il y a aprox. 1h"
+
+#: includes/functions.php:680 themes/transparency/pages/header.php:48
+#, php-format
+msgid "about %sh ago"
+msgstr "il y a aprox. %sh"
+
+#: includes/functions.php:685
+msgid "about 1d ago"
+msgstr "il y a aprox. 1j"
+
+#: includes/functions.php:686 themes/transparency/pages/header.php:49
+#, php-format
+msgid "about %sd ago"
+msgstr "il y a aprox. %sd"
+
+#: includes/functions.php:689
+#, php-format
+msgid "the %s at %s"
+msgstr "le %s à %s"
+
+#: includes/functions.php:1986
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: includes/functions.php:1986
+msgid "random"
+msgstr "aléatoire"
+
+#: includes/thumbnail.php:31
+msgid "File don't exists"
+msgstr "Le fichier n'existe pas"
+
+#: includes/thumbnail.php:53
+msgid "Format not supported"
+msgstr "Le format n'est pas supporté"
+
+#: includes/thumbnail.php:87
+msgid "Bad properties."
+msgstr "Mauvaises propriétés"
+
+#: includes/thumbnail.php:122
+msgid "Image exists"
+msgstr "L'image existe"
+
+#: includes/mails.php:60
+#, php-format
+msgid "Turn off this notifications at %s"
+msgstr "Désactiver ces notifications sur %s"
+
+#: includes/mails.php:62
+#, php-format
+msgid "Have you got any problem? Contact the administrator at %s"
+msgstr "Tu as un problème? Contacte l'administrateur sur %s"
+
+#: includes/mails.php:63
+#, php-format
+msgid ""
+"Since you got registered on %s, you agree with the Terms of Service (TOS) "
+"placed in %s"
+msgstr ""
+
+#: includes/mails.php:92
+#, php-format
+msgid ""
+"Someone (probably you) has just requested a password reset for the account "
+"with %username as the username. Because we need to confirm the request, "
+"please click the link placed below in order to continue the process:"
+msgstr ""
+
+#: includes/mails.php:92
+msgid ""
+"Please remember that this link will expire in 24h, so if you didn't request "
+"a password change, simply ignore this email"
+msgstr ""
+
+#: includes/mails.php:94
+msgid "Password reset instructions"
+msgstr "Instructions pour rétablir le mot de passe"
+
+#: includes/mails.php:94
+msgid "Password reset"
+msgstr "Rétablir mot de passe"
+
+#: includes/mails.php:118
+msgid ""
+"We have received your request for changing your password and here is your "
+"new password:"
+msgstr ""
+"Nous avons reçu ta demande pour changer ton mot de passe et voici ton "
+"nouveau mot de passe:"
+
+#: includes/mails.php:120
+#, php-format
+msgid "Remember that you can change your password at %s"
+msgstr "Rappelle-toi que tu peux changer ton mot de passe sur %s"
+
+#: includes/mails.php:122
+msgid "Your new password"
+msgstr "Ton nouveau mot de passe"
+
+#: includes/mails.php:151
+msgid "%real_or_username is now following you"
+msgstr "%real_or_username est maintenant en train de te suivre"
+
+#: includes/mails.php:152
+msgid "%real_or_username is now following your updates on %name"
+msgstr ""
+"%real_or_username est maintenant en train de suivre tes actualisations sur "
+"%name"
+
+#: includes/mails.php:154
+msgid "notes"
+msgstr "notes"
+
+#: includes/mails.php:154
+msgid "followers"
+msgstr "suiveurs"
+
+#: includes/mails.php:154
+#, php-format
+msgid "following %s users"
+msgstr "suivant %s utilisateurs"
+
+#: includes/mails.php:154
+#, php-format
+msgid "You can check his/her profile at %s"
+msgstr "Tu peux vérifier son profil sur %s"
+
+#: includes/mails.php:159
+msgid "New follower"
+msgstr "Nouveau suiveur"
+
+#: includes/mails.php:180
+msgid "Private message from %real_or_username"
+msgstr "Message privé de %real_or_username"
+
+#: includes/mails.php:185
+msgid "%real_or_username has sent you a private message:"
+msgstr "%real_or_username t'a envoyé un message privé"
+
+#: includes/mails.php:188 includes/mails.php:224
+#, php-format
+msgid "With the following attachment: %s"
+msgstr "Avec le fichier ci-joint: %s"
+
+#: includes/mails.php:190
+#, php-format
+msgid ""
+"You can reply to this message by sending a note with \"!%username <your "
+"message>\" or through the web interface at %base"
+msgstr ""
+"Tu peux répondre à ce message en envoyant une note avec \"!%username <ton "
+"message\" ou à travers l'interface web sur %base"
+
+#: includes/mails.php:194
+msgid "New private message"
+msgstr "Nouveau message privé"
+
+#: includes/mails.php:220
+msgid "Reply from %real_or_username"
+msgstr "Réponse de %real_or_username"
+
+#: includes/mails.php:222
+msgid "%real_or_username has replied or mentioned you in the following note:"
+msgstr "%real_or_username a répondu ou t'a mentionné dans la note suivante:"
+
+#: includes/mails.php:225 includes/mails.php:228 includes/mails.php:487
+msgid "Permalink:"
+msgstr "Lien permament:"
+
+#: includes/mails.php:228
+msgid "This note was replying to:"
+msgstr "Cette note répondait à:"
+
+#: includes/mails.php:255
+msgid "Confirmation for %name account"
+msgstr "Confirmation pour le compte %name"
+
+#: includes/mails.php:257
+msgid ""
+"Someone (probably you) has requested an account in %name. However, we need "
+"to know if you are the owner of this mail account."
+msgstr ""
+"Quelqu'un (probablement toi) a demandé un compte ans %name. Malgré tout, "
+"nous devons savoir si tu es le propriétaire de compte mail"
+
+#: includes/mails.php:258
+msgid "To confirm it, please click in the link placed below:"
+msgstr "Pour la confirmer, clique sur le lien suivant:"
+
+#: includes/mails.php:259
+msgid ""
+"If you didn't request an account at %name, ignore this mail and apologies "
+"for the inconvenience."
+msgstr ""
+
+#: includes/mails.php:263
+msgid "Account confirmation"
+msgstr "Confirmation du compte"
+
+#: includes/mails.php:287
+msgid ""
+"Someone (probably you) has requested a change of the email assigned to your "
+"account in %name. Your new email will be:"
+msgstr ""
+"Quelqu'un (probablement toi) a demandé un changement de l'adresse e-mail "
+"associée à ton compte dans %name. Ta nouvelle adresse sera:"
+
+#: includes/mails.php:287
+msgid ""
+"If you requested this change, then confirm it by clicking the link placed "
+"below:"
+msgstr ""
+"Si tu as demandé ce changement, alors confirme-le en cliquant sur le lien "
+"suivant:"
+
+#: includes/mails.php:287
+msgid ""
+"Otherwise, if you didn't request this change, then simply ignore this "
+"message, because this link will expire in 24h"
+msgstr ""
+
+#: includes/mails.php:289
+msgid "Confirm email change"
+msgstr "Confirmer le changement d'adresse mail"
+
+#: includes/mails.php:289
+msgid "Email change"
+msgstr "Changement d'adresse e-mail"
+
+#: includes/mails.php:313
+msgid "Welcome to %name"
+msgstr "Bienvenu à %name"
+
+#: includes/mails.php:314
+msgid ""
+"You have just confirmed your account in %name, so now you can start "
+"personalizing your profile at %p_url!"
+msgstr ""
+"Tu viens de confirmer ton compte sur %name, alors tu peux commencer à "
+"personnaliser ton profil sur %p_url!"
+
+#: includes/mails.php:315
+msgid ""
+"%name is based on Jisko, an open-source microblogging platform. You can find "
+"more information about Jisko at http://www.jisko.org"
+msgstr ""
+"%name est basé sur Jisko, une plateforme de microblogging open-source. Tu "
+"peux trouver plus d'information sur Jisko sur http://www.jisko.org"
+
+#: includes/mails.php:315
+msgid "Thank you very much for signing up in %name and for giving us a try!"
+msgstr ""
+
+#: includes/mails.php:319
+msgid "Welcome!"
+msgstr "Bienvenue !"
+
+#: includes/mails.php:333
+msgid "There's a new user on %name"
+msgstr "Il y a un nouvel utilisateur sur %name"
+
+#: includes/mails.php:335
+msgid "A new user called %username has joined %name."
+msgstr "Un nouvel utilisateur appelé %username est rentré sur %name"
+
+#: includes/mails.php:335
+#, php-format
+msgid ""
+"It should be empty, but if you want, you can check his profile at %url"
+msgstr ""
+
+#: includes/mails.php:341
+msgid "New account"
+msgstr "Nouveau compte"
+
+#: includes/mails.php:351
+msgid "The user %username has deleted his account from %name"
+msgstr "L'utilisateur %username a supprimé son compte de %name"
+
+#: includes/mails.php:353
+msgid "The user %username has deleted his account from %name."
+msgstr "L'utilisateur %username a supprimé son compte de %name."
+
+#: includes/mails.php:353
+#, php-format
+msgid "If you want to contact him, his email is %email"
+msgstr "Si tu veux le contacter, son e-mail est %email"
+
+#: includes/mails.php:359
+msgid "Deleted account"
+msgstr "Compte supprimé"
+
+#: includes/mails.php:367
+msgid "%username has invited you to %name!"
+msgstr "%username vous a invité sur %name !"
+
+#: includes/mails.php:369
+msgid "Hey!"
+msgstr "Hey!"
+
+#: includes/mails.php:369
+msgid ""
+"%username just sent you an invitation for using %name! %name is a "
+"microblogging portal where you can share your own experiences and your "
+"feelings about everything."
+msgstr ""
+
+#: includes/mails.php:369
+msgid "Why don't you give %name a try and register?"
+msgstr ""
+
+#: includes/mails.php:369
+msgid "Click on the following link in order to use your invitation to %name"
+msgstr "Clique sur le lien suivant pour utiliser ton invitation de %name"
+
+#: includes/mails.php:369
+msgid "Thank you and have fun on %name!"
+msgstr "Merci et amuse-toi sur %name!"
+
+#: includes/mails.php:374
+#, php-format
+msgid "Invitation to %s"
+msgstr "Invitation pour %s"
+
+#: includes/mails.php:391
+msgid ""
+"We send this mail to tell you that your password on %name has been changed."
+msgstr ""
+"Nous t'envoyons ce courrier pour te dire que ton mot de passe sur %name a "
+"été changée"
+
+#: includes/mails.php:392
+msgid ""
+"This change was requested from the ip %ip. If you were not the user who "
+"changed your password, please contact the administrator at %contact_page"
+msgstr ""
+"Ce changement a été demandé depuis l'ip %ip. Si tu n'es pas l'utilisateur "
+"qui a changé le mot de passe, contacte l'administrateur sur %contact_page"
+
+#: includes/mails.php:394
+msgid "Your password has been changed"
+msgstr "Ton mot de passe a été changé"
+
+#: includes/mails.php:418
+msgid ""
+"Are you sure you want to delete your %name account? If you are having "
+"problems with %name, remember that you can contact us through %contact_page "
+"and we will take notes about your issues/suggestions."
+msgstr ""
+
+#: includes/mails.php:419
+msgid ""
+"If you're are completely sure of your decision (remember, this is NOT "
+"REVERSIBLE), please click the link placed below:"
+msgstr ""
+"Si tu es complètement sur de ta décision (rappelle-toi, cela n'est pas "
+"REVERSIBLE), clique sur le lien suivant:"
+
+#: includes/mails.php:420
+msgid ""
+"You must be logged in order to delete your account and remember that this "
+"request will expire in 24h."
+msgstr ""
+
+#: includes/mails.php:420
+msgid "We will miss you!"
+msgstr "Tu vas nous manquer!"
+
+#: includes/mails.php:422
+msgid "Delete account confirmation"
+msgstr "Effacer l'information du compte"
+
+#: includes/mails.php:444
+msgid "Someone has sent you a message through the Contact page"
+msgstr "Quelqu'un t'a envoyé un message à travers la page de contact"
+
+#: includes/mails.php:445
+#, php-format
+msgid "%s has sent you a message through the Contact page"
+msgstr "%s t'a envoyé un message à travers la page de contact"
+
+#: includes/mails.php:447
+msgid ""
+"Someone has decided to contact you through the contact page of your Jisko "
+"installation. Here are the details:"
+msgstr ""
+"Quelqu'un a décidé de te contacter à travers la page de contact de ton "
+"installation de Jisko. Ici se trouvent les détails:"
+
+#: includes/mails.php:453
+msgid ""
+"Please remember that you can only reply this message through the email "
+"provided. Otherwise, he won't see your answer"
+msgstr ""
+
+#: includes/mails.php:455 includes/mails.php:456
+msgid "New message received"
+msgstr "Nouveau message reçu"
+
+#: includes/mails.php:466
+msgid "%username reported the user %r_username"
+msgstr ""
+
+#: includes/mails.php:468
+msgid ""
+"The user %username (ID: %id) from the IP %ip reported the user %r_username "
+"(ID: %r_id)."
+msgstr ""
+
+#: includes/mails.php:474 includes/mails.php:495
+msgid "New abuse report"
+msgstr ""
+
+#: includes/mails.php:484
+msgid "%username reported the note %r_note"
+msgstr ""
+
+#: includes/mails.php:486
+msgid ""
+"The user %username (ID: %id) from the IP %ip reported the note %r_note made "
+"by %r_username (ID: %r_id)."
+msgstr ""
+
+#: includes/mobile.php:44 themes/transparency/pages/functions.php:58
+#: themes/transparency/pages/functions.php:62
+#: themes/transparency/pages/header.php:38
+msgid "Reply"
+msgstr "Répondre"
+
+#: includes/mobile.php:46
+msgid "More info"
+msgstr "Plus d'info"
+
+#: includes/mobile.php:162 includes/mobile.php:164
+#: themes/transparency/pages/functions.php:176
+#: themes/transparency/pages/functions.php:178
+msgid "previous"
+msgstr "précédent"
+
+#: includes/mobile.php:203 includes/mobile.php:205
+#: themes/transparency/pages/functions.php:238
+#: themes/transparency/pages/functions.php:240
+msgid "next"
+msgstr "suivant"
+
+#: includes/mobile.php:219
+msgid "more notes"
+msgstr "Plus de notes"
+
+#: includes/mobile.php:229
+msgid "Send note"
+msgstr "Envoyer la note"
+
+#: includes/mobile.php:234 themes/transparency/pages/functions.php:260
+#: themes/transparency/pages/contact.php:25
+msgid "Send"
+msgstr "Envoyer"
+
+#: includes/mobile.php:248 pages/mobile/notes.php:48
+#: pages/mobile/template/footer.php:24 themes/transparency/pages/notes.php:7
+#: themes/transparency/pages/notes.php:9
+#: themes/transparency/pages/notes.php:43
+#: themes/transparency/pages/notes.php:45
+msgid "Archive"
+msgstr "Archive"
+
+#: includes/mobile.php:248 includes/mobile.php:254
+#: themes/transparency/pages/notes.php:26
+#: themes/transparency/pages/notes.php:29
+#: themes/transparency/pages/notes.php:31
+#: themes/transparency/pages/notes.php:62
+#: themes/transparency/pages/notes.php:65
+#: themes/transparency/pages/notes.php:67
+#: themes/transparency/pages/sidebar.php:112
+msgid "Private messages"
+msgstr "Messages privés"
+
+#: includes/mobile.php:248 themes/transparency/pages/notes.php:84
+#: themes/transparency/pages/settings.php:155
+#: themes/transparency/pages/settings.php:157
+msgid "Replies"
+msgstr "Réponses"
+
+#: includes/mobile.php:248 pages/mobile/notes.php:52 pages/mobile/notes.php:56
+#: themes/transparency/pages/notes.php:21
+#: themes/transparency/pages/notes.php:23
+#: themes/transparency/pages/notes.php:57
+#: themes/transparency/pages/notes.php:59
+msgid "Friends"
+msgstr "Amis"
+
+#: includes/mobile.php:252 themes/transparency/pages/header.php:73
+#: themes/transparency/pages/header.php:79
+msgid "Home"
+msgstr "Accueil"
+
+#: includes/mobile.php:258 pages/mobile/notes.php:38
+#: themes/transparency/pages/notes.php:35
+#: themes/transparency/pages/notes.php:37
+#: themes/transparency/pages/settings.php:20
+#: themes/transparency/pages/settings.php:92
+#: themes/transparency/pages/settings.php:220
+#: themes/transparency/pages/settings.php:277
+#: themes/transparency/pages/settings.php:284
+#: themes/transparency/pages/settings.php:340
+#: themes/transparency/pages/settings.php:359
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/mobile.php:259 themes/transparency/pages/notes.php:90
+msgid "Received"
+msgstr "Reçu"
+
+#: includes/mobile.php:259 themes/transparency/pages/notes.php:90
+msgid "Sent"
+msgstr "Envoyé"
+
+#: pages/mobile/login.php:23
+msgid "There is no user with that name"
+msgstr "Cet utilisateur n'existe pas"
+
+#: pages/mobile/login.php:29
+msgid "This account hasn't been confirmed yet"
+msgstr "Ce compte n'a pas été confirmé"
+
+#: pages/mobile/login.php:36 themes/transparency/pages/contact.php:11
+#: themes/transparency/pages/register.php:18
+#: themes/transparency/pages/tag.php:151
+#: themes/transparency/pages/trouble_login.php:10
+#: themes/transparency/pages/trouble_login.php:16
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: pages/mobile/login.php:37 themes/transparency/pages/register.php:25
+#: themes/transparency/pages/sidebar.php:250
+msgid "Password"
+msgstr "Mot de passe"
+
+#: pages/mobile/login.php:40
+msgid "Log In"
+msgstr "Se connecter"
+
+#: pages/mobile/notes.php:33
+msgid "Received messages"
+msgstr "Messages reçus"
+
+#: pages/mobile/notes.php:35
+msgid "Sent messages"
+msgstr "Messages envoyés"
+
+#: pages/mobile/notes.php:50
+msgid "Friends + Twitter"
+msgstr "Amis + Twitter"
+
+#: pages/mobile/notes.php:71 pages/mobile/public.php:37
+#: pages/mobile/user.php:79 themes/transparency/pages/notes.php:96
+#: themes/transparency/pages/user.php:38 themes/transparency/pages/user.php:93
+#: themes/transparency/pages/header.php:61
+msgid "No notes were found"
+msgstr "Aucune Note n'a été trouvée"
+
+#: pages/mobile/public.php:26 pages/mobile/template/footer.php:23
+#: themes/transparency/pages/notes.php:73
+#: themes/transparency/pages/header.php:73
+#: themes/transparency/pages/header.php:79
+#: themes/transparency/pages/sidebar.php:76
+#: themes/transparency/pages/sidebar.php:142
+#: themes/transparency/pages/sidebar.php:165
+#: themes/transparency/pages/sidebar.php:217
+#: themes/transparency/pages/sidebar.php:240
+#: themes/transparency/pages/sidebar.php:271
+msgid "Public notes"
+msgstr "Notes publiques"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/sidebar.php:26
+msgid "Report"
+msgstr "Rapporter"
+
+#: pages/mobile/user.php:62
+msgid "Unfollow"
+msgstr "Ne plus suivre"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/functions.php:122
+#: themes/transparency/pages/header.php:31
+#: themes/transparency/pages/sidebar.php:14
+msgid "Follow"
+msgstr "Suivre"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/header.php:32
+msgid "Stop ignoring"
+msgstr "Ne plus ignorer"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/header.php:33
+#: themes/transparency/pages/sidebar.php:22
+msgid "Ignore"
+msgstr "Ignorer"
+
+#: pages/mobile/user.php:66
+msgid "Not allowed"
+msgstr "Non autorisé"
+
+#: pages/mobile/user.php:69
+msgid "You aren't allowed to see the notes of this user"
+msgstr "Tu n'est pas autorisé à voir les notes de cet utilisateur."
+
+#: pages/mobile/template/header.php:30 pages/mobile/template/header.php:31
+msgid "Friends_timeline (RSS 2.0)"
+msgstr ""
+
+#: pages/mobile/template/header.php:38 themes/transparency/pages/header.php:77
+msgid "Logout"
+msgstr "Sortir"
+
+#: pages/mobile/template/footer.php:25 themes/transparency/pages/tos.php:1
+msgid "Terms of Service"
+msgstr "Termes de Service"
+
+#: pages/mobile/template/footer.php:26
+msgid "Normal version"
+msgstr "Version normale"
+
+#: pages/faq.php:21 themes/transparency/pages/faq.php:1
+msgid "Frequently Asked Questions (FAQ)"
+msgstr "Questions Posées Frèquemment (FAQ)"
+
+#: pages/trouble_login.php:25 themes/transparency/pages/sidebar.php:265
+#: themes/transparency/pages/trouble_login.php:1
+msgid "Having trouble while logging in?"
+msgstr "Des problèmes pendant l'identification?"
+
+#: pages/trouble_login.php:40
+msgid "That email doesn't exist in our database"
+msgstr "Ce mail n'existe pas dans notre base de données"
+
+#: pages/trouble_login.php:44 pages/trouble_login.php:61
+msgid "There's no user with that username"
+msgstr "Il n'y a pas d'utilisateur de ce nom"
+
+#: pages/trouble_login.php:52
+msgid "We have just sent an e-mail with instructions!"
+msgstr "Nous venons de vous envoyer un mail avec les instructions"
+
+#: pages/trouble_login.php:56 pages/trouble_login.php:81
+msgid "Please fill all the inputs"
+msgstr "Merci de remplir la totalité des champs."
+
+#: pages/trouble_login.php:63
+msgid "The account was not waiting for an activation email"
+msgstr "Ce compte n'attendait pas d'email d'activation !"
+
+#: pages/trouble_login.php:68
+msgid "There was a problem while trying to obtain your key. Please retry"
+msgstr ""
+"Il y a eu un problème lors de la tentative d'obtention de votre clé. Merci "
+"de réessayer."
+
+#: pages/trouble_login.php:103
+msgid "We have just sent you an e-mail with your new password"
+msgstr "Nous venons de vous envoyer un mail avec votre nouveau mot de passe"
+
+#: pages/trouble_login.php:105 pages/trouble_login.php:108
+msgid "Invalid key"
+msgstr "Clef invalide"
+
+#: themes/transparency/pages/404.php:2
+msgid "The page you're looking for doesn't exists."
+msgstr "La page que vous cherchez n'existe pas."
+
+#: themes/transparency/pages/following.php:1
+msgid "Users I'm following"
+msgstr "Utilisateurs auxquels je suis"
+
+#: themes/transparency/pages/following.php:5
+#: themes/transparency/pages/user.php:50 themes/transparency/pages/user.php:68
+#: themes/transparency/pages/followers.php:5
+msgid "No users were found"
+msgstr "Aucun utilisateur n'a été trouvé"
+
+#: themes/transparency/pages/functions.php:35
+#: themes/transparency/pages/header.php:39
+msgid "Are you sure? There is NO UNDO!"
+msgstr "Etes-vous sûr? Il n'ya  PAS DE RETOUR"
+
+#: themes/transparency/pages/functions.php:35
+#: themes/transparency/pages/header.php:40
+msgid "Delete note"
+msgstr "Efface la note"
+
+#: themes/transparency/pages/functions.php:39
+#: themes/transparency/pages/header.php:34
+msgid "Download file"
+msgstr "Télécharger le fichier"
+
+#: themes/transparency/pages/functions.php:45
+#: themes/transparency/pages/header.php:35
+msgid "Delete favorite"
+msgstr "Effacer favoris"
+
+#: themes/transparency/pages/functions.php:47
+#: themes/transparency/pages/header.php:36
+msgid "Add to favorites"
+msgstr "Ajouter à mes favoris"
+
+#: themes/transparency/pages/functions.php:50
+#: themes/transparency/pages/functions.php:61
+#: themes/transparency/pages/header.php:37
+msgid "Permalink"
+msgstr "Permalien"
+
+#: themes/transparency/pages/functions.php:120
+#: themes/transparency/pages/header.php:30
+msgid "Stop following"
+msgstr "Arrêter de suivre"
+
+#: themes/transparency/pages/functions.php:128
+msgid "Last note:"
+msgstr "Dernière note :"
+
+#: themes/transparency/pages/functions.php:131
+msgid "To follow this user, first you have to stop ignoring him."
+msgstr "Pour suivre cet utilisateur, tu dois arrêter de l'ignorer."
+
+#: themes/transparency/pages/functions.php:142
+#: themes/transparency/pages/header.php:42
+msgid "reply"
+msgstr "répondre"
+
+#: themes/transparency/pages/functions.php:143
+#: themes/transparency/pages/header.php:43
+msgid "replies"
+msgstr "réponses"
+
+#: themes/transparency/pages/functions.php:257
+msgid "Attach file"
+msgstr "Joindre un fichier"
+
+#: themes/transparency/pages/functions.php:265
+msgid "Shrink URLs"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:315
+msgid "active"
+msgstr "actif"
+
+#: themes/transparency/pages/functions.php:315
+msgid "banned"
+msgstr "Banni"
+
+#: themes/transparency/pages/functions.php:315
+msgid "not confirmed"
+msgstr "sans confirmer"
+
+#: themes/transparency/pages/functions.php:326
+msgid "now"
+msgstr "maintenant"
+
+#: themes/transparency/pages/functions.php:333
+msgid "today"
+msgstr "aujourd'hui"
+
+#: themes/transparency/pages/functions.php:340
+msgid "this month"
+msgstr "ce mois-ci"
+
+#: themes/transparency/pages/homepage.php:1
+#, php-format
+msgid "Welcome to %s"
+msgstr "Bienvenue sur %s"
+
+#: themes/transparency/pages/report.php:5
+#, php-format
+msgid "Report the user %s"
+msgstr "Dénoncer l'utilisateur %s"
+
+#: themes/transparency/pages/report.php:6
+msgid "Some reasons to report an account can be:"
+msgstr "Quelques raisons pour dénoncer un compte peuvent être:"
+
+#: themes/transparency/pages/report.php:9
+#: themes/transparency/pages/report.php:49
+msgid "SPAM"
+msgstr "SPAM"
+
+#: themes/transparency/pages/report.php:10
+#: themes/transparency/pages/report.php:50
+msgid "Offensive content"
+msgstr "Contenu offensif"
+
+#: themes/transparency/pages/report.php:11
+#: themes/transparency/pages/report.php:51
+msgid "Duplicated account"
+msgstr "Compte en double"
+
+#: themes/transparency/pages/report.php:12
+#: themes/transparency/pages/report.php:52
+msgid "Unlawful attached files"
+msgstr "Fichiers joints illégaux"
+
+#: themes/transparency/pages/report.php:13
+#: themes/transparency/pages/report.php:53
+msgid "Illicit purposes"
+msgstr ""
+
+#: themes/transparency/pages/report.php:15
+msgid ""
+"You must be completely SURE that the user you are reporting is not following "
+"our Terms of Service."
+msgstr ""
+
+#: themes/transparency/pages/report.php:16
+#: themes/transparency/pages/report.php:56
+msgid "And remember:"
+msgstr "Et rappelle-toi:"
+
+#: themes/transparency/pages/report.php:19
+#: themes/transparency/pages/report.php:59
+msgid "You will remain in anonymity"
+msgstr ""
+
+#: themes/transparency/pages/report.php:20
+#: themes/transparency/pages/report.php:60
+msgid ""
+"When finishing this, you will not get any notification, but report has been "
+"sent"
+msgstr ""
+
+#: themes/transparency/pages/report.php:21
+#: themes/transparency/pages/report.php:61
+msgid "Fake or duplicated reports means the blocking of your account!"
+msgstr ""
+
+#: themes/transparency/pages/report.php:24
+#: themes/transparency/pages/report.php:64
+msgid ""
+"If after reading this, you still want to report this account, go forward, we "
+"are grateful for your help!"
+msgstr ""
+
+#: themes/transparency/pages/report.php:31
+#: themes/transparency/pages/report.php:71
+#: themes/transparency/pages/trouble_login.php:26
+msgid "Continue"
+msgstr "Continuer"
+
+#: themes/transparency/pages/report.php:39
+msgid "The user was reported successfully"
+msgstr ""
+
+#: themes/transparency/pages/report.php:45
+#, php-format
+msgid "Report the note #%s"
+msgstr "Dénoncer la note #%s"
+
+#: themes/transparency/pages/report.php:46
+msgid "Some reasons to report a note can be:"
+msgstr "Quelques raisons pour dénoncer une note peuvent être:"
+
+#: themes/transparency/pages/report.php:55
+msgid ""
+"You must be completely SURE that the note you are reporting is not following "
+"our Terms of Service."
+msgstr ""
+
+#: themes/transparency/pages/report.php:79
+msgid "The note was reported successfully"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:13
+#: themes/transparency/pages/settings.php:16
+#: themes/transparency/pages/settings.php:88
+#: themes/transparency/pages/settings.php:216
+#: themes/transparency/pages/settings.php:280
+#: themes/transparency/pages/settings.php:336
+#: themes/transparency/pages/settings.php:355
+msgid "Profile"
+msgstr "Profil"
+
+#: themes/transparency/pages/settings.php:17
+#: themes/transparency/pages/settings.php:85
+#: themes/transparency/pages/settings.php:89
+#: themes/transparency/pages/settings.php:217
+#: themes/transparency/pages/settings.php:281
+#: themes/transparency/pages/settings.php:337
+#: themes/transparency/pages/settings.php:356
+msgid "Configuration"
+msgstr "Configuration"
+
+#: themes/transparency/pages/settings.php:18
+#: themes/transparency/pages/settings.php:90
+#: themes/transparency/pages/settings.php:213
+#: themes/transparency/pages/settings.php:218
+#: themes/transparency/pages/settings.php:282
+#: themes/transparency/pages/settings.php:338
+#: themes/transparency/pages/settings.php:357
+msgid "Customize"
+msgstr "Personnaliser"
+
+#: themes/transparency/pages/settings.php:19
+#: themes/transparency/pages/settings.php:91
+#: themes/transparency/pages/settings.php:219
+#: themes/transparency/pages/settings.php:283
+#: themes/transparency/pages/settings.php:339
+#: themes/transparency/pages/settings.php:352
+#: themes/transparency/pages/settings.php:358
+msgid "Privacy"
+msgstr "Privacité"
+
+#: themes/transparency/pages/settings.php:21
+#: themes/transparency/pages/settings.php:93
+#: themes/transparency/pages/settings.php:221
+#: themes/transparency/pages/settings.php:285
+#: themes/transparency/pages/settings.php:333
+#: themes/transparency/pages/settings.php:341
+#: themes/transparency/pages/settings.php:360
+msgid "Ignored users"
+msgstr "Utilisateurs ignorés"
+
+#: themes/transparency/pages/settings.php:28
+msgid "Bio (140 chars max.)"
+msgstr "Biographie (140 caractères max.)"
+
+#: themes/transparency/pages/settings.php:33
+#: themes/transparency/pages/sidebar.php:32
+#: themes/transparency/pages/sidebar.php:90
+#: themes/transparency/pages/sidebar.php:180
+#: themes/transparency/pages/tag.php:126
+msgid "Name"
+msgstr "Nom"
+
+#: themes/transparency/pages/settings.php:35
+msgid "Webpage"
+msgstr "Page Web"
+
+#: themes/transparency/pages/settings.php:37
+#: themes/transparency/pages/sidebar.php:35
+#: themes/transparency/pages/sidebar.php:93
+#: themes/transparency/pages/sidebar.php:183
+msgid "Location"
+msgstr "Localisation"
+
+#: themes/transparency/pages/settings.php:40
+#: themes/transparency/pages/register.php:38
+msgid "Language"
+msgstr "Langue"
+
+#: themes/transparency/pages/settings.php:55
+msgid "Change my profile picture"
+msgstr "Changer l'image de mon profil"
+
+#: themes/transparency/pages/settings.php:59
+msgid "250 KB max. size, jpg/png/gif format"
+msgstr "250 KB taille max. ,format jpg/png/gif"
+
+#: themes/transparency/pages/settings.php:63
+msgid "Delete it"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:71
+msgid "Enable Gravatar service"
+msgstr "Activer le service Gravatar"
+
+#: themes/transparency/pages/settings.php:78
+#: themes/transparency/pages/settings.php:206
+#: themes/transparency/pages/settings.php:271
+#: themes/transparency/pages/settings.php:329
+#: themes/transparency/pages/settings.php:434
+msgid "Save"
+msgstr "Enregistrer"
+
+#: themes/transparency/pages/settings.php:98
+msgid "change my username"
+msgstr "changer mon nom d'utilisateur"
+
+#: themes/transparency/pages/settings.php:102
+msgid "repeat new password"
+msgstr "Répétez le nouveau mot de passe"
+
+#: themes/transparency/pages/settings.php:104
+msgid "new password (if you want to change it)"
+msgstr "nouveau mot de passe (si tu veux le changer)"
+
+#: themes/transparency/pages/settings.php:108
+msgid "e-mail"
+msgstr "e-mail"
+
+#: themes/transparency/pages/settings.php:116
+msgid "Disable connection with Facebook"
+msgstr "Désactiver la connexion avec Facebook"
+
+#: themes/transparency/pages/settings.php:118
+msgid "Connect my account with Facebook"
+msgstr "Connecter mon compte avec Facebook"
+
+#: themes/transparency/pages/settings.php:123
+msgid "OpenID URL"
+msgstr "Direction OpenID"
+
+#: themes/transparency/pages/settings.php:131
+msgid "Request new API key"
+msgstr "Demander un nouvelle clé API"
+
+#: themes/transparency/pages/settings.php:135
+msgid "API key"
+msgstr "clé API"
+
+#: themes/transparency/pages/settings.php:140
+msgid "Notification level"
+msgstr "Niveau de notification"
+
+#: themes/transparency/pages/settings.php:143
+#: themes/transparency/pages/settings.php:145
+msgid "Everything"
+msgstr "Tout"
+
+#: themes/transparency/pages/settings.php:149
+#: themes/transparency/pages/settings.php:151
+msgid "Privates and Following"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:161
+#: themes/transparency/pages/settings.php:163
+msgid "Privates"
+msgstr "Privés"
+
+#: themes/transparency/pages/settings.php:173
+#: themes/transparency/pages/settings.php:175
+msgid "None"
+msgstr "Aucun"
+
+#: themes/transparency/pages/settings.php:187
+msgid "Try to always show the preview page of a shorted link"
+msgstr ""
+"Essayer toujours de montrer la vue préliminaire des liens raccourcis."
+
+#: themes/transparency/pages/settings.php:191
+msgid "URL Shortening service"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:204
+msgid "current password"
+msgstr "mot de passe actuel"
+
+#: themes/transparency/pages/settings.php:204
+msgid "(if you don't have a password just leave it blank)"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:208
+msgid "Delete my account"
+msgstr "Supprimer mon compte"
+
+#: themes/transparency/pages/settings.php:226
+msgid "Theme"
+msgstr "Thème"
+
+#: themes/transparency/pages/settings.php:241
+msgid "Background style"
+msgstr "Style d'arrière-plan"
+
+#: themes/transparency/pages/settings.php:253
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: themes/transparency/pages/settings.php:255
+msgid "1 MB max. size, jpg/png/gif format"
+msgstr "1 MB taille max. ,format jpg/png/gif"
+
+#: themes/transparency/pages/settings.php:258
+msgid "Background color"
+msgstr "Couleur d'arrière plan"
+
+#: themes/transparency/pages/settings.php:260
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: themes/transparency/pages/settings.php:264
+msgid "Sidebar color"
+msgstr "Couleur de la barre latérale"
+
+#: themes/transparency/pages/settings.php:266
+msgid "Links color"
+msgstr "Couleur des liens"
+
+#: themes/transparency/pages/settings.php:268
+msgid "Sidebar text color"
+msgstr "Couleur du texte de la barre latérale"
+
+#: themes/transparency/pages/settings.php:273
+msgid "Delete background"
+msgstr "Effacer l'arrière-plan"
+
+#: themes/transparency/pages/settings.php:291
+msgid "Twitter integration it's working properly"
+msgstr "L'intégration avec Twitter fonctionne correctement"
+
+#: themes/transparency/pages/settings.php:293
+msgid "Twitter notes not updated yet..."
+msgstr "Notes de Twitter encore pas actualisées..."
+
+#: themes/transparency/pages/settings.php:297
+#, php-format
+msgid "Twitter updated %s"
+msgstr "Twitter actualisé %s"
+
+#: themes/transparency/pages/settings.php:299
+msgid "Twitter not updated yet, wait..."
+msgstr "Twitter n'est pas encore mis à jour, patientez ..."
+
+#: themes/transparency/pages/settings.php:311
+msgid "Disable twitter integration"
+msgstr "Désactiver l'intégration avec Twitter"
+
+#: themes/transparency/pages/settings.php:317
+#: themes/transparency/pages/settings.php:319
+msgid "Show tweets in the friends tab"
+msgstr "Montrer les tweets sur l'onglet 'Amis'"
+
+#: themes/transparency/pages/settings.php:322
+#: themes/transparency/pages/settings.php:324
+#, php-format
+msgid "Post %s notes to Twitter"
+msgstr "Publier les notes de %s sur Twitter"
+
+#: themes/transparency/pages/settings.php:345
+msgid "You are not ignoring anyone"
+msgstr "Personne sur votre liste \"Ignorer\""
+
+#: themes/transparency/pages/settings.php:365
+msgid "Show my followings"
+msgstr "Montrer les utilisateurs auxquels je suis"
+
+#: themes/transparency/pages/settings.php:376
+msgid "Show my followers"
+msgstr "Montrer mes suiveurs"
+
+#: themes/transparency/pages/settings.php:388
+msgid "Show my notes"
+msgstr "Montrer mes notes"
+
+#: themes/transparency/pages/settings.php:399
+msgid "Show my favorite notes"
+msgstr "Montrer mes notes préférées"
+
+#: themes/transparency/pages/settings.php:411
+msgid "Show my profile info"
+msgstr "Montrer l'information de mon profil"
+
+#: themes/transparency/pages/settings.php:422
+msgid "Allow to read my RSS"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:424
+msgid "Everyone"
+msgstr "Tout le monde"
+
+#: themes/transparency/pages/settings.php:424
+msgid "Nobody"
+msgstr "Personne"
+
+#: themes/transparency/pages/stats.php:52
+#: themes/transparency/pages/sidebar.php:51
+#: themes/transparency/pages/sidebar.php:103
+#: themes/transparency/pages/sidebar.php:156
+#: themes/transparency/pages/sidebar.php:199
+#: themes/transparency/pages/sidebar.php:231
+msgid "Stats"
+msgstr "Statistiques"
+
+#: themes/transparency/pages/user.php:3 themes/transparency/pages/user.php:43
+#: themes/transparency/pages/user.php:61 themes/transparency/pages/user.php:86
+msgid "Forbidden access"
+msgstr "Accés interdit"
+
+#: themes/transparency/pages/user.php:5 themes/transparency/pages/user.php:88
+msgid "This user has decided to not show his profile to everyone."
+msgstr ""
+"Cet utilisateur a décider de ne pas montrer son profil à tout le monde"
+
+#: themes/transparency/pages/user.php:9
+#, php-format
+msgid "Link to the post %s"
+msgstr "Lien à la note %s"
+
+#: themes/transparency/pages/user.php:10
+msgid ""
+"To share this note you simply have to share the URL of this page to your "
+"friends via social networking, instant messaging, blogs..."
+msgstr ""
+
+#: themes/transparency/pages/user.php:16
+msgid "Report note"
+msgstr "Dénoncer la note"
+
+#: themes/transparency/pages/user.php:45
+msgid "This user has decided to not show his followers to everyone."
+msgstr ""
+"Cet utilisateur a décidé de ne pas montrer ses suiveurs à tout le monde."
+
+#: themes/transparency/pages/user.php:48
+#, php-format
+msgid "%s's followers (%d)"
+msgstr "Suiveurs de %s (%d)"
+
+#: themes/transparency/pages/user.php:63
+msgid "This user has decided to not show his followings to everyone."
+msgstr ""
+"L'utilisateur a décidé de ne pas montrer les utilisateurs auxquels il suit à "
+"tout le monde."
+
+#: themes/transparency/pages/user.php:66
+#, php-format
+msgid "%s's followings (%d)"
+msgstr "Utilisateurs auxquels il suit %s (%d)"
+
+#: themes/transparency/pages/contact.php:1
+#: themes/transparency/pages/footer.php:11
+msgid "Contact"
+msgstr "Contact"
+
+#: themes/transparency/pages/contact.php:4
+#, php-format
+msgid ""
+"If you want to contact with the administrator of %s, please fill the form "
+"below\n"
+"\t\t\tand the administrator will receive a copy of your message"
+msgstr ""
+
+#: themes/transparency/pages/contact.php:13
+#: themes/transparency/pages/contact.php:16
+#: themes/transparency/pages/trouble_login.php:18
+msgid "Email"
+msgstr "Courriel"
+
+#: themes/transparency/pages/contact.php:18
+msgid "Message"
+msgstr "Message"
+
+#: themes/transparency/pages/contact.php:21
+msgid "I want to receive a copy in my email account"
+msgstr ""
+
+#: themes/transparency/pages/followers.php:1
+msgid "My followers"
+msgstr "Mes suiveurs"
+
+#: themes/transparency/pages/footer.php:7
+msgid "Search..."
+msgstr "Rechercher..."
+
+#: themes/transparency/pages/footer.php:8
+msgid "Search"
+msgstr "Chercher"
+
+#: themes/transparency/pages/footer.php:11
+msgid "FAQ"
+msgstr "FAQ"
+
+#: themes/transparency/pages/footer.php:11
+msgid "Mobile interface"
+msgstr "Interface mobile"
+
+#: themes/transparency/pages/header.php:13
+msgid "Users search"
+msgstr "Recheche d'utilisateurs"
+
+#: themes/transparency/pages/header.php:29
+msgid "Working..."
+msgstr "Travail en cours..."
+
+#: themes/transparency/pages/header.php:41
+msgid "mobile"
+msgstr "portable"
+
+#: themes/transparency/pages/header.php:44
+msgid "Fetching notes..."
+msgstr "Mettant à jour les notes..."
+
+#: themes/transparency/pages/header.php:52
+msgid "Note successfully sent"
+msgstr "Note envoyée avec succés"
+
+#: themes/transparency/pages/header.php:53
+msgid "Error:"
+msgstr "Erreur :"
+
+#: themes/transparency/pages/header.php:54
+msgid "user or note not found"
+msgstr "Utilisateur ou note non trouvé(e)"
+
+#: themes/transparency/pages/header.php:55
+msgid "Name:"
+msgstr "Nom:"
+
+#: themes/transparency/pages/header.php:56
+msgid "Location:"
+msgstr "Emplacement:"
+
+#: themes/transparency/pages/header.php:57
+msgid "Bio:"
+msgstr "Biographie:"
+
+#: themes/transparency/pages/header.php:58
+msgid "Web:"
+msgstr "Web:"
+
+#: themes/transparency/pages/header.php:59
+msgid "Since:"
+msgstr "Depuis :"
+
+#: themes/transparency/pages/header.php:60
+msgid "In reply to:"
+msgstr "En réponse à:"
+
+#: themes/transparency/pages/register.php:4
+msgid "You need a valid token to register an account"
+msgstr "Vous avez besoin d'un code valide pour créer un compte!"
+
+#: themes/transparency/pages/register.php:10
+msgid ""
+"We couldn't find your OpenID url on our database, so maybe you want to "
+"register. To do so we need some details which you can fill in the form below"
+msgstr ""
+
+#: themes/transparency/pages/register.php:13
+msgid ""
+"We couldn't find your Facebook profile on our database, so maybe you want to "
+"register. To do so we need some details which you can fill in the form below"
+msgstr ""
+"Nous n'avons pas pu trouver ton profil Facebook dans notre base de données, "
+"alors peut-être que tu veux t'inscrire. Pour cela, nous avons besoin de "
+"quelques détails que tu pourras introduire dans le formulaire suivant"
+
+#: themes/transparency/pages/register.php:20
+msgid "E-mail"
+msgstr ""
+
+#: themes/transparency/pages/register.php:24
+msgid "password (again)"
+msgstr "mot de passe (répétez)"
+
+#: themes/transparency/pages/register.php:30
+msgid "OpenID <strong>(optional)</strong>"
+msgstr "OpenID <strong>(optionnel)</strong>"
+
+#: themes/transparency/pages/register.php:53
+msgid "I accept the"
+msgstr "J'accepte le"
+
+#: themes/transparency/pages/register.php:53
+msgid "privacy and service terms"
+msgstr "termes de vie privée et du service"
+
+#: themes/transparency/pages/register.php:55
+#: themes/transparency/pages/register.php:57
+msgid "Register!"
+msgstr "S'inscrire!"
+
+#: themes/transparency/pages/search.php:1
+#, php-format
+msgid "Results for %s"
+msgstr "Résultats pour %s"
+
+#: themes/transparency/pages/search.php:4
+msgid "Nothing found"
+msgstr "RIen n'a été trouvé!"
+
+#: themes/transparency/pages/sidebar.php:7
+#: themes/transparency/pages/sidebar.php:69
+#: themes/transparency/pages/sidebar.php:84
+#: themes/transparency/pages/sidebar.php:119
+#: themes/transparency/pages/sidebar.php:173
+#: themes/transparency/pages/sidebar.php:210
+msgid "Avatar"
+msgstr "Avatar"
+
+#: themes/transparency/pages/sidebar.php:12
+msgid "Stop Following"
+msgstr "Arrêter de suivre"
+
+#: themes/transparency/pages/sidebar.php:20
+msgid "Stop Ignoring"
+msgstr "Arrêter d'ignorer"
+
+#: themes/transparency/pages/sidebar.php:29
+#: themes/transparency/pages/sidebar.php:87
+#: themes/transparency/pages/sidebar.php:151
+#: themes/transparency/pages/sidebar.php:177
+#: themes/transparency/pages/sidebar.php:226
+msgid "About"
+msgstr "À propos"
+
+#: themes/transparency/pages/sidebar.php:38
+#: themes/transparency/pages/sidebar.php:96
+#: themes/transparency/pages/sidebar.php:186
+msgid "Web"
+msgstr "Web"
+
+#: themes/transparency/pages/sidebar.php:41
+#: themes/transparency/pages/sidebar.php:99
+#: themes/transparency/pages/sidebar.php:189
+msgid "Bio"
+msgstr "Bio"
+
+#: themes/transparency/pages/sidebar.php:43
+#: themes/transparency/pages/sidebar.php:101
+#: themes/transparency/pages/sidebar.php:191
+msgid "Since"
+msgstr "Depuis"
+
+#: themes/transparency/pages/sidebar.php:44
+#: themes/transparency/pages/sidebar.php:192
+msgid "Last login"
+msgstr "Dernière connexion"
+
+#: themes/transparency/pages/sidebar.php:55
+#: themes/transparency/pages/sidebar.php:111
+#: themes/transparency/pages/sidebar.php:203
+msgid "Favorites"
+msgstr "Favoris"
+
+#: themes/transparency/pages/sidebar.php:59
+msgid "Most used tags by the user"
+msgstr "Tags les plus utilisés par l'utilisateur"
+
+#: themes/transparency/pages/sidebar.php:62
+#: themes/transparency/pages/sidebar.php:136
+msgid "more"
+msgstr "plus"
+
+#: themes/transparency/pages/sidebar.php:73
+#: themes/transparency/pages/sidebar.php:139
+#: themes/transparency/pages/sidebar.php:162
+#: themes/transparency/pages/sidebar.php:214
+#: themes/transparency/pages/sidebar.php:237
+msgid "Export"
+msgstr "Exporter"
+
+#: themes/transparency/pages/sidebar.php:76
+#: themes/transparency/pages/sidebar.php:77
+#: themes/transparency/pages/sidebar.php:78
+#: themes/transparency/pages/sidebar.php:142
+#: themes/transparency/pages/sidebar.php:143
+#: themes/transparency/pages/sidebar.php:144
+#: themes/transparency/pages/sidebar.php:165
+#: themes/transparency/pages/sidebar.php:166
+#: themes/transparency/pages/sidebar.php:217
+#: themes/transparency/pages/sidebar.php:218
+#: themes/transparency/pages/sidebar.php:240
+#: themes/transparency/pages/sidebar.php:241
+#: themes/transparency/pages/sidebar.php:271
+msgid "Feed"
+msgstr "Flux"
+
+#: themes/transparency/pages/sidebar.php:78
+#: themes/transparency/pages/sidebar.php:144
+msgid "Friends timeline"
+msgstr "Il n'y a pas de données suffisantes"
+
+#: themes/transparency/pages/sidebar.php:124
+msgid "Invitations"
+msgstr "Invitations"
+
+#: themes/transparency/pages/sidebar.php:127
+msgid "E-mail..."
+msgstr "E-Mail..."
+
+#: themes/transparency/pages/sidebar.php:128
+msgid "Send!"
+msgstr "Envoyé!"
+
+#: themes/transparency/pages/sidebar.php:128
+msgid "invitations left"
+msgstr "invitations restantes"
+
+#: themes/transparency/pages/sidebar.php:133
+msgid "Most used tags"
+msgstr "Tags les plus utilisés"
+
+#: themes/transparency/pages/sidebar.php:133
+msgid "Today most used tags"
+msgstr "Les tags les plus utilisés aujourd'hui"
+
+#: themes/transparency/pages/sidebar.php:153
+#: themes/transparency/pages/sidebar.php:228
+msgid "First note"
+msgstr "Première note"
+
+#: themes/transparency/pages/sidebar.php:154
+#: themes/transparency/pages/sidebar.php:229
+msgid "First poster"
+msgstr "Premier poster"
+
+#: themes/transparency/pages/sidebar.php:159
+#: themes/transparency/pages/sidebar.php:234
+#: themes/transparency/pages/tag.php:127
+msgid "Writing rate"
+msgstr "Moyenne d'écriture"
+
+#: themes/transparency/pages/sidebar.php:160
+#: themes/transparency/pages/sidebar.php:235
+msgid "Max. poster"
+msgstr "Utilisateur plus actif"
+
+#: themes/transparency/pages/sidebar.php:160
+#: themes/transparency/pages/sidebar.php:235
+#, php-format
+msgid "(%d notes)"
+msgstr "(%d notes)"
+
+#: themes/transparency/pages/sidebar.php:166
+#: themes/transparency/pages/sidebar.php:241
+#, php-format
+msgid "Tag #%s"
+msgstr "Tag #%s"
+
+#: themes/transparency/pages/sidebar.php:249
+msgid "user or email"
+msgstr "utilisateur ou e-mail"
+
+#: themes/transparency/pages/sidebar.php:252
+msgid "OpenID"
+msgstr "OpenID"
+
+#: themes/transparency/pages/sidebar.php:268
+msgid "RSS"
+msgstr "RSS"
+
+#: themes/transparency/pages/tag.php:2
+#, php-format
+msgid "Notes with the tag %s"
+msgstr "Notes avec le tag %s"
+
+#: themes/transparency/pages/tag.php:5
+msgid "There are no notes with this tag."
+msgstr "Il n'y a pas de notes avec ce tag."
+
+#: themes/transparency/pages/tag.php:26 themes/transparency/pages/tag.php:37
+#: themes/transparency/pages/tag.php:48 themes/transparency/pages/tag.php:59
+msgid "There is not enough data to gererate statistics"
+msgstr "Il n'y a pas de données suffisantes pour générer des statistiques"
+
+#: themes/transparency/pages/tag.php:63
+msgid "Tags statistics"
+msgstr "Statistiques de Tags"
+
+#: themes/transparency/pages/tag.php:67
+msgid "Today"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:68
+msgid "Last week"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:69
+msgid "Last month"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:70
+msgid "Everytime"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:122
+msgid "Tags with better writing rate"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:128
+msgid "Number of notes"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:147
+msgid "Users that created more tags"
+msgstr "Utilisateurs qui ont créés le plus de tags"
+
+#: themes/transparency/pages/tag.php:152
+msgid "Created tags"
+msgstr "Tags créés"
+
+#: themes/transparency/pages/trouble_login.php:3
+msgid ""
+"If you cannot login into your account, choose an option from the forms below"
+msgstr ""
+
+#: themes/transparency/pages/trouble_login.php:8
+msgid "Resend activation mail..."
+msgstr "Renvoyer un email d'activation..."
+
+#: themes/transparency/pages/trouble_login.php:9
+msgid ""
+"If you didnt receive your activation email, you can try resending it from "
+"here. Just typing your username"
+msgstr ""
+"Si vous n'avez pas reçu de courrier d'activation, vous pouvez essayer de "
+"l'envoyer à nouveau. Vous n'avez qu'à entrer votre nom d'utilisateur"
+
+#: themes/transparency/pages/trouble_login.php:13
+msgid "Recover password..."
+msgstr "Récupérer le mot de passe..."
+
+#: themes/transparency/pages/trouble_login.php:14
+msgid ""
+"You can recover your password just typing your email or your username. An "
+"email will be delivered to the linked account"
+msgstr ""
+"Tu peux récupérer ton mot de passe en écrivant simplement ton adresse e-mail "
+"ou ton nom d'utilisateur. Un email te sera envoyé sur ton compte"

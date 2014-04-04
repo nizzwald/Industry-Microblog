@@ -1,0 +1,19 @@
+<?xml version='1.0' standalone='yes'?>
+<info>
+	<name>Transparency</name>
+	<author>
+		<name>Gabriel Longás</name>
+		<website>http://cuantopixel.com</website>
+		<email>glongas@gmail.com</email>
+	</author>
+	<author>
+		<name>Marcos García</name>
+		<website>http://marquitox.net</website>
+		<email>marcosgdf@gmail.com</email>
+	</author>
+	<license>GPL v3</license>
+	<version>
+		<theme>1.0</theme>
+		<jisko>3.0</jisko>
+	</version>
+</info>

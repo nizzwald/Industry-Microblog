@@ -1,0 +1,2032 @@
+# Chinese (Simplified) translation for jisko
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the jisko package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jisko\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-07-26 17:29-0700\n"
+"PO-Revision-Date: 2010-07-28 02:37+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-07-28 03:04+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: pages/ajax.php:95
+msgid "The note does not exist"
+msgstr "信息不存在"
+
+#: pages/ajax.php:113
+msgid "There was an error while trying to close your session"
+msgstr "有一个错误，会话关闭"
+
+#: pages/ajax.php:135 pages/post.php:42
+#: themes/transparency/pages/header.php:50
+msgid "The note is too short"
+msgstr "信息太短了"
+
+#: pages/ajax.php:138 pages/post.php:45
+#: themes/transparency/pages/header.php:51
+msgid "The note is too long"
+msgstr "信息超过了规定的长度"
+
+#: pages/ajax.php:141 pages/post.php:48
+msgid "You are not logged in correctly."
+msgstr "抱歉，你还没有登陆"
+
+#: pages/ajax.php:144
+msgid "The user doesn't exist"
+msgstr "用户不存在"
+
+#: pages/ajax.php:150
+msgid "The user isn't following you"
+msgstr "该用户尚未关注您"
+
+#: pages/ajax.php:153 pages/ajax.php:244 pages/post.php:63
+msgid "Cowboy!"
+msgstr "你好牛X!"
+
+#: pages/ajax.php:215
+msgid "You are not allowed to see the profile of this user"
+msgstr "你无权查看该用户信息"
+
+#: pages/ajax.php:217
+msgid "This user doesn't exists"
+msgstr "此用户不存在"
+
+#: pages/ajax.php:232
+msgid "You are not allowed to erase others' notes"
+msgstr "您不能删除别人的信息"
+
+#: pages/ajax.php:233
+msgid "The note was successfully deleted"
+msgstr "该信息已成功删除"
+
+#: pages/ajax.php:235
+msgid "You must specify a note ID"
+msgstr "请输入指定 ID"
+
+#: pages/ajax.php:258
+msgid "The user you are trying to follow is ignoring you"
+msgstr "您要设置了忽略"
+
+#: pages/ajax.php:260
+msgid "You are ignoring the user"
+msgstr "你忽略了用户"
+
+#: pages/ajax.php:267
+msgid "There was an error while trying to follow the user. Please retry"
+msgstr "您关注用户的时候出现错误，请重试"
+
+#: pages/ajax.php:269
+msgid "You are not logged in"
+msgstr "您还没有登陆"
+
+#: pages/download.php:27
+msgid "Note doesn't exists"
+msgstr "不存在此内容"
+
+#: pages/download.php:33
+msgid "File doesn't exists"
+msgstr "文件不存在"
+
+#: pages/following.php:26 themes/transparency/pages/notes.php:84
+#: themes/transparency/pages/settings.php:167
+#: themes/transparency/pages/settings.php:169
+#: themes/transparency/pages/sidebar.php:53
+#: themes/transparency/pages/sidebar.php:66
+#: themes/transparency/pages/sidebar.php:105
+#: themes/transparency/pages/sidebar.php:116
+#: themes/transparency/pages/sidebar.php:201
+#: themes/transparency/pages/sidebar.php:207
+msgid "Following"
+msgstr "你关注的人"
+
+#: pages/login.php:64 pages/mobile/login.php:35
+#: pages/mobile/template/header.php:39 themes/transparency/pages/login.php:1
+#: themes/transparency/pages/sidebar.php:257
+msgid "Login"
+msgstr "登录"
+
+#: pages/login.php:70 pages/settings.php:98 pages/settings.php:271
+#: pages/settings.php:424 pages/settings.php:427 pages/settings.php:482
+#: pages/settings.php:542
+msgid "Settings updated!"
+msgstr "更新成功！"
+
+#: pages/login.php:78 pages/login.php:161
+msgid "Your username is banned"
+msgstr "抱歉，您的帐号被冻结了"
+
+#: pages/login.php:81 pages/login.php:177
+msgid "This account has not been confirmed yet"
+msgstr "您的账号还没有被激活"
+
+#: pages/login.php:84 pages/login.php:182 pages/mobile/login.php:20
+msgid "Incorrect password"
+msgstr "密码错误"
+
+#: pages/login.php:87 pages/login.php:187
+msgid "The username does not exist"
+msgstr ""
+
+#: pages/login.php:90 pages/login.php:151 pages/mobile/login.php:26
+msgid "There are empty fields, fill them and try again"
+msgstr "还有未完成项目,请填写完整再试一遍"
+
+#: pages/login.php:93 pages/settings.php:314
+msgid "Invalid OpenID url."
+msgstr ""
+
+#: pages/login.php:96
+#, php-format
+msgid "OpenID Error: %s (%s)"
+msgstr ""
+
+#: pages/login.php:99
+msgid "OpenID authorization canceled by user."
+msgstr ""
+
+#: pages/login.php:102
+msgid "Could not validate your OpenID Identity"
+msgstr ""
+
+#: pages/login.php:105
+msgid "Please login and then retry"
+msgstr "请登陆后重试"
+
+#: pages/notes.php:36 themes/transparency/pages/sidebar.php:56
+#: themes/transparency/pages/sidebar.php:77
+#: themes/transparency/pages/sidebar.php:113
+#: themes/transparency/pages/sidebar.php:143
+#: themes/transparency/pages/sidebar.php:158
+#: themes/transparency/pages/sidebar.php:204
+#: themes/transparency/pages/sidebar.php:218
+#: themes/transparency/pages/sidebar.php:233
+msgid "Notes"
+msgstr "备注"
+
+#: pages/settings.php:26 themes/transparency/pages/header.php:73
+msgid "Settings"
+msgstr "设置"
+
+#: pages/settings.php:77 pages/settings.php:407 pages/settings.php:454
+#: pages/settings.php:464 pages/settings.php:495
+msgid "You are not allowed to perform this operation"
+msgstr "您没有权限执行此操作"
+
+#: pages/settings.php:83
+msgid "There was a problem while trying to delete your avatar"
+msgstr "清除头像时出现问题"
+
+#: pages/settings.php:104
+msgid "Invalid extension!"
+msgstr "无效的范围"
+
+#: pages/settings.php:107
+msgid "File too big!"
+msgstr "文件太大了！"
+
+#: pages/settings.php:110
+msgid "There was a problem while trying to upload your avatar"
+msgstr "上传头像时出现错误"
+
+#: pages/settings.php:113
+msgid "There was a problem while trying to delete your previous avatar"
+msgstr "删除旧头像时出现错误"
+
+#: pages/settings.php:258
+msgid "We have changed successfully your email"
+msgstr "成功更新您的邮箱"
+
+#: pages/settings.php:275
+msgid "Nothing changed..."
+msgstr "什么也没有改变"
+
+#: pages/settings.php:278
+msgid "We have sent you a confirm message to the new mail!"
+msgstr "验证邮件已经发送到你的邮箱，请注意查收!"
+
+#: pages/settings.php:287 pages/register.php:70
+msgid "Taken username, please choose another!"
+msgstr "用户名被占用，请换一个！"
+
+#: pages/settings.php:290 pages/register.php:82
+msgid "Sorry! Your choosen username appears to be invalid"
+msgstr ""
+
+#: pages/settings.php:293
+msgid "Not valid email"
+msgstr ""
+
+#: pages/settings.php:296
+msgid "E-mail has already been taken"
+msgstr "E-mail已经被使用！"
+
+#: pages/settings.php:299
+msgid "Not valid jabber account"
+msgstr ""
+
+#: pages/settings.php:302
+msgid "Jabber has already been taken"
+msgstr "Jabber已经被使用"
+
+#: pages/settings.php:305
+msgid "Passwords don't match"
+msgstr "密码不匹配"
+
+#: pages/settings.php:308
+msgid "The provided OpenID url was already linked with another account"
+msgstr ""
+
+#: pages/settings.php:311
+msgid "Error while trying to contact the OpenID server"
+msgstr ""
+
+#: pages/settings.php:317
+msgid "Invalid password/login verification"
+msgstr ""
+
+#: pages/settings.php:320
+msgid "There was an error while trying to migrate your user data"
+msgstr ""
+
+#: pages/settings.php:409
+msgid "There was a problem while trying to delete your background"
+msgstr "删除背景时出现问题"
+
+#: pages/settings.php:433
+msgid "Invalid background extension"
+msgstr ""
+
+#: pages/settings.php:436
+msgid "Background image too big!"
+msgstr "背景图超过尺寸"
+
+#: pages/settings.php:439
+msgid "There was a problem while trying to delete your previous background"
+msgstr ""
+
+#: pages/settings.php:442
+msgid "There was a problem while trying to upload your background"
+msgstr "上传背景图时出现问题"
+
+#: pages/settings.php:479
+msgid "Disabled twitter integration with success"
+msgstr ""
+
+#: pages/settings.php:492
+msgid "There was a problem while trying to link your account with Twitter"
+msgstr ""
+
+#: pages/followers.php:26 themes/transparency/pages/sidebar.php:54
+#: themes/transparency/pages/sidebar.php:107
+#: themes/transparency/pages/sidebar.php:109
+#: themes/transparency/pages/sidebar.php:202
+msgid "Followers"
+msgstr "您的FANS"
+
+#: pages/post.php:33
+msgid "The uploaded file is too big"
+msgstr "文件大小超出限定"
+
+#: pages/post.php:36
+msgid "The uploaded file is not allowed"
+msgstr "文件类型不允许"
+
+#: pages/post.php:39
+msgid "There was a problem while trying to upload the attached file"
+msgstr ""
+
+#: pages/post.php:51
+msgid "The user does not exist"
+msgstr ""
+
+#: pages/post.php:57
+msgid "The user is not following you"
+msgstr "这位用户没有关注您"
+
+#: pages/post.php:60
+msgid "You can't send a private note to yourself"
+msgstr ""
+
+#: pages/register.php:30 themes/transparency/pages/register.php:7
+#: themes/transparency/pages/sidebar.php:261
+msgid "Register"
+msgstr "注册"
+
+#: pages/register.php:38 pages/trouble_login.php:75
+msgid "Check your email (including SPAM) to activate your account"
+msgstr "检查你的Email收件箱点击确认链接激活帐号（确保没有被当成垃圾邮件）"
+
+#: pages/register.php:40 pages/register.php:45
+msgid "You can access now with your account, thank you!"
+msgstr "你现在可以登录你的账户了，谢谢！"
+
+#: pages/register.php:52
+msgid "Invalid confirmation code!"
+msgstr "无效的确认码！"
+
+#: pages/register.php:61
+msgid "You need a valid token to register an account!"
+msgstr ""
+
+#: pages/register.php:64
+msgid "Sorry! The provided email is invalid"
+msgstr ""
+
+#: pages/register.php:67
+msgid "You must accept the Terms of Service (TOS)"
+msgstr ""
+
+#: pages/register.php:73
+msgid "Email is taken, please choose another!"
+msgstr "Email 被占用，请换一个！"
+
+#: pages/register.php:76
+msgid "Passwords don't match!"
+msgstr "密码不匹配"
+
+#: pages/register.php:79 pages/trouble_login.php:33
+msgid "Incorrect reCAPTCHA code!"
+msgstr "验证码输入错误！"
+
+#: pages/register.php:85
+msgid "There was a problem while trying to create your user"
+msgstr "创建用户的时候出现问题"
+
+#: pages/search.php:44
+msgid "Search results"
+msgstr "搜索结果"
+
+#: pages/user.php:37 pages/mobile/user.php:28
+#: themes/transparency/pages/404.php:1
+msgid "Not found"
+msgstr "未找到"
+
+#: pages/user.php:54 pages/mobile/user.php:45
+#, php-format
+msgid "%username's profile"
+msgstr "%username's 个人资料"
+
+#: includes/api.php:170
+msgid "Public notes from all the users"
+msgstr "所有用户的公开日志"
+
+#: includes/api.php:175
+#, php-format
+msgid "Notes of %s + it's followings"
+msgstr ""
+
+#: includes/api.php:201 includes/api.php:202
+#, php-format
+msgid "Notes of %s"
+msgstr "%s 的消息"
+
+#: includes/api.php:216
+#, php-format
+msgid "Twitter followings of %s"
+msgstr "来自Twitter的 %s"
+
+#: includes/api.php:222
+#, php-format
+msgid "Replies for %s"
+msgstr ""
+
+#: includes/api.php:375
+#, php-format
+msgid "Private notes sent by %s"
+msgstr ""
+
+#: includes/api.php:378
+#, php-format
+msgid "Private notes of %s"
+msgstr ""
+
+#: includes/api.php:888 includes/api.php:889
+msgid "Favorite notes of "
+msgstr "最喜欢的日志 "
+
+#: includes/forms.php:23 themes/transparency/pages/header.php:75
+msgid "Administration"
+msgstr "管理"
+
+#: includes/forms.php:39
+msgid "General"
+msgstr "常规"
+
+#: includes/forms.php:40
+msgid "Environment"
+msgstr "环境"
+
+#: includes/forms.php:41
+msgid "URL Shortening"
+msgstr ""
+
+#: includes/forms.php:42
+msgid "Themes"
+msgstr "主题风格"
+
+#: includes/forms.php:43
+msgid "Users"
+msgstr "用户"
+
+#: includes/forms.php:44
+msgid "Misc"
+msgstr "杂项"
+
+#: includes/forms.php:57
+#, php-format
+msgid "If you are having problems with Jisko contact us at %s"
+msgstr "如果您对Jisko有疑问，请联系 %s"
+
+#: includes/functions.php:668 themes/transparency/pages/header.php:45
+msgid "right now"
+msgstr "现在"
+
+#: includes/functions.php:670 themes/transparency/pages/header.php:46
+#, php-format
+msgid "%ss ago"
+msgstr "%ss 以前"
+
+#: includes/functions.php:674 themes/transparency/pages/header.php:47
+#, php-format
+msgid "%sm ago"
+msgstr "%sm 以前"
+
+#: includes/functions.php:679
+msgid "about 1h ago"
+msgstr "大约一小时前"
+
+#: includes/functions.php:680 themes/transparency/pages/header.php:48
+#, php-format
+msgid "about %sh ago"
+msgstr "大约 %sh 以前"
+
+#: includes/functions.php:685
+msgid "about 1d ago"
+msgstr "大约一天以前"
+
+#: includes/functions.php:686 themes/transparency/pages/header.php:49
+#, php-format
+msgid "about %sd ago"
+msgstr "大约 %sd 以前"
+
+#: includes/functions.php:689
+#, php-format
+msgid "the %s at %s"
+msgstr "这 %s 在 %s"
+
+#: includes/functions.php:1986
+msgid "Disabled"
+msgstr "停用"
+
+#: includes/functions.php:1986
+msgid "random"
+msgstr "随机"
+
+#: includes/thumbnail.php:31
+msgid "File don't exists"
+msgstr "文件不存在"
+
+#: includes/thumbnail.php:53
+msgid "Format not supported"
+msgstr "格式不支持"
+
+#: includes/thumbnail.php:87
+msgid "Bad properties."
+msgstr "坏的性能"
+
+#: includes/thumbnail.php:122
+msgid "Image exists"
+msgstr "图片不存在"
+
+#: includes/mails.php:60
+#, php-format
+msgid "Turn off this notifications at %s"
+msgstr ""
+
+#: includes/mails.php:62
+#, php-format
+msgid "Have you got any problem? Contact the administrator at %s"
+msgstr "您是否碰到了什么问题？尝试联系管理员 %s"
+
+#: includes/mails.php:63
+#, php-format
+msgid ""
+"Since you got registered on %s, you agree with the Terms of Service (TOS) "
+"placed in %s"
+msgstr ""
+
+#: includes/mails.php:92
+#, php-format
+msgid ""
+"Someone (probably you) has just requested a password reset for the account "
+"with %username as the username. Because we need to confirm the request, "
+"please click the link placed below in order to continue the process:"
+msgstr ""
+
+#: includes/mails.php:92
+msgid ""
+"Please remember that this link will expire in 24h, so if you didn't request "
+"a password change, simply ignore this email"
+msgstr ""
+
+#: includes/mails.php:94
+msgid "Password reset instructions"
+msgstr "重设密码的提示"
+
+#: includes/mails.php:94
+msgid "Password reset"
+msgstr "重置密码"
+
+#: includes/mails.php:118
+msgid ""
+"We have received your request for changing your password and here is your "
+"new password:"
+msgstr ""
+
+#: includes/mails.php:120
+#, php-format
+msgid "Remember that you can change your password at %s"
+msgstr ""
+
+#: includes/mails.php:122
+msgid "Your new password"
+msgstr "您的新密码"
+
+#: includes/mails.php:151
+msgid "%real_or_username is now following you"
+msgstr "%real_or_username 正在关注你"
+
+#: includes/mails.php:152
+msgid "%real_or_username is now following your updates on %name"
+msgstr ""
+
+#: includes/mails.php:154
+msgid "notes"
+msgstr "注释"
+
+#: includes/mails.php:154
+msgid "followers"
+msgstr "关注者"
+
+#: includes/mails.php:154
+#, php-format
+msgid "following %s users"
+msgstr ""
+
+#: includes/mails.php:154
+#, php-format
+msgid "You can check his/her profile at %s"
+msgstr "点击 %s 查看他/她的个人资料"
+
+#: includes/mails.php:159
+msgid "New follower"
+msgstr "新的追随者"
+
+#: includes/mails.php:180
+msgid "Private message from %real_or_username"
+msgstr ""
+
+#: includes/mails.php:185
+msgid "%real_or_username has sent you a private message:"
+msgstr "%real_or_username 发给你一封短信息"
+
+#: includes/mails.php:188 includes/mails.php:224
+#, php-format
+msgid "With the following attachment: %s"
+msgstr ""
+
+#: includes/mails.php:190
+#, php-format
+msgid ""
+"You can reply to this message by sending a note with \"!%username <your "
+"message>\" or through the web interface at %base"
+msgstr ""
+
+#: includes/mails.php:194
+msgid "New private message"
+msgstr "新的个人短消息"
+
+#: includes/mails.php:220
+msgid "Reply from %real_or_username"
+msgstr ""
+
+#: includes/mails.php:222
+msgid "%real_or_username has replied or mentioned you in the following note:"
+msgstr ""
+
+#: includes/mails.php:225 includes/mails.php:228 includes/mails.php:487
+msgid "Permalink:"
+msgstr "固定链接"
+
+#: includes/mails.php:228
+msgid "This note was replying to:"
+msgstr ""
+
+#: includes/mails.php:255
+msgid "Confirmation for %name account"
+msgstr "确认 %name 帐户"
+
+#: includes/mails.php:257
+msgid ""
+"Someone (probably you) has requested an account in %name. However, we need "
+"to know if you are the owner of this mail account."
+msgstr ""
+
+#: includes/mails.php:258
+msgid "To confirm it, please click in the link placed below:"
+msgstr "想要确认，请点击下面的链接"
+
+#: includes/mails.php:259
+msgid ""
+"If you didn't request an account at %name, ignore this mail and apologies "
+"for the inconvenience."
+msgstr ""
+
+#: includes/mails.php:263
+msgid "Account confirmation"
+msgstr "账号确认"
+
+#: includes/mails.php:287
+msgid ""
+"Someone (probably you) has requested a change of the email assigned to your "
+"account in %name. Your new email will be:"
+msgstr ""
+
+#: includes/mails.php:287
+msgid ""
+"If you requested this change, then confirm it by clicking the link placed "
+"below:"
+msgstr ""
+
+#: includes/mails.php:287
+msgid ""
+"Otherwise, if you didn't request this change, then simply ignore this "
+"message, because this link will expire in 24h"
+msgstr ""
+
+#: includes/mails.php:289
+msgid "Confirm email change"
+msgstr "确认电子邮件的变更"
+
+#: includes/mails.php:289
+msgid "Email change"
+msgstr "邮箱已改变"
+
+#: includes/mails.php:313
+msgid "Welcome to %name"
+msgstr "欢迎 %name"
+
+#: includes/mails.php:314
+msgid ""
+"You have just confirmed your account in %name, so now you can start "
+"personalizing your profile at %p_url!"
+msgstr ""
+
+#: includes/mails.php:315
+msgid ""
+"%name is based on Jisko, an open-source microblogging platform. You can find "
+"more information about Jisko at http://www.jisko.org"
+msgstr ""
+
+#: includes/mails.php:315
+msgid "Thank you very much for signing up in %name and for giving us a try!"
+msgstr "谢谢您 %name ，注册成为我们的用户。"
+
+#: includes/mails.php:319
+msgid "Welcome!"
+msgstr "欢迎光临！"
+
+#: includes/mails.php:333
+msgid "There's a new user on %name"
+msgstr "一个新的用户 %name"
+
+#: includes/mails.php:335
+msgid "A new user called %username has joined %name."
+msgstr "一位叫做 %username 的新成员加入了 %name 。"
+
+#: includes/mails.php:335
+#, php-format
+msgid ""
+"It should be empty, but if you want, you can check his profile at %url"
+msgstr "这里可能是空的，如果您确实想要查看他的个人信息可以点击 %url"
+
+#: includes/mails.php:341
+msgid "New account"
+msgstr "新建账号"
+
+#: includes/mails.php:351
+msgid "The user %username has deleted his account from %name"
+msgstr "叫做 %username 的用户从 %name 删除了他的帐户"
+
+#: includes/mails.php:353
+msgid "The user %username has deleted his account from %name."
+msgstr "叫做 %username 的用户从 %name 删除了他的帐户"
+
+#: includes/mails.php:353
+#, php-format
+msgid "If you want to contact him, his email is %email"
+msgstr "您可以发邮件与他联系 %email"
+
+#: includes/mails.php:359
+msgid "Deleted account"
+msgstr "删除的账号"
+
+#: includes/mails.php:367
+msgid "%username has invited you to %name!"
+msgstr "%username 已经邀请您到 %name!"
+
+#: includes/mails.php:369
+msgid "Hey!"
+msgstr "你好！"
+
+#: includes/mails.php:369
+msgid ""
+"%username just sent you an invitation for using %name! %name is a "
+"microblogging portal where you can share your own experiences and your "
+"feelings about everything."
+msgstr ""
+
+#: includes/mails.php:369
+msgid "Why don't you give %name a try and register?"
+msgstr ""
+
+#: includes/mails.php:369
+msgid "Click on the following link in order to use your invitation to %name"
+msgstr ""
+
+#: includes/mails.php:369
+msgid "Thank you and have fun on %name!"
+msgstr "感谢您，在%name玩的愉快！"
+
+#: includes/mails.php:374
+#, php-format
+msgid "Invitation to %s"
+msgstr ""
+
+#: includes/mails.php:391
+msgid ""
+"We send this mail to tell you that your password on %name has been changed."
+msgstr "给您发邮件时为了提醒您，您在 %name 的密码已经改变。"
+
+#: includes/mails.php:392
+msgid ""
+"This change was requested from the ip %ip. If you were not the user who "
+"changed your password, please contact the administrator at %contact_page"
+msgstr "这次修改行为是IP %ip 所为。如果不是您的IP地址，请迅速在%contact_page联系管理员。"
+
+#: includes/mails.php:394
+msgid "Your password has been changed"
+msgstr "您的密码已更改"
+
+#: includes/mails.php:418
+msgid ""
+"Are you sure you want to delete your %name account? If you are having "
+"problems with %name, remember that you can contact us through %contact_page "
+"and we will take notes about your issues/suggestions."
+msgstr ""
+"您确定要删除您的 %name 账号吗？ 如果您对于%name有疑问，您可以通过%contact_page联系我们，我们会用短消息对您进行回复。"
+
+#: includes/mails.php:419
+msgid ""
+"If you're are completely sure of your decision (remember, this is NOT "
+"REVERSIBLE), please click the link placed below:"
+msgstr ""
+
+#: includes/mails.php:420
+msgid ""
+"You must be logged in order to delete your account and remember that this "
+"request will expire in 24h."
+msgstr ""
+
+#: includes/mails.php:420
+msgid "We will miss you!"
+msgstr "我们会想念您的！"
+
+#: includes/mails.php:422
+msgid "Delete account confirmation"
+msgstr "删除帐户确认"
+
+#: includes/mails.php:444
+msgid "Someone has sent you a message through the Contact page"
+msgstr ""
+
+#: includes/mails.php:445
+#, php-format
+msgid "%s has sent you a message through the Contact page"
+msgstr ""
+
+#: includes/mails.php:447
+msgid ""
+"Someone has decided to contact you through the contact page of your Jisko "
+"installation. Here are the details:"
+msgstr ""
+
+#: includes/mails.php:453
+msgid ""
+"Please remember that you can only reply this message through the email "
+"provided. Otherwise, he won't see your answer"
+msgstr ""
+
+#: includes/mails.php:455 includes/mails.php:456
+msgid "New message received"
+msgstr "您有新的短消息"
+
+#: includes/mails.php:466
+msgid "%username reported the user %r_username"
+msgstr "%username  举报用户 %r_username"
+
+#: includes/mails.php:468
+msgid ""
+"The user %username (ID: %id) from the IP %ip reported the user %r_username "
+"(ID: %r_id)."
+msgstr "用户%username (ID: %id)在IP %ip 举报了用户%r_username (ID: %r_id)。"
+
+#: includes/mails.php:474 includes/mails.php:495
+msgid "New abuse report"
+msgstr ""
+
+#: includes/mails.php:484
+msgid "%username reported the note %r_note"
+msgstr ""
+
+#: includes/mails.php:486
+msgid ""
+"The user %username (ID: %id) from the IP %ip reported the note %r_note made "
+"by %r_username (ID: %r_id)."
+msgstr ""
+
+#: includes/mobile.php:44 themes/transparency/pages/functions.php:58
+#: themes/transparency/pages/functions.php:62
+#: themes/transparency/pages/header.php:38
+msgid "Reply"
+msgstr "回复"
+
+#: includes/mobile.php:46
+msgid "More info"
+msgstr "更多信息"
+
+#: includes/mobile.php:162 includes/mobile.php:164
+#: themes/transparency/pages/functions.php:176
+#: themes/transparency/pages/functions.php:178
+msgid "previous"
+msgstr "上一页"
+
+#: includes/mobile.php:203 includes/mobile.php:205
+#: themes/transparency/pages/functions.php:238
+#: themes/transparency/pages/functions.php:240
+msgid "next"
+msgstr "下一页"
+
+#: includes/mobile.php:219
+msgid "more notes"
+msgstr "更多日志"
+
+#: includes/mobile.php:229
+msgid "Send note"
+msgstr "发表日志"
+
+#: includes/mobile.php:234 themes/transparency/pages/functions.php:260
+#: themes/transparency/pages/contact.php:25
+msgid "Send"
+msgstr "发送"
+
+#: includes/mobile.php:248 pages/mobile/notes.php:48
+#: pages/mobile/template/footer.php:24 themes/transparency/pages/notes.php:7
+#: themes/transparency/pages/notes.php:9
+#: themes/transparency/pages/notes.php:43
+#: themes/transparency/pages/notes.php:45
+msgid "Archive"
+msgstr "归档"
+
+#: includes/mobile.php:248 includes/mobile.php:254
+#: themes/transparency/pages/notes.php:26
+#: themes/transparency/pages/notes.php:29
+#: themes/transparency/pages/notes.php:31
+#: themes/transparency/pages/notes.php:62
+#: themes/transparency/pages/notes.php:65
+#: themes/transparency/pages/notes.php:67
+#: themes/transparency/pages/sidebar.php:112
+msgid "Private messages"
+msgstr "个人短消息"
+
+#: includes/mobile.php:248 themes/transparency/pages/notes.php:84
+#: themes/transparency/pages/settings.php:155
+#: themes/transparency/pages/settings.php:157
+msgid "Replies"
+msgstr "回复"
+
+#: includes/mobile.php:248 pages/mobile/notes.php:52 pages/mobile/notes.php:56
+#: themes/transparency/pages/notes.php:21
+#: themes/transparency/pages/notes.php:23
+#: themes/transparency/pages/notes.php:57
+#: themes/transparency/pages/notes.php:59
+msgid "Friends"
+msgstr "好友"
+
+#: includes/mobile.php:252 themes/transparency/pages/header.php:73
+#: themes/transparency/pages/header.php:79
+msgid "Home"
+msgstr "Home"
+
+#: includes/mobile.php:258 pages/mobile/notes.php:38
+#: themes/transparency/pages/notes.php:35
+#: themes/transparency/pages/notes.php:37
+#: themes/transparency/pages/settings.php:20
+#: themes/transparency/pages/settings.php:92
+#: themes/transparency/pages/settings.php:220
+#: themes/transparency/pages/settings.php:277
+#: themes/transparency/pages/settings.php:284
+#: themes/transparency/pages/settings.php:340
+#: themes/transparency/pages/settings.php:359
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/mobile.php:259 themes/transparency/pages/notes.php:90
+msgid "Received"
+msgstr "已收到"
+
+#: includes/mobile.php:259 themes/transparency/pages/notes.php:90
+msgid "Sent"
+msgstr "已发送"
+
+#: pages/mobile/login.php:23
+msgid "There is no user with that name"
+msgstr "用户名可以使用"
+
+#: pages/mobile/login.php:29
+msgid "This account hasn't been confirmed yet"
+msgstr "该账号尚未通过验证"
+
+#: pages/mobile/login.php:36 themes/transparency/pages/contact.php:11
+#: themes/transparency/pages/register.php:18
+#: themes/transparency/pages/tag.php:151
+#: themes/transparency/pages/trouble_login.php:10
+#: themes/transparency/pages/trouble_login.php:16
+msgid "Username"
+msgstr "用户名"
+
+#: pages/mobile/login.php:37 themes/transparency/pages/register.php:25
+#: themes/transparency/pages/sidebar.php:250
+msgid "Password"
+msgstr "密码"
+
+#: pages/mobile/login.php:40
+msgid "Log In"
+msgstr "登录"
+
+#: pages/mobile/notes.php:33
+msgid "Received messages"
+msgstr "已收短消息"
+
+#: pages/mobile/notes.php:35
+msgid "Sent messages"
+msgstr "已发短消息"
+
+#: pages/mobile/notes.php:50
+msgid "Friends + Twitter"
+msgstr "好友 + Twitter"
+
+#: pages/mobile/notes.php:71 pages/mobile/public.php:37
+#: pages/mobile/user.php:79 themes/transparency/pages/notes.php:96
+#: themes/transparency/pages/user.php:38 themes/transparency/pages/user.php:93
+#: themes/transparency/pages/header.php:61
+msgid "No notes were found"
+msgstr "没有找到日志"
+
+#: pages/mobile/public.php:26 pages/mobile/template/footer.php:23
+#: themes/transparency/pages/notes.php:73
+#: themes/transparency/pages/header.php:73
+#: themes/transparency/pages/header.php:79
+#: themes/transparency/pages/sidebar.php:76
+#: themes/transparency/pages/sidebar.php:142
+#: themes/transparency/pages/sidebar.php:165
+#: themes/transparency/pages/sidebar.php:217
+#: themes/transparency/pages/sidebar.php:240
+#: themes/transparency/pages/sidebar.php:271
+msgid "Public notes"
+msgstr "公共日志"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/sidebar.php:26
+msgid "Report"
+msgstr "举报"
+
+#: pages/mobile/user.php:62
+msgid "Unfollow"
+msgstr "取消关注"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/functions.php:122
+#: themes/transparency/pages/header.php:31
+#: themes/transparency/pages/sidebar.php:14
+msgid "Follow"
+msgstr "关注"
+
+#: pages/mobile/user.php:62 themes/transparency/pages/header.php:32
+msgid "Stop ignoring"
+msgstr ""
+
+#: pages/mobile/user.php:62 themes/transparency/pages/header.php:33
+#: themes/transparency/pages/sidebar.php:22
+msgid "Ignore"
+msgstr "忽略"
+
+#: pages/mobile/user.php:66
+msgid "Not allowed"
+msgstr "不允许"
+
+#: pages/mobile/user.php:69
+msgid "You aren't allowed to see the notes of this user"
+msgstr "该日志已被保密"
+
+#: pages/mobile/template/header.php:30 pages/mobile/template/header.php:31
+msgid "Friends_timeline (RSS 2.0)"
+msgstr ""
+
+#: pages/mobile/template/header.php:38 themes/transparency/pages/header.php:77
+msgid "Logout"
+msgstr "登出"
+
+#: pages/mobile/template/footer.php:25 themes/transparency/pages/tos.php:1
+msgid "Terms of Service"
+msgstr "服务条款"
+
+#: pages/mobile/template/footer.php:26
+msgid "Normal version"
+msgstr "正常版本"
+
+#: pages/faq.php:21 themes/transparency/pages/faq.php:1
+msgid "Frequently Asked Questions (FAQ)"
+msgstr "常见问题(FAQ)"
+
+#: pages/trouble_login.php:25 themes/transparency/pages/sidebar.php:265
+#: themes/transparency/pages/trouble_login.php:1
+msgid "Having trouble while logging in?"
+msgstr "无法登录?"
+
+#: pages/trouble_login.php:40
+msgid "That email doesn't exist in our database"
+msgstr "这个Email帐号不存在"
+
+#: pages/trouble_login.php:44 pages/trouble_login.php:61
+msgid "There's no user with that username"
+msgstr "没有叫做这个用户名的用户"
+
+#: pages/trouble_login.php:52
+msgid "We have just sent an e-mail with instructions!"
+msgstr "我们刚刚发了一封电子邮件说明"
+
+#: pages/trouble_login.php:56 pages/trouble_login.php:81
+msgid "Please fill all the inputs"
+msgstr "请填写所有必填项目"
+
+#: pages/trouble_login.php:63
+msgid "The account was not waiting for an activation email"
+msgstr "该帐户没有需要激活的电子邮件（已激活）"
+
+#: pages/trouble_login.php:68
+msgid "There was a problem while trying to obtain your key. Please retry"
+msgstr "当尝试获得你的key的时候出现一个问题，请重试"
+
+#: pages/trouble_login.php:103
+msgid "We have just sent you an e-mail with your new password"
+msgstr "我们刚把新密码发送到你的邮箱中"
+
+#: pages/trouble_login.php:105 pages/trouble_login.php:108
+msgid "Invalid key"
+msgstr "无效的激活密钥"
+
+#: themes/transparency/pages/404.php:2
+msgid "The page you're looking for doesn't exists."
+msgstr "你查找的页面不存在"
+
+#: themes/transparency/pages/following.php:1
+msgid "Users I'm following"
+msgstr ""
+
+#: themes/transparency/pages/following.php:5
+#: themes/transparency/pages/user.php:50 themes/transparency/pages/user.php:68
+#: themes/transparency/pages/followers.php:5
+msgid "No users were found"
+msgstr "没有找到用户"
+
+#: themes/transparency/pages/functions.php:35
+#: themes/transparency/pages/header.php:39
+msgid "Are you sure? There is NO UNDO!"
+msgstr "你确定吗？这是不可以撤销的！"
+
+#: themes/transparency/pages/functions.php:35
+#: themes/transparency/pages/header.php:40
+msgid "Delete note"
+msgstr "删除日志"
+
+#: themes/transparency/pages/functions.php:39
+#: themes/transparency/pages/header.php:34
+msgid "Download file"
+msgstr "下载文件"
+
+#: themes/transparency/pages/functions.php:45
+#: themes/transparency/pages/header.php:35
+msgid "Delete favorite"
+msgstr "删除喜欢的"
+
+#: themes/transparency/pages/functions.php:47
+#: themes/transparency/pages/header.php:36
+msgid "Add to favorites"
+msgstr "加到收藏中"
+
+#: themes/transparency/pages/functions.php:50
+#: themes/transparency/pages/functions.php:61
+#: themes/transparency/pages/header.php:37
+msgid "Permalink"
+msgstr "永久链接"
+
+#: themes/transparency/pages/functions.php:120
+#: themes/transparency/pages/header.php:30
+msgid "Stop following"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:128
+msgid "Last note:"
+msgstr "最新日志"
+
+#: themes/transparency/pages/functions.php:131
+msgid "To follow this user, first you have to stop ignoring him."
+msgstr "要想关注此用户，首先必须停止忽略他"
+
+#: themes/transparency/pages/functions.php:142
+#: themes/transparency/pages/header.php:42
+msgid "reply"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:143
+#: themes/transparency/pages/header.php:43
+msgid "replies"
+msgstr "回复"
+
+#: themes/transparency/pages/functions.php:257
+msgid "Attach file"
+msgstr "上传附件"
+
+#: themes/transparency/pages/functions.php:265
+msgid "Shrink URLs"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:315
+msgid "active"
+msgstr "启用"
+
+#: themes/transparency/pages/functions.php:315
+msgid "banned"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:315
+msgid "not confirmed"
+msgstr "没有确认"
+
+#: themes/transparency/pages/functions.php:326
+msgid "now"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:333
+msgid "today"
+msgstr ""
+
+#: themes/transparency/pages/functions.php:340
+msgid "this month"
+msgstr "这个月"
+
+#: themes/transparency/pages/homepage.php:1
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: themes/transparency/pages/report.php:5
+#, php-format
+msgid "Report the user %s"
+msgstr "举报%s"
+
+#: themes/transparency/pages/report.php:6
+msgid "Some reasons to report an account can be:"
+msgstr "举报该账号的原因为："
+
+#: themes/transparency/pages/report.php:9
+#: themes/transparency/pages/report.php:49
+msgid "SPAM"
+msgstr "垃圾信息"
+
+#: themes/transparency/pages/report.php:10
+#: themes/transparency/pages/report.php:50
+msgid "Offensive content"
+msgstr ""
+
+#: themes/transparency/pages/report.php:11
+#: themes/transparency/pages/report.php:51
+msgid "Duplicated account"
+msgstr ""
+
+#: themes/transparency/pages/report.php:12
+#: themes/transparency/pages/report.php:52
+msgid "Unlawful attached files"
+msgstr ""
+
+#: themes/transparency/pages/report.php:13
+#: themes/transparency/pages/report.php:53
+msgid "Illicit purposes"
+msgstr ""
+
+#: themes/transparency/pages/report.php:15
+msgid ""
+"You must be completely SURE that the user you are reporting is not following "
+"our Terms of Service."
+msgstr ""
+
+#: themes/transparency/pages/report.php:16
+#: themes/transparency/pages/report.php:56
+msgid "And remember:"
+msgstr ""
+
+#: themes/transparency/pages/report.php:19
+#: themes/transparency/pages/report.php:59
+msgid "You will remain in anonymity"
+msgstr ""
+
+#: themes/transparency/pages/report.php:20
+#: themes/transparency/pages/report.php:60
+msgid ""
+"When finishing this, you will not get any notification, but report has been "
+"sent"
+msgstr ""
+
+#: themes/transparency/pages/report.php:21
+#: themes/transparency/pages/report.php:61
+msgid "Fake or duplicated reports means the blocking of your account!"
+msgstr ""
+
+#: themes/transparency/pages/report.php:24
+#: themes/transparency/pages/report.php:64
+msgid ""
+"If after reading this, you still want to report this account, go forward, we "
+"are grateful for your help!"
+msgstr ""
+
+#: themes/transparency/pages/report.php:31
+#: themes/transparency/pages/report.php:71
+#: themes/transparency/pages/trouble_login.php:26
+msgid "Continue"
+msgstr "下一步"
+
+#: themes/transparency/pages/report.php:39
+msgid "The user was reported successfully"
+msgstr "成功举报该用户"
+
+#: themes/transparency/pages/report.php:45
+#, php-format
+msgid "Report the note #%s"
+msgstr "举报文章#%s"
+
+#: themes/transparency/pages/report.php:46
+msgid "Some reasons to report a note can be:"
+msgstr ""
+
+#: themes/transparency/pages/report.php:55
+msgid ""
+"You must be completely SURE that the note you are reporting is not following "
+"our Terms of Service."
+msgstr ""
+
+#: themes/transparency/pages/report.php:79
+msgid "The note was reported successfully"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:13
+#: themes/transparency/pages/settings.php:16
+#: themes/transparency/pages/settings.php:88
+#: themes/transparency/pages/settings.php:216
+#: themes/transparency/pages/settings.php:280
+#: themes/transparency/pages/settings.php:336
+#: themes/transparency/pages/settings.php:355
+msgid "Profile"
+msgstr "个人资料"
+
+#: themes/transparency/pages/settings.php:17
+#: themes/transparency/pages/settings.php:85
+#: themes/transparency/pages/settings.php:89
+#: themes/transparency/pages/settings.php:217
+#: themes/transparency/pages/settings.php:281
+#: themes/transparency/pages/settings.php:337
+#: themes/transparency/pages/settings.php:356
+msgid "Configuration"
+msgstr "配置"
+
+#: themes/transparency/pages/settings.php:18
+#: themes/transparency/pages/settings.php:90
+#: themes/transparency/pages/settings.php:213
+#: themes/transparency/pages/settings.php:218
+#: themes/transparency/pages/settings.php:282
+#: themes/transparency/pages/settings.php:338
+#: themes/transparency/pages/settings.php:357
+msgid "Customize"
+msgstr "自定义"
+
+#: themes/transparency/pages/settings.php:19
+#: themes/transparency/pages/settings.php:91
+#: themes/transparency/pages/settings.php:219
+#: themes/transparency/pages/settings.php:283
+#: themes/transparency/pages/settings.php:339
+#: themes/transparency/pages/settings.php:352
+#: themes/transparency/pages/settings.php:358
+msgid "Privacy"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:21
+#: themes/transparency/pages/settings.php:93
+#: themes/transparency/pages/settings.php:221
+#: themes/transparency/pages/settings.php:285
+#: themes/transparency/pages/settings.php:333
+#: themes/transparency/pages/settings.php:341
+#: themes/transparency/pages/settings.php:360
+msgid "Ignored users"
+msgstr "忽略用户"
+
+#: themes/transparency/pages/settings.php:28
+msgid "Bio (140 chars max.)"
+msgstr "个人介绍"
+
+#: themes/transparency/pages/settings.php:33
+#: themes/transparency/pages/sidebar.php:32
+#: themes/transparency/pages/sidebar.php:90
+#: themes/transparency/pages/sidebar.php:180
+#: themes/transparency/pages/tag.php:126
+msgid "Name"
+msgstr "姓名"
+
+#: themes/transparency/pages/settings.php:35
+msgid "Webpage"
+msgstr "网站"
+
+#: themes/transparency/pages/settings.php:37
+#: themes/transparency/pages/sidebar.php:35
+#: themes/transparency/pages/sidebar.php:93
+#: themes/transparency/pages/sidebar.php:183
+msgid "Location"
+msgstr "位置"
+
+#: themes/transparency/pages/settings.php:40
+#: themes/transparency/pages/register.php:38
+msgid "Language"
+msgstr "语言"
+
+#: themes/transparency/pages/settings.php:55
+msgid "Change my profile picture"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:59
+msgid "250 KB max. size, jpg/png/gif format"
+msgstr "最大250KB 格式为jpg/png/gif"
+
+#: themes/transparency/pages/settings.php:63
+msgid "Delete it"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:71
+msgid "Enable Gravatar service"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:78
+#: themes/transparency/pages/settings.php:206
+#: themes/transparency/pages/settings.php:271
+#: themes/transparency/pages/settings.php:329
+#: themes/transparency/pages/settings.php:434
+msgid "Save"
+msgstr "保存"
+
+#: themes/transparency/pages/settings.php:98
+msgid "change my username"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:102
+msgid "repeat new password"
+msgstr "重复输入新密码"
+
+#: themes/transparency/pages/settings.php:104
+msgid "new password (if you want to change it)"
+msgstr "新密码（如果你想更改的话）"
+
+#: themes/transparency/pages/settings.php:108
+msgid "e-mail"
+msgstr "电子邮件"
+
+#: themes/transparency/pages/settings.php:116
+msgid "Disable connection with Facebook"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:118
+msgid "Connect my account with Facebook"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:123
+msgid "OpenID URL"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:131
+msgid "Request new API key"
+msgstr "申请新的API Key"
+
+#: themes/transparency/pages/settings.php:135
+msgid "API key"
+msgstr "API Key"
+
+#: themes/transparency/pages/settings.php:140
+msgid "Notification level"
+msgstr "通知等级"
+
+#: themes/transparency/pages/settings.php:143
+#: themes/transparency/pages/settings.php:145
+msgid "Everything"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:149
+#: themes/transparency/pages/settings.php:151
+msgid "Privates and Following"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:161
+#: themes/transparency/pages/settings.php:163
+msgid "Privates"
+msgstr "私有的"
+
+#: themes/transparency/pages/settings.php:173
+#: themes/transparency/pages/settings.php:175
+msgid "None"
+msgstr "无"
+
+#: themes/transparency/pages/settings.php:187
+msgid "Try to always show the preview page of a shorted link"
+msgstr "一直使用短链"
+
+#: themes/transparency/pages/settings.php:191
+msgid "URL Shortening service"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:204
+msgid "current password"
+msgstr "当前密码"
+
+#: themes/transparency/pages/settings.php:204
+msgid "(if you don't have a password just leave it blank)"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:208
+msgid "Delete my account"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:226
+msgid "Theme"
+msgstr "主题"
+
+#: themes/transparency/pages/settings.php:241
+msgid "Background style"
+msgstr "背景样式"
+
+#: themes/transparency/pages/settings.php:253
+msgid "Background"
+msgstr "背景"
+
+#: themes/transparency/pages/settings.php:255
+msgid "1 MB max. size, jpg/png/gif format"
+msgstr "最大1MB，格式为jpg/png/gif"
+
+#: themes/transparency/pages/settings.php:258
+msgid "Background color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:260
+msgid "Text color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:264
+msgid "Sidebar color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:266
+msgid "Links color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:268
+msgid "Sidebar text color"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:273
+msgid "Delete background"
+msgstr "删除背景"
+
+#: themes/transparency/pages/settings.php:291
+msgid "Twitter integration it's working properly"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:293
+msgid "Twitter notes not updated yet..."
+msgstr ""
+
+#: themes/transparency/pages/settings.php:297
+#, php-format
+msgid "Twitter updated %s"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:299
+msgid "Twitter not updated yet, wait..."
+msgstr "Twitter尚未更新，请等待..."
+
+#: themes/transparency/pages/settings.php:311
+msgid "Disable twitter integration"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:317
+#: themes/transparency/pages/settings.php:319
+msgid "Show tweets in the friends tab"
+msgstr "在朋友栏中显示tweets"
+
+#: themes/transparency/pages/settings.php:322
+#: themes/transparency/pages/settings.php:324
+#, php-format
+msgid "Post %s notes to Twitter"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:345
+msgid "You are not ignoring anyone"
+msgstr "你没有忽略任何人"
+
+#: themes/transparency/pages/settings.php:365
+msgid "Show my followings"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:376
+msgid "Show my followers"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:388
+msgid "Show my notes"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:399
+msgid "Show my favorite notes"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:411
+msgid "Show my profile info"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:422
+msgid "Allow to read my RSS"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:424
+msgid "Everyone"
+msgstr ""
+
+#: themes/transparency/pages/settings.php:424
+msgid "Nobody"
+msgstr ""
+
+#: themes/transparency/pages/stats.php:52
+#: themes/transparency/pages/sidebar.php:51
+#: themes/transparency/pages/sidebar.php:103
+#: themes/transparency/pages/sidebar.php:156
+#: themes/transparency/pages/sidebar.php:199
+#: themes/transparency/pages/sidebar.php:231
+msgid "Stats"
+msgstr "统计"
+
+#: themes/transparency/pages/user.php:3 themes/transparency/pages/user.php:43
+#: themes/transparency/pages/user.php:61 themes/transparency/pages/user.php:86
+msgid "Forbidden access"
+msgstr ""
+
+#: themes/transparency/pages/user.php:5 themes/transparency/pages/user.php:88
+msgid "This user has decided to not show his profile to everyone."
+msgstr ""
+
+#: themes/transparency/pages/user.php:9
+#, php-format
+msgid "Link to the post %s"
+msgstr ""
+
+#: themes/transparency/pages/user.php:10
+msgid ""
+"To share this note you simply have to share the URL of this page to your "
+"friends via social networking, instant messaging, blogs..."
+msgstr ""
+
+#: themes/transparency/pages/user.php:16
+msgid "Report note"
+msgstr ""
+
+#: themes/transparency/pages/user.php:45
+msgid "This user has decided to not show his followers to everyone."
+msgstr ""
+
+#: themes/transparency/pages/user.php:48
+#, php-format
+msgid "%s's followers (%d)"
+msgstr ""
+
+#: themes/transparency/pages/user.php:63
+msgid "This user has decided to not show his followings to everyone."
+msgstr ""
+
+#: themes/transparency/pages/user.php:66
+#, php-format
+msgid "%s's followings (%d)"
+msgstr ""
+
+#: themes/transparency/pages/contact.php:1
+#: themes/transparency/pages/footer.php:11
+msgid "Contact"
+msgstr "联系方式"
+
+#: themes/transparency/pages/contact.php:4
+#, php-format
+msgid ""
+"If you want to contact with the administrator of %s, please fill the form "
+"below\n"
+"\t\t\tand the administrator will receive a copy of your message"
+msgstr ""
+
+#: themes/transparency/pages/contact.php:13
+#: themes/transparency/pages/contact.php:16
+#: themes/transparency/pages/trouble_login.php:18
+msgid "Email"
+msgstr "电子邮件"
+
+#: themes/transparency/pages/contact.php:18
+msgid "Message"
+msgstr ""
+
+#: themes/transparency/pages/contact.php:21
+msgid "I want to receive a copy in my email account"
+msgstr ""
+
+#: themes/transparency/pages/followers.php:1
+msgid "My followers"
+msgstr "粉丝"
+
+#: themes/transparency/pages/footer.php:7
+msgid "Search..."
+msgstr "搜索..."
+
+#: themes/transparency/pages/footer.php:8
+msgid "Search"
+msgstr "搜索"
+
+#: themes/transparency/pages/footer.php:11
+msgid "FAQ"
+msgstr "常见问题"
+
+#: themes/transparency/pages/footer.php:11
+msgid "Mobile interface"
+msgstr "wap"
+
+#: themes/transparency/pages/header.php:13
+msgid "Users search"
+msgstr ""
+
+#: themes/transparency/pages/header.php:29
+msgid "Working..."
+msgstr "正在进行..."
+
+#: themes/transparency/pages/header.php:41
+msgid "mobile"
+msgstr "移动电话"
+
+#: themes/transparency/pages/header.php:44
+msgid "Fetching notes..."
+msgstr "取回日志"
+
+#: themes/transparency/pages/header.php:52
+msgid "Note successfully sent"
+msgstr ""
+
+#: themes/transparency/pages/header.php:53
+msgid "Error:"
+msgstr "错误："
+
+#: themes/transparency/pages/header.php:54
+msgid "user or note not found"
+msgstr "没有找到用户或日志"
+
+#: themes/transparency/pages/header.php:55
+msgid "Name:"
+msgstr "姓名"
+
+#: themes/transparency/pages/header.php:56
+msgid "Location:"
+msgstr "位置："
+
+#: themes/transparency/pages/header.php:57
+msgid "Bio:"
+msgstr "个人介绍"
+
+#: themes/transparency/pages/header.php:58
+msgid "Web:"
+msgstr "网站"
+
+#: themes/transparency/pages/header.php:59
+msgid "Since:"
+msgstr "始于:"
+
+#: themes/transparency/pages/header.php:60
+msgid "In reply to:"
+msgstr "在回答："
+
+#: themes/transparency/pages/register.php:4
+msgid "You need a valid token to register an account"
+msgstr "您需要有一个邀请链接才能注册帐户"
+
+#: themes/transparency/pages/register.php:10
+msgid ""
+"We couldn't find your OpenID url on our database, so maybe you want to "
+"register. To do so we need some details which you can fill in the form below"
+msgstr ""
+
+#: themes/transparency/pages/register.php:13
+msgid ""
+"We couldn't find your Facebook profile on our database, so maybe you want to "
+"register. To do so we need some details which you can fill in the form below"
+msgstr ""
+
+#: themes/transparency/pages/register.php:20
+msgid "E-mail"
+msgstr "电子邮箱"
+
+#: themes/transparency/pages/register.php:24
+msgid "password (again)"
+msgstr "密码（再写一遍）"
+
+#: themes/transparency/pages/register.php:30
+msgid "OpenID <strong>(optional)</strong>"
+msgstr ""
+
+#: themes/transparency/pages/register.php:53
+msgid "I accept the"
+msgstr "我同意"
+
+#: themes/transparency/pages/register.php:53
+msgid "privacy and service terms"
+msgstr "隐私和服务条款"
+
+#: themes/transparency/pages/register.php:55
+#: themes/transparency/pages/register.php:57
+msgid "Register!"
+msgstr "注册!"
+
+#: themes/transparency/pages/search.php:1
+#, php-format
+msgid "Results for %s"
+msgstr ""
+
+#: themes/transparency/pages/search.php:4
+msgid "Nothing found"
+msgstr "什么都没找到"
+
+#: themes/transparency/pages/sidebar.php:7
+#: themes/transparency/pages/sidebar.php:69
+#: themes/transparency/pages/sidebar.php:84
+#: themes/transparency/pages/sidebar.php:119
+#: themes/transparency/pages/sidebar.php:173
+#: themes/transparency/pages/sidebar.php:210
+msgid "Avatar"
+msgstr "头像"
+
+#: themes/transparency/pages/sidebar.php:12
+msgid "Stop Following"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:20
+msgid "Stop Ignoring"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:29
+#: themes/transparency/pages/sidebar.php:87
+#: themes/transparency/pages/sidebar.php:151
+#: themes/transparency/pages/sidebar.php:177
+#: themes/transparency/pages/sidebar.php:226
+msgid "About"
+msgstr "关于"
+
+#: themes/transparency/pages/sidebar.php:38
+#: themes/transparency/pages/sidebar.php:96
+#: themes/transparency/pages/sidebar.php:186
+msgid "Web"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:41
+#: themes/transparency/pages/sidebar.php:99
+#: themes/transparency/pages/sidebar.php:189
+msgid "Bio"
+msgstr "个人介绍"
+
+#: themes/transparency/pages/sidebar.php:43
+#: themes/transparency/pages/sidebar.php:101
+#: themes/transparency/pages/sidebar.php:191
+msgid "Since"
+msgstr "注册于"
+
+#: themes/transparency/pages/sidebar.php:44
+#: themes/transparency/pages/sidebar.php:192
+msgid "Last login"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:55
+#: themes/transparency/pages/sidebar.php:111
+#: themes/transparency/pages/sidebar.php:203
+msgid "Favorites"
+msgstr "收藏"
+
+#: themes/transparency/pages/sidebar.php:59
+msgid "Most used tags by the user"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:62
+#: themes/transparency/pages/sidebar.php:136
+msgid "more"
+msgstr "更多"
+
+#: themes/transparency/pages/sidebar.php:73
+#: themes/transparency/pages/sidebar.php:139
+#: themes/transparency/pages/sidebar.php:162
+#: themes/transparency/pages/sidebar.php:214
+#: themes/transparency/pages/sidebar.php:237
+msgid "Export"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:76
+#: themes/transparency/pages/sidebar.php:77
+#: themes/transparency/pages/sidebar.php:78
+#: themes/transparency/pages/sidebar.php:142
+#: themes/transparency/pages/sidebar.php:143
+#: themes/transparency/pages/sidebar.php:144
+#: themes/transparency/pages/sidebar.php:165
+#: themes/transparency/pages/sidebar.php:166
+#: themes/transparency/pages/sidebar.php:217
+#: themes/transparency/pages/sidebar.php:218
+#: themes/transparency/pages/sidebar.php:240
+#: themes/transparency/pages/sidebar.php:241
+#: themes/transparency/pages/sidebar.php:271
+msgid "Feed"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:78
+#: themes/transparency/pages/sidebar.php:144
+msgid "Friends timeline"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:124
+msgid "Invitations"
+msgstr "邀请"
+
+#: themes/transparency/pages/sidebar.php:127
+msgid "E-mail..."
+msgstr "Email..."
+
+#: themes/transparency/pages/sidebar.php:128
+msgid "Send!"
+msgstr "发送！"
+
+#: themes/transparency/pages/sidebar.php:128
+msgid "invitations left"
+msgstr "邀请函"
+
+#: themes/transparency/pages/sidebar.php:133
+msgid "Most used tags"
+msgstr "热门标签"
+
+#: themes/transparency/pages/sidebar.php:133
+msgid "Today most used tags"
+msgstr "今日热门标签"
+
+#: themes/transparency/pages/sidebar.php:153
+#: themes/transparency/pages/sidebar.php:228
+msgid "First note"
+msgstr "第一篇日志"
+
+#: themes/transparency/pages/sidebar.php:154
+#: themes/transparency/pages/sidebar.php:229
+msgid "First poster"
+msgstr "第一个用户"
+
+#: themes/transparency/pages/sidebar.php:159
+#: themes/transparency/pages/sidebar.php:234
+#: themes/transparency/pages/tag.php:127
+msgid "Writing rate"
+msgstr "读取时间"
+
+#: themes/transparency/pages/sidebar.php:160
+#: themes/transparency/pages/sidebar.php:235
+msgid "Max. poster"
+msgstr "最多粉丝用户"
+
+#: themes/transparency/pages/sidebar.php:160
+#: themes/transparency/pages/sidebar.php:235
+#, php-format
+msgid "(%d notes)"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:166
+#: themes/transparency/pages/sidebar.php:241
+#, php-format
+msgid "Tag #%s"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:249
+msgid "user or email"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:252
+msgid "OpenID"
+msgstr ""
+
+#: themes/transparency/pages/sidebar.php:268
+msgid "RSS"
+msgstr "RSS"
+
+#: themes/transparency/pages/tag.php:2
+#, php-format
+msgid "Notes with the tag %s"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:5
+msgid "There are no notes with this tag."
+msgstr ""
+
+#: themes/transparency/pages/tag.php:26 themes/transparency/pages/tag.php:37
+#: themes/transparency/pages/tag.php:48 themes/transparency/pages/tag.php:59
+msgid "There is not enough data to gererate statistics"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:63
+msgid "Tags statistics"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:67
+msgid "Today"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:68
+msgid "Last week"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:69
+msgid "Last month"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:70
+msgid "Everytime"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:122
+msgid "Tags with better writing rate"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:128
+msgid "Number of notes"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:147
+msgid "Users that created more tags"
+msgstr ""
+
+#: themes/transparency/pages/tag.php:152
+msgid "Created tags"
+msgstr ""
+
+#: themes/transparency/pages/trouble_login.php:3
+msgid ""
+"If you cannot login into your account, choose an option from the forms below"
+msgstr ""
+
+#: themes/transparency/pages/trouble_login.php:8
+msgid "Resend activation mail..."
+msgstr "重新发送激活邮件..."
+
+#: themes/transparency/pages/trouble_login.php:9
+msgid ""
+"If you didnt receive your activation email, you can try resending it from "
+"here. Just typing your username"
+msgstr "如果您没收到激活邮件，尝试从这里重新请求发送，只需输入您的用户名。"
+
+#: themes/transparency/pages/trouble_login.php:13
+msgid "Recover password..."
+msgstr "重设密码"
+
+#: themes/transparency/pages/trouble_login.php:14
+msgid ""
+"You can recover your password just typing your email or your username. An "
+"email will be delivered to the linked account"
+msgstr "你只需填入用户名或邮箱地址就可以恢复你的密码，重设密码邮件会发送到您帐号关联的邮箱。"
